@@ -29,11 +29,11 @@ http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1 tvg-id="Alsat M MK" tvg-logo="https://www.jagledam.com/logo/alsatm.jpg" tvg-name="Alsat M MK" group-title="Macedonia",Alsat M MK
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
 #EXTINF:-1 tvg-id="Alternativna ATV" tvg-logo="https://www.jagledam.com/logo/logoatv.jpg" tvg-name="Alternativna ATV" group-title="Bosnia Herzegovina",Alternativna ATV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/6893.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/6893.m3u8
 #EXTINF:-1 tvg-id="B92" tvg-logo="https://www.jagledam.com/logo/logob92.jpg" tvg-name="B92" group-title="Serbia",B92
 http://46.240.130.158/B92/index.m3u8?token=test
 #EXTINF:-1 tvg-id="TV Belle Amie" tvg-logo="https://www.jagledam.com/logo/belleamie.jpg" tvg-name="TV Belle Amie" group-title="Serbia",TV Belle Amie
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/65848.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/65848.m3u8
 #EXTINF:-1 tvg-id="BHT 1" tvg-logo="https://www.jagledam.com/logo/logobht.jpg" tvg-name="BHT 1" group-title="Bosnia Herzegovina",BHT 1
 https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
 #EXTINF:-1 tvg-id="BN" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0 tvg-logo="https://www.jagledam.com/logo/logobn.jpg" tvg-name="BN" group-title="Bosnia Herzegovina",BN
@@ -47,23 +47,23 @@ http://fms.zulu.mk:554/zulu/btr_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cegrani Media" tvg-logo="https://www.jagledam.com/logo/logocergani.jpg" tvg-name="Cegrani Media" group-title="Kosovo",Cegrani Media
 http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/146.m3u8
 #EXTINF:-1 tvg-id="Dobra TV" tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg" tvg-name="Dobra TV" group-title="Bosnia Herzegovina",Dobra TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197589
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/197589
 #EXTINF:-1tvg-id=""tvg-name="DOBRA BALKANSKA"tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png"group-title="Bosnia Herzegovina",DOBRA BALKANSKA
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/295235
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/295235
 #EXTINF:-1tvg-id=""tvg-name="DOBRA DJECIJA"tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg"group-title="Bosnia Herzegovina",DOBRA DJECIJA
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/295230
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/295230
 #EXTINF:-1tvg-id=""tvg-name="DOBRA Croatia"tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg"group-title="Bosnia Herzegovina",DOBRA Croatia
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/295229
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/295229
 #EXTINF:-1tvg-id=""tvg-name="DOBRA ISLAMSKA"tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg"group-title="Bosnia Herzegovina",DOBRA ISLAMSKA
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/295228
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/295228
 #EXTINF:-1 tvg-id="Doma" tvg-logo="https://www.jagledam.com/logo/logodoma.jpg" tvg-name="Doma" group-title="Croatia",Doma
 http://46.240.130.158/DomaTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Duga" tvg-logo="https://www.jagledam.com/logo/logoduga.jpg" tvg-name="Duga" group-title="Serbia",Duga
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 #EXTINF:-1 tvg-id="Elta HD" tvg-logo="https://www.jagledam.com/logo/logoelta.jpg" tvg-name="Elta HD" group-title="Bosnia Herzegovina",Elta HD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/192034
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/192034
 #EXTINF:-1 tvg-id="" tvg-name="Elta 2"tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/22a675ff78c1f390c5b2d68944b13186.png"group-title="Bosnia Herzegovina",Elta 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/267611
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/267611
 #EXTINF:-1 tvg-id="Face TV" tvg-logo="https://www.jagledam.com/logo/logoface.jpg" tvg-name="Face TV" group-title="Bosnia Herzegovina",Face TV
 http://195.222.53.136:8080/face/index.m3u8
 #EXTINF:-1 tvg-id="Federalna Televizija" tvg-logo="https://www.jagledam.com/logo/logoftv.jpg" tvg-name="Federalna Televizija" group-title="Bosnia Herzegovina",Federalna Televizija
@@ -71,7 +71,7 @@ http://195.222.53.136:8080/ftv/index.m3u8
 #EXTINF:-1 tvg-id="Gea TV" tvg-logo="https://www.jagledam.com/logo/logogea.jpg" tvg-name="Gea TV" group-title="Slovenija",Gea TV
 http://www.jagledam.com/kanal.php?kanal=574
 #EXTINF:-1 tvg-id="H1 Hugo TV" tvg-logo="https://www.jagledam.com/logo/logoh1.jpg" tvg-name="H1 Hugo TV" group-title="Macedonia",H1 Hugo TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/23472
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/23472
 #EXTINF:-1 tvg-id="H2 Hugo TV" tvg-logo="https://www.jagledam.com/logo/logoh2.jpg" tvg-name="H2 Hugo TV" group-title="Macedonia",H2 Hugo TV
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 #EXTINF:-1 tvg-id="Happy TV" tvg-logo="https://www.jagledam.com/logo/logohappy.jpg" tvg-name="Happy TV" group-title="Serbia",Happy TV
@@ -86,21 +86,21 @@ http://178.217.15.36/hrt1/video.m3u8
 #EXTVLCOPT:http-referrer=https://bhtelecom.ba/
 https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
 #EXTINF:-1 tvg-id="HRT 2" tvg-logo="https://www.jagledam.com/logo/logohrt2.jpg" tvg-name="HRT 2" group-title="Croatia",HRT 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3394
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3394
 #EXTINF:-1 tvg-id="HRT 3" tvg-logo="https://www.jagledam.com/logo/logohrt3.jpg" tvg-name="HRT 3" group-title="Croatia",HRT 3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3395
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3395
 #EXTINF:-1 tvg-id="HRT 4" tvg-logo="https://www.jagledam.com/logo/logohrt4.jpg" tvg-name="HRT 4" group-title="Croatia",HRT 4
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3396
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3396
 #EXTINF:-1 tvg-id="HRT int" tvg-logo="https://www.jagledam.com/logo/logohrtint.jpg" tvg-name="HRT int" group-title="Croatia",HRT int
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/16583
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/16583
 #EXTINF:-1 tvg-id="Kanal 3" tvg-logo="https://www.jagledam.com/logo/logokanal3.jpg" tvg-name="Kanal 3" group-title="Serbia",Kanal 3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/603
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/603
 #EXTINF:-1 tvg-id="Kanal 5" tvg-logo="https://www.jagledam.com/logo/logokanal5.jpg" tvg-name="Kanal 5" group-title="Macedonia",Kanal 5
 http://51.195.90.133:8081/tvstanici/2/KANAL-5-mk-AM-playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal 5 Plus" tvg-logo="https://www.jagledam.com/logo/plus5.jpg" tvg-name="Kanal 5 Plus" group-title="Macedonia",Kanal 5 Plus
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_Plus_MK)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="K1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/3e1bc424a9296a9f1662551ae8f22950.png" group-title="Serbia",K1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/286764
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/286764
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 10" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6cd3e8271a25dd39fa5e860deb643758.jpg" group-title="Serbia",Kanal 10
 https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/yky0y1.m3u8
 #EXTINF:-1 tvg-id="KCN 1" tvg-logo="https://www.jagledam.com/logo/logokcn1.jpg" tvg-name="KCN 1" group-title="Serbia",KCN 1
@@ -126,49 +126,49 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
 #EXTINF:-1 tvg-id="MRT 2 sat" tvg-logo="https://www.jagledam.com/logo/logomrtsat2.jpg" tvg-name="MRT 2 sat" group-title="Macedonia",MRT 2 sat
 https://vod-c57.interspace.com/channel_abr/46/receiver/46_p4/chunks.m3u8?nimblesessionid=3512479&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIzIDM6MTE6MjAgUE0maGFzaF92YWx1ZT1NT2k5aVgvRlRzTkhMMVRlV2pWNHVBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY0MjMwMzk4NTcyNGI=
 #EXTINF:-1 tvg-id="MRT 4" tvg-logo="https://www.jagledam.com/logo/logomrt4.jpg" tvg-name="MRT 4" group-title="Macedonia",MRT 4
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/266468
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/266468
 #EXTINF:-1 tvg-id="MTM 1 Skopska" tvg-logo="https://www.jagledam.com/logo/logomtm.jpg" tvg-name="MTM 1 Skopska" group-title="Macedonia",MTM 1 Skopska
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157362
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/157362
 #EXTINF:-1 tvg-id="Nasa" tvg-logo="https://www.jagledam.com/logo/logonasha.jpg" tvg-name="Nasa" group-title="Serbia",Nasa
 http://178.217.15.36/nasatv/video.m3u8
 #EXTINF:-1 tvg-id="Naša TV" tvg-logo="https://www.jagledam.com/logo/nasatv.jpg" tvg-name="Naša TV" group-title="Macedonia",Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="Nova BH" tvg-logo="https://www.jagledam.com/logo/logonovabh.jpg" tvg-name="Nova BH" group-title="Bosnia Herzegovina",Nova BH
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3408
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3408
 #EXTINF:-1 tvg-id="Nova MN" tvg-logo="https://www.jagledam.com/logo/logonovam.jpg" tvg-name="Nova MN" group-title="Crna Gora",Nova MN
 http://178.217.15.36/novam/video.m3u8
 #EXTINF:-1 tvg-id="Nova M" tvg-logo="https://www.jagledam.com/logo/logonovam.jpg" tvg-name="Nova M" group-title="Crna Gora",Nova M
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/276925.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/276925.m3u8
 #EXTINF:-1 tvg-id="Nova RS" tvg-logo="https://www.jagledam.com/logo/novars.jpg" tvg-name="Nova RS" group-title="Serbia",Nova RS
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10717.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/10717.m3u8
 #EXTINF:-1 tvg-id="Nova S" tvg-logo="https://www.jagledam.com/logo/logonovas.jpg" tvg-name="Nova S" group-title="Serbia",Nova S
 http://178.217.15.36/novas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Nova TV" tvg-logo="https://www.jagledam.com/logo/logonova.jpg" tvg-name="Nova TV" group-title="Croatia",Nova TV
 http://46.240.130.158/NovaTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="O Kanal" tvg-logo="https://www.jagledam.com/logo/logookanal.jpg" tvg-name="O Kanal" group-title="Bosnia Herzegovina",O Kanal
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/58941.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/58941.m3u8
 #EXTINF:-1 tvg-id="OBN" tvg-logo="https://www.jagledam.com/logo/logoobn.jpg" tvg-name="OBN" group-title="Bosnia Herzegovina",OBN
 http://195.222.53.136:8080/obn/index.m3u8
 #EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="https://www.jagledam.com/logo/logootvv.jpg" tvg-name="OTV Valentino" group-title="Bosnia Herzegovina",OTV Valentino
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10721.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/10721.m3u8
 #EXTINF:-1 tvg-id="Palma Plus" tvg-logo="https://www.jagledam.com/logo/logopalmaplus.jpg" tvg-name="Palma Plus" group-title="Serbia",Palma Plus
 http://178.217.15.36/palmaplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Pink 1" tvg-logo="https://www.jagledam.com/logo/logopink.jpg" tvg-name="Pink 1" group-title="Serbia",Pink 1
 https://tv.liveott.online/PINK.m3u8
 #EXTINF:-1 tvg-id="Pink 1" tvg-logo="https://www.jagledam.com/logo/logopink.jpg" tvg-name="Pink 1" group-title="Serbia",Pink 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3413.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3413.m3u8
 #EXTINF:-1 tvg-id="Pink BH" tvg-logo="https://www.jagledam.com/logo/logopinkbh.jpg" tvg-name="Pink BH" group-title="Bosnia Herzegovina",Pink BH
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3416.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3416.m3u8
 #EXTINF:-1 tvg-id="Pink M" tvg-logo="https://www.jagledam.com/logo/logopinkm.jpg" tvg-name="Pink M" group-title="Crna Gora",Pink M
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10725.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/10725.m3u8
 #EXTINF:-1 tvg-id="Pink Plus" tvg-logo="https://www.jagledam.com/logo/logopinkplus.jpg" tvg-name="Pink Plus" group-title="Serbia",Pink Plus
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3425.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3425.m3u8
 #EXTINF:-1 tvg-id="Pink World" tvg-logo="https://www.jagledam.com/logo/logopinkworld.jpg" tvg-name="Pink World" group-title="Serbia",Pink World
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4188.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/4188.m3u8
 #EXTINF:-1 tvg-id="Planet TV" tvg-logo="https://www.jagledam.com/logo/planettv.jpg" tvg-name="Planet TV" group-title="Slovenija",Planet TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/5572.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/5572.m3u8
 #EXTINF:-1 tvg-id="POP TV" tvg-logo="https://www.jagledam.com/logo/logopop.jpg" tvg-name="POP TV" group-title="Slovenija",POP TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/5570.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/5570.m3u8
 #EXTINF:-1 tvg-id="Prva Plus" tvg-logo="https://www.jagledam.com/logo/logoprvaplus.jpg" tvg-name="Prva Plus" group-title="Serbia",Prva Plus
 http://46.240.143.86/PrvaPlus/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="Prva TV" tvg-logo="https://www.jagledam.com/logo/logoprva.jpg" tvg-name="Prva TV" group-title="Serbia",Prva TV
@@ -248,7 +248,7 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTV Zenica" tvg-logo="https://www.jagledam.com/logo/logortvzenica.jpg" tvg-name="RTV Zenica" group-title="Bosnia Herzegovina",RTV Zenica
 https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-id="Sahar TV BiH" tvg-logo="https://www.jagledam.com/logo/logosahar.jpg" tvg-name="Sahar TV BiH" group-title="Bosnia Herzegovina",Sahar TV BiH
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/287791.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/287791.m3u8
 #EXTINF:-1 tvg-id="Shutel" tvg-logo="https://www.jagledam.com/logo/shutel.jpg" tvg-name="Shutel" group-title="Macedonia",Shutel
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
 #EXTINF:-1 tvg-id="Sitel" http-referrer=http://zultv.com/ tvg-logo="https://www.jagledam.com/logo/logositel.jpg" tvg-name="Sitel" group-title="Macedonia",Sitel
@@ -271,7 +271,7 @@ https://live.tsd-tv.com/live/tsd.m3u8
 #EXTINF:-1 tvg-id="TV 2 Gostivar" tvg-logo="https://www.jagledam.com/logo/logotv2gostivar.jpg" tvg-name="TV 2 Gostivar" group-title="Macedonia",TV 2 Gostivar
 http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TV 21" tvg-logo="https://www.jagledam.com/logo/logotv21.jpg" tvg-name="TV 21" group-title="Macedonia",TV 21
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4083.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/4083.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T7" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/97ef52d127071d0279f4e16da7517039.png" group-title="Serbia",T7
 https://ub1doy938d.gjirafa.net/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/yzg0yt480/index.m3u8
 #EXTINF:-1 tvg-id="TV 777" tvg-logo="https://www.jagledam.com/logo/logo777.jpg" tvg-name="TV 777" group-title="Crna Gora",TV 777
@@ -293,9 +293,9 @@ https://live.rednet.rs/providus/instatv_hq/index.m3u8
 #EXTINF:-1 tvg-id="Una TV SR" tvg-logo="https://www.jagledam.com/logo/logounatv.jpg" tvg-name="Una TV SR" group-title="Serbia",Una TV SR
 http://178.217.15.36/tvuna/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="https://www.jagledam.com/logo/logovizionplus.jpg" tvg-name="Vizion Plus" group-title="Kosovo",Vizion Plus
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1299.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/1299.m3u8
 #EXTINF:-1 tvg-id="Zico TV" tvg-logo="https://www.jagledam.com/logo/logozico.jpg" tvg-name="Zico TV" group-title="Kosovo",Zico TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/23150.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/23150.m3u8
 #EXTINF:-1 tvg-id="Zjarr TV" tvg-logo="https://www.jagledam.com/logo/logozjarr.jpg" tvg-name="Zjarr TV" group-title="Kosovo",Zjarr TV
 
 
@@ -323,15 +323,15 @@ http://178.217.15.36/rtvbor/video.m3u8
 #EXTINF: 1 tvg-id="Bosansko Posavska TV" tvg-logo="https://www.jagledam.com/logo/logobosanskoposavskatv.jpg" tvg-name="Bosansko Posavska TV" group-title="Bosnia Herzegovina",Bosansko Posavska TV
 
 #EXTINF: 1 tvg-id="City TV Mostar" tvg-logo="https://www.jagledam.com/logo/logocitytvbih.jpg" tvg-name="City TV Mostar" group-title="Bosnia Herzegovina",City TV Mostar
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/47614.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/47614.m3u8
 #EXTINF: 1 tvg-id="Dasma TV" tvg-logo="https://www.jagledam.com/logo/logodasmatv.jpg" tvg-name="Dasma TV" group-title="Kosovo",Dasma TV
 http://93.157.62.180/DasmaTV/index.m3u8
 #EXTINF: 1 tvg-id="Diadora" tvg-logo="https://www.jagledam.com/logo/logodiadoratv.jpg" tvg-name="Diadora" group-title="Croatia",Diadora
 https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF: 1 tvg-id="DMC" tvg-logo="https://www.jagledam.com/logo/logodmc.jpg" tvg-name="DMC" group-title="Croatia",DMC
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1263.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/1263.m3u8
 #EXTINF: 1 tvg-id="Dubrovacka TV" tvg-logo="https://www.jagledam.com/logo/logodutv.jpg" tvg-name="Dubrovacka TV" group-title="Croatia",Dubrovacka TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/285311.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/285311.m3u8
 #EXTINF: 1 tvg-id="ERA" tvg-logo="https://www.jagledam.com/logo/era.jpg" tvg-name="ERA" group-title="Macedonia",ERA
 http://93.157.62.180/EraTV/index.m3u8
 #EXTINF: 1 tvg-id="Exodus TV" tvg-logo="https://i.imgur.com/wokyuql.png" tvg-name="Exodus TV" group-title="Slovenija",Exodus TV
@@ -345,17 +345,17 @@ http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF: 1 tvg-id="GTV" tvg-logo="https://www.jagledam.com/logo/logogtv.jpg" tvg-name="GTV" group-title="Slovenija",GTV
 http://91.220.221.60/gtv_hls/gtv_03.m3u8
 #EXTINF: 1 tvg-id="Hema TV" tvg-logo="https://www.jagledam.com/logo/logohema.jpg" tvg-name="Hema TV" group-title="Bosnia Herzegovina",Hema TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/28142.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/28142.m3u8
 #EXTINF:-1xui-id="Herceg TV"tvg-id=""tvg-name="Herceg TV"tvg-logo="https://nebojsavukanovic.info/wp-content/uploads/2017/10/Herceg_TV_logo.png"group-title="Crna Gora",Herceg TV
 
 #EXTINF: 1 tvg-id="Jabuka TV" tvg-logo="https://www.jagledam.com/logo/logojabuka.jpg" tvg-name="Jabuka TV" group-title="Croatia",Jabuka TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/295172.ts
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/295172.ts
 #EXTINF: 1 tvg-id="Jadran" tvg-logo="https://www.jagledam.com/logo/logojadran.jpg" tvg-name="Jadran" group-title="Croatia",Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF: 1 tvg-id="Jedinstvo TV" tvg-logo="https://www.jagledam.com/logo/logojedinstvotv.jpg" tvg-name="Jedinstvo TV" group-title="Serbia",Jedinstvo TV
 http://178.132.6.97:8080/JedinstvoTV/index.m3u8
 #EXTINF: 1 tvg-id="K3" tvg-logo="https://www.jagledam.com/logo/logok3.jpg" tvg-name="K3" group-title="Bosnia Herzegovina",K3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/47613.ts
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/47613.ts
 #EXTINF: 1 tvg-id="K3 Kumanovo" tvg-logo="https://www.jagledam.com/logo/logok3kumanovo.jpg" tvg-name="K3 Kumanovo" group-title="Macedonia",K3 Kumanovo
 http://Macedonia-tv.cdn.spectar.tv/Macedonia-tv/k3-tv-kumanovo/playlist.m3u8
 #EXTINF: 1 tvg-id="Kanal 6" tvg-logo="https://www.jagledam.com/logo/logokanal6.jpg" tvg-name="Kanal 6" group-title="Bosnia Herzegovina",Kanal 6
@@ -369,7 +369,7 @@ https://player.twitch.tv/?channel=kanal_9ns&parent=kanal9tv.com&player=m3u8
 #EXTINF: 1 tvg-id="Kanal A" tvg-logo="https://i.imgur.com/JHNpcqF.png" tvg-name="Kanal A" group-title="Slovenija",Kanal A
 https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF: 1 tvg-id="Kanal Ri" tvg-logo="https://www.jagledam.com/logo/logokanalri.jpg" tvg-name="Kanal Ri" group-title="Croatia",Kanal Ri
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/65814.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/65814.m3u8
 #EXTINF: 1 tvg-id="Kanal Vis" http-referrer=https://www.kanalvis.com/ tvg-logo="https://www.jagledam.com/logo/logokanalvis.jpg" tvg-name="Kanal Vis" group-title="Macedonia",Kanal Vis
 #EXTVLCOPT:http-referrer=https://www.kanalvis.com/
 https://vsd201.mycdn.me/hls/index.m3u8
@@ -404,7 +404,7 @@ http://datacentar.info/live/Kenyali/skypetest/2101.m3u8
 #EXTINF: 1 tvg-id="NTV Serbia" tvg-logo="https://www.jagledam.com/logo/logontv.jpg" tvg-name="NTV Serbia" group-title="Serbia",NTV Serbia
 http://178.217.15.36/ntv/tracks-v1a1/mono.m3u8
 #EXTINF: 1 tvg-id="NTVIC Kakanj" tvg-logo="https://www.jagledam.com/logo/logokakanj.jpg" tvg-name="NTVIC Kakanj" group-title="Bosnia Herzegovina",NTVIC Kakanj
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/65946.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/65946.m3u8
 #EXTINF: 1 tvg-id="Osjecka TV" tvg-logo="https://www.jagledam.com/logo/osjecka.jpg" tvg-name="Osjecka TV" group-title="Croatia",Osjecka TV
 https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/236533877.secure.m3u8?dw=80&hdnea=st=1686610494~exp=1686612294~acl=/i/27681961_8347875_lsipcyp0wepi0owtdxb_1@370203/*~hmac=93c916d0bc00b61706081d6de04ce3aafb47e88c370e91005ce1826ca77af1e1&token=6487a36a_faa846cd6c378bfd015f1014e858c66f5852d407
 #EXTINF: 1 tvg-id="OSM TV" tvg-logo="https://www.jagledam.com/logo/logoosm.jpg" tvg-name="OSM TV" group-title="Bosnia Herzegovina",OSM TV
@@ -439,7 +439,7 @@ http://45.92.110.243:80/play/nDlvA26Ss7TrEyr4oZ48ZFGGSOO-lNZy0-p4c48Ni24kNErqDqg
 #EXTINF: 1 tvg-id="RTV City Ub" tvg-logo="https://www.jagledam.com/logo/logotvcityub.jpg" tvg-name="RTV City Ub" group-title="Serbia",RTV City Ub
 http://109.72.57.12/hls/tvcityub.m3u8
 #EXTINF: 1 tvg-id="RTV HIT" tvg-logo="https://www.jagledam.com/logo/logohittv.jpg" tvg-name="RTV HIT" group-title="Bosnia Herzegovina",RTV HIT
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/47618.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/47618.m3u8
 #EXTINF: 1 tvg-id="RTV Jug" tvg-logo="https://www.jagledam.com/logo/logojug.jpg" tvg-name="RTV Jug" group-title="Serbia",RTV Jug
 http://178.132.6.97:8080/JugTV/index.m3u8
 #EXTINF: 1 tvg-id="RTV Jug" tvg-logo="https://www.jagledam.com/logo/logojug.jpg" tvg-name="RTV Jug" group-title="Serbia",RTV Jug
@@ -476,7 +476,7 @@ http://178.132.6.97:8080/SandzackaTVMreza1/tracks-v1a1/index.m3u8
 #EXTINF: 1 tvg-id="Sat TV Pozarevac" tvg-logo="https://www.jagledam.com/logo/logosattv.jpg" tvg-name="Sat TV Pozarevac" group-title="Serbia",Sat TV Pozarevac
 http://178.217.15.36/sattv/video.m3u8
 #EXTINF: 1 tvg-id="SB TV" tvg-logo="https://www.jagledam.com/logo/logosbtv.jpg" tvg-name="SB TV" group-title="Croatia",SB TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/65827.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/65827.m3u8
 #EXTINF: 1 tvg-id="Slon Info" http-user-agent=User-Agent=Mozilla/5.0 tvg-logo="https://www.jagledam.com/logo/logoslonextrainfo.jpg" tvg-name="Slon Info" group-title="Bosnia Herzegovina",Slon Info
 #EXTVLCOPT:http-user-agent=User-Agent=Mozilla/5.0
 http://31.47.8.10:8081/
@@ -544,7 +544,7 @@ http://de2-2.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvpl
 #EXTINF: 1 tvg-id="TV LLapi" tvg-logo="https://www.jagledam.com/logo/logotvllapi.jpg" tvg-name="TV LLapi" group-title="Kosovo",TV LLapi
 
 #EXTINF: 1 tvg-id="TV Maribor" tvg-logo="https://www.jagledam.com/logo/logomaribor.jpg" tvg-name="TV Maribor" group-title="Slovenija",TV Maribor
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/5636.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/5636.m3u8
 #EXTINF: 1 tvg-id="TV Most" tvg-logo="https://www.jagledam.com/logo/logotvmost.jpg" tvg-name="TV Most" group-title="Serbia",TV Most
 http://178.217.15.36/most/tracks-v1a1/mono.m3u8
 #EXTINF: 1 tvg-id="TV Nova" tvg-logo="https://www.jagledam.com/logo/logotvnova.jpg" tvg-name="TV Nova" group-title="Croatia",TV Nova
@@ -558,7 +558,7 @@ https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF: 1 tvg-id="TV Raska" tvg-logo="https://www.jagledam.com/logo/tvraska.jpg" tvg-name="TV Raska" group-title="Serbia",TV Raska
 http://www.ustream.tv/embed/12823637?v=3&wmode=direct
 #EXTINF: 1 tvg-id="TV SA" tvg-logo="https://www.jagledam.com/logo/tvsa.jpg" tvg-name="TV SA" group-title="Bosnia Herzegovina",TV SA
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3454.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3454.m3u8
 #EXTINF: 1 tvg-id="TV Sharri" tvg-logo="https://www.jagledam.com/logo/logotvsharri.jpg" tvg-name="TV Sharri" group-title="Kosovo",TV Sharri
 
 #EXTINF: 1 tvg-id="TV Subotica" tvg-logo="https://www.jagledam.com/logo/logotvsubotica.jpg" tvg-name="TV Subotica" group-title="Serbia",TV Subotica
@@ -580,7 +580,7 @@ http://45.92.110.243:80/play/nDlvA26Ss7TrEyr4oZ48ZCytWszgxLLEzqJ619AbsKNNtls0YXu
 #EXTINF: 1 tvg-id="Vikom" tvg-logo="https://www.jagledam.com/logo/logovikom.jpg" tvg-name="Vikom" group-title="Bosnia Herzegovina",Vikom
 
 #EXTINF: 1 tvg-id="Vinkovacka TV" tvg-logo="https://www.jagledam.com/logo/logovinkovacka.jpg" tvg-name="Vinkovacka TV" group-title="Croatia",Vinkovacka TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/65836.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/65836.m3u8
 #EXTINF: 1 tvg-id="Vlasotince TV" tvg-logo="https://www.jagledam.com/logo/logovlasotince.jpg" tvg-name="Vlasotince TV" group-title="Serbia",Vlasotince TV
 https://frn.rtsp.me/VPrbvTEh-ETKk_rLTSXH_g/1639745487/hls/G65nDKKN.m3u8?ip=109.227.21.246
 #EXTINF: 1 tvg-id="VTV Valjevo" tvg-logo="https://www.jagledam.com/logo/logovtvvaljevo.jpg" tvg-name="VTV Valjevo" group-title="Serbia",VTV Valjevo
@@ -603,31 +603,31 @@ http://178.217.15.36/24kitchen/video.m3u8
 #EXTINF:-1 tvg-id="Altea" tvg-logo="https://www.jagledam.com/logo/logoaltea.jpg" tvg-name="Altea"group-title="Zabavni",Altea
 https://tvaltea.ovh/live/stream.m3u8
 #EXTINF:-1 tvg-id="Astro 24h" tvg-logo="https://www.jagledam.com/logo/logoastro24h.jpg" tvg-name="Astro 24h"group-title="Zabavni",Astro 24h
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298138.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/298138.m3u8
 #EXTINF:-1 tvg-id="BBC earth" tvg-logo="https://www.jagledam.com/logo/logobbcearth.jpg" tvg-name="BBC earth"group-title="Zabavni",BBC earth
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/24924.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/24924.m3u8
 #EXTINF:-1 tvg-id="bit tv" tvg-logo="https://www.jagledam.com/logo/logobittv.jpg" tvg-name="bit tv"group-title="Zabavni",bit tv
 
 #EXTINF:-1 tvg-id="CBS Reality" tvg-logo="https://www.jagledam.com/logo/logocbsreality.jpg" tvg-name="CBS Reality"group-title="Zabavni",CBS Reality
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/36914.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/36914.m3u8
 #EXTINF:-1 tvg-id="Comedy Central Extra" tvg-logo="https://www.jagledam.com/logo/logocomedycentralextra.jpg" tvg-name="Comedy Central Extra"group-title="Zabavni",Comedy Central Extra
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1118.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/1118.m3u8
 #EXTINF:-1 tvg-id="FashionBox" tvg-logo="https://www.jagledam.com/logo/logofashionbox.jpg" tvg-name="FashionBox"group-title="Zabavni",FashionBox
 http://178.217.15.36/fashionbox/video.m3u8
 #EXTINF:-1 tvg-id="Fine Living" tvg-logo="https://www.jagledam.com/logo/logofineliving.jpg" tvg-name="Fine Living"group-title="Zabavni",Fine Living
 
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://www.jagledam.com/logo/logofoodnetwork.jpg" tvg-name="Food Network"group-title="Zabavni",Food Network
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/65862.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/65862.m3u8
 #EXTINF:-1 tvg-id="Fox Crime" tvg-logo="https://www.jagledam.com/logo/logofoxcrime.jpg" tvg-name="Fox Crime"group-title="Zabavni",Fox Crime
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/192047.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/192047.m3u8
 #EXTINF:-1 tvg-id="Fox Life" tvg-logo="https://www.jagledam.com/logo/logofoxlife.jpg" tvg-name="Fox Life"group-title="Zabavni",Fox Life
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/16594.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/16594.m3u8
 #EXTINF:-1 tvg-id="GINX" tvg-logo="https://www.jagledam.com/logo/logoginx.jpg" tvg-name="GINX"group-title="Zabavni",GINX
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/15913.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/15913.m3u8
 #EXTINF:-1 tvg-id="Kitchen TV" tvg-logo="https://www.jagledam.com/logo/logokitchen.jpg" tvg-name="Kitchen TV"group-title="Zabavni",Kitchen TV
 
 #EXTINF:-1 tvg-id="Lov i Ribolov" tvg-logo="https://www.jagledam.com/logo/logolovribolov.jpg" tvg-name="Lov i Ribolov"group-title="Zabavni",Lov i Ribolov
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/36892.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/36892.m3u8
 #EXTINF:-1 tvg-id="LUXE TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/luxe_tv_logo.png" tvg-name="LUXE TV"group-title="Zabavni",LUXE TV
 https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="News Bar" tvg-logo="https://www.jagledam.com/logo/logonewsbar.jpg" tvg-name="News Bar"group-title="Zabavni",News Bar
@@ -635,7 +635,7 @@ https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OKK" tvg-logo="https://www.jagledam.com/logo/logookk.jpg" tvg-name="OKK"group-title="Zabavni",OKK
 https://muzzik-live.morescreens.com/mts-2/chunklist.m3u8
 #EXTINF:-1 tvg-id="Parovi Reality Show" tvg-logo="https://www.jagledam.com/logo/logoparovi_jagledam.jpg" tvg-name="Parovi Reality Show"group-title="Zabavni",Parovi Reality Show
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/13448.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/13448.m3u8
 #EXTINF:-1 tvg-id="Pink Extra" tvg-logo="https://www.jagledam.com/logo/pinkextra.jpg" tvg-name="Pink Extra"group-title="Zabavni",Pink Extra
 http://46.240.130.158/PinkExtra/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Pink Family" tvg-logo="https://www.jagledam.com/logo/logopinkfamily.jpg" tvg-name="Pink Family"group-title="Zabavni",Pink Family
@@ -683,13 +683,13 @@ http://v.tf.rs/liveedge/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://www.jagledam.com/logo/logotlc.jpg" tvg-name="TLC"group-title="Zabavni",TLC
 http://185.6.22.6:8000/play/a034
 #EXTINF:-1 tvg-id="Zadruga Reality 1" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" tvg-name="Zadruga Reality 1"group-title="Zabavni",Zadruga Reality 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3410.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3410.m3u8
 #EXTINF:-1 tvg-id="Zadruga Reality 2" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" tvg-name="Zadruga Reality 2"group-title="Zabavni",Zadruga Reality 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3411.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3411.m3u8
 #EXTINF:-1 tvg-id="Zadruga Reality 3" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" tvg-name="Zadruga Reality 3"group-title="Zabavni",Zadruga Reality 3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3412.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3412.m3u8
 #EXTINF:-1 tvg-id="Zadruga Reality 4" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" tvg-name="Zadruga Reality 4"group-title="Zabavni",Zadruga Reality 4
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/80321.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/80321.m3u8
 #EXTINF:-1 tvg-id="Zenska TV" tvg-logo="https://www.jagledam.com/logo/logozenskatv.jpg" tvg-name="Zenska TV"group-title="Zabavni",Zenska TV
 
 #EXTINF:-1 tvg-id="4Music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" group-title="Muzički",4Music
@@ -715,7 +715,7 @@ https://5b57bb229a2e6.streamlock.net/live/banovina/playlist.m3u8
 #EXTINF:-1 tvg-id="bn music" tvg-logo="https://www.jagledam.com/logo/logobnmusic.jpg" tvg-name="bn music" group-title="Muzički",bn music
 http://195.222.53.136:8080/bnmusic/index.m3u8
 #EXTINF:-1 tvg-id="Bravo Music" tvg-logo="https://www.jagledam.com/logo/logobravomusic.jpg" tvg-name="Bravo Music" group-title="Muzički",Bravo Music
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/67550.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/67550.m3u8
 #EXTINF:-1 tvg-id="City Play" tvg-logo="https://www.jagledam.com/logo/logopinkcityplay.jpg" tvg-name="City Play" group-title="Muzički",City Play
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:-1 tvg-id="City TV" tvg-logo="https://www.jagledam.com/logo/logocitytv.jpg" tvg-name="City TV" group-title="Muzički",City TV
@@ -741,11 +741,11 @@ https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
 #EXTINF:-1 tvg-id="Folx Music TV" tvg-logo="https://folxplay.tv/logos/mt_neg_b.png" tvg-name="Folx Music TV" group-title="Muzički",Folx Music TV
 https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
 #EXTINF:-1 tvg-id="Grand" tvg-logo="https://www.jagledam.com/logo/logogrand.jpg" tvg-name="Grand" group-title="Muzički",Grand
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4158.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/4158.m3u8
 #EXTINF:-1 tvg-id="Hayat Folk" tvg-logo="https://www.jagledam.com/logo/logohayatfolk.jpg" tvg-name="Hayat Folk" group-title="Muzički",Hayat Folk
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3460.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3460.m3u8
 #EXTINF:-1 tvg-id="Hayat Music" tvg-logo="https://www.jagledam.com/logo/logohayatmusic.jpg" tvg-name="Hayat Music" group-title="Muzički",Hayat Music
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10691.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/10691.m3u8
 #EXTINF:-1 tvg-id="HD Plus" tvg-logo="https://www.jagledam.com/logo/logohdplus.jpg" tvg-name="HD Plus" group-title="Muzički",HD Plus
 http://178.132.6.97:8080/PLUSHDTV/index.m3u8
 #EXTINF:-1 tvg-id="Hi Fi" tvg-logo="https://www.jagledam.com/logo/logohifi.jpg" tvg-name="Hi Fi" group-title="Muzički",Hi Fi
@@ -755,9 +755,9 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In
 #EXTINF:-1 tvg-id="IN TV Australia" tvg-logo="https://www.jagledam.com/logo/logointvaustralia.jpg" tvg-name="IN TV Australia" group-title="Muzički",IN TV Australia
 http://tv1.intv.mk:1935/live/intv/playlist.m3u8
 #EXTINF:-1 tvg-id="Izvorna TV" tvg-logo="https://www.jagledam.com/logo/logoizvornatv.jpg" tvg-name="Izvorna TV" group-title="Muzički",Izvorna TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/20224.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/20224.m3u8
 #EXTINF:-1 tvg-id="Jugoton" tvg-logo="https://www.jagledam.com/logo/logojugoton.jpg" tvg-name="Jugoton" group-title="Muzički",Jugoton
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/20223.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/20223.m3u8
 #EXTINF:-1 tvg-id="Karolina" tvg-logo="https://www.jagledam.com/logo/logokarolina.jpg" tvg-name="Karolina" group-title="Muzički",Karolina
 https://peer.tdiradio.com/static/streaming-playlists/hls/f43b4b5e-7e2e-442d-85a0-4b38fd1c1be7/0.m3u8
 #EXTINF:-1 tvg-id="Klape i tambure" tvg-logo="https://www.jagledam.com/logo/logoklapeitambure.jpg" tvg-name="Klape i tambure" group-title="Muzički",Klape i tambure
@@ -802,19 +802,19 @@ https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
 #EXTINF:-1 tvg-id="Opoja" tvg-logo="https://www.jagledam.com/logo/logoopoja.jpg" tvg-name="Opoja" group-title="Muzički",Opoja
 https://5a1178b42cc03.streamlock.net/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-id="Pink Folk 1" tvg-logo="https://www.jagledam.com/logo/logopinkfolk.jpg" tvg-name="Pink Folk 1" group-title="Muzički",Pink Folk 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3444.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3444.m3u8
 #EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="https://www.jagledam.com/logo/logopinkfolk2.jpg" tvg-name="Pink Folk 2" group-title="Muzički",Pink Folk 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3445.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3445.m3u8
 #EXTINF:-1 tvg-id="Pink Hits" tvg-logo="https://www.jagledam.com/logo/logopinkhits.jpg" tvg-name="Pink Hits" group-title="Muzički",Pink Hits
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/20246.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/20246.m3u8
 #EXTINF:-1 tvg-id="Pink Hits 2" tvg-logo="https://www.jagledam.com/logo/logopinkhits2.jpg" tvg-name="Pink Hits 2" group-title="Muzički",Pink Hits 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3439.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3439.m3u8
 #EXTINF:-1 tvg-id="Pink Koncert" tvg-logo="https://www.jagledam.com/logo/logopinkkoncert.jpg" tvg-name="Pink Koncert" group-title="Muzički",Pink Koncert
 http://46.29.169.15:4001/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="Pink Music" tvg-logo="https://www.jagledam.com/logo/logopinkmusic.jpg" tvg-name="Pink Music" group-title="Muzički",Pink Music
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3442.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3442.m3u8
 #EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="https://www.jagledam.com/logo/logopinkmusic2.jpg" tvg-name="Pink Music 2" group-title="Muzički",Pink Music 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3443.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3443.m3u8
 #EXTINF:-1 tvg-id="Pink n Roll" tvg-logo="https://www.jagledam.com/logo/logopinknroll.jpg" tvg-name="Pink n Roll" group-title="Muzički",Pink n Roll
 http://46.29.169.15:4001/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="Pink Parada" tvg-logo="https://www.jagledam.com/logo/logopinkparada.jpg" tvg-name="Pink Parada" group-title="Muzički",Pink Parada
@@ -879,31 +879,31 @@ https://freestreams.ott.solutions:8443/YuPlanet/asojnd2jsjae/playlist.m3u8
 #EXTINF: 1 tvg id="AMC" tvg-logo="https://www.jagledam.com/logo/logoamc.jpg" tvg-name="AMC"group-title="Filmski",AMC
 http://46.240.130.158/AMC/index.m3u8?token=test
 #EXTINF: 1 tvg id="AXN" tvg-logo="https://www.jagledam.com/logo/logoaxn.jpg" tvg-name="AXN"group-title="Filmski",AXN
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/16585
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/16585
 #EXTINF: 1 tvg id="AXN Spin" tvg-logo="https://www.jagledam.com/logo/logoaxnspin.jpg" tvg-name="AXN Spin"group-title="Filmski",AXN Spin
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/70825
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/70825
 #EXTINF: 1 tvg id="Cinemania" tvg-logo="https://www.jagledam.com/logo/logocinemania.jpg" tvg-name="Cinemania"group-title="Filmski",Cinemania
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/59873
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/59873
 #EXTINF: 1 tvg id="Cinemax" tvg-logo="https://www.jagledam.com/logo/logocinemax.jpg" tvg-name="Cinemax"group-title="Filmski",Cinemax
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/67727
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/67727
 #EXTINF: 1 tvg id="Cinemax 2" tvg-logo="https://www.jagledam.com/logo/logocinemax2.jpg" tvg-name="Cinemax 2"group-title="Filmski",Cinemax 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/26790
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/26790
 #EXTINF: 1 tvg id="Cinestar Action" tvg-logo="https://www.jagledam.com/logo/logocinestaraction.jpg" tvg-name="Cinestar Action"group-title="Filmski",Cinestar Action
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/26785
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/26785
 #EXTINF: 1 tvg id="Cinestar Fantasy" tvg-logo="https://www.jagledam.com/logo/logocinestarfantasy.jpg" tvg-name="Cinestar Fantasy"group-title="Filmski",Cinestar Fantasy
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/5584
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/5584
 #EXTINF: 1 tvg id="Cinestar Premiere 1" tvg-logo="https://www.jagledam.com/logo/logocinestarpremiere1.jpg" tvg-name="Cinestar Premiere 1"group-title="Filmski",Cinestar Premiere 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/192244
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/192244
 #EXTINF: 1 tvg id="Cinestar Premiere 2" tvg-logo="https://www.jagledam.com/logo/logocinestarpremiere2.jpg" tvg-name="Cinestar Premiere 2"group-title="Filmski",Cinestar Premiere 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/192637
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/192637
 #EXTINF: 1 tvg id="Cinestar TV" tvg-logo="https://www.jagledam.com/logo/logocinestar.jpg" tvg-name="Cinestar TV"group-title="Filmski",Cinestar TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/13464
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/13464
 #EXTINF: 1 tvg id="Cinestar TV 2" tvg-logo="https://www.jagledam.com/logo/logocinestar.jpg" tvg-name="Cinestar TV 2"group-title="Filmski",Cinestar TV 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/69754
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/69754
 #EXTINF: 1 tvg id="Epic Drama" tvg-logo="https://www.jagledam.com/logo/logoepicdrama.jpg" tvg-name="Epic Drama"group-title="Filmski",Epic Drama
 http://185.6.22.6:8000/play/a03e
 #EXTINF: 1 tvg id="Film Klub" tvg-logo="https://www.jagledam.com/logo/logofilmklub.jpg" tvg-name="Film Klub"group-title="Filmski",Film Klub
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/5561
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/5561
 #EXTINF: 1 tvg id="Film Klub Extra" tvg-logo="https://www.jagledam.com/logo/logofilmklubextra.jpg" tvg-name="Film Klub Extra"group-title="Filmski",Film Klub Extra
 http://iptvprotocol.dyndns.info:80/live/EirkQOcthP/G4UGv3OIQx/3492
 #EXTINF: 1 tvg id="FilmBox Arthouse" tvg-logo="https://www.jagledam.com/logo/logofilmboxarthouse.jpg" tvg-name="FilmBox Arthouse"group-title="Filmski",FilmBox Arthouse
@@ -913,47 +913,47 @@ http://178.217.15.36/extra/playlist.m3u8
 #EXTINF: 1 tvg id="Filmbox Plus" tvg-logo="https://www.jagledam.com/logo/logofilmboxplus.jpg" tvg-name="Filmbox Plus"group-title="Filmski",Filmbox Plus
 http://46.40.5.99:8000/filmbox_plus_high/playlist.m3u8
 #EXTINF: 1 tvg id="Filmbox Premium" tvg-logo="https://www.jagledam.com/logo/logofilmboxpremium.jpg" tvg-name="Filmbox Premium"group-title="Filmski",Filmbox Premium
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/291138.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/291138.m3u8
 #EXTINF: 1 tvg id="FOX Adria" tvg-logo="https://www.jagledam.com/logo/logofox.jpg" tvg-name="FOX Adria"group-title="Filmski",FOX Adria
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/16586.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/16586.m3u8
 #EXTINF: 1 tvg id="FOX Movies" tvg-logo="https://www.jagledam.com/logo/logofoxmovies.jpg" tvg-name="FOX Movies"group-title="Filmski",FOX Movies
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/16588.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/16588.m3u8
 #EXTINF: 1 tvg id="HBO 2" tvg-logo="https://www.jagledam.com/logo/logohbo2.jpg" tvg-name="HBO 2"group-title="Filmski",HBO 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4161.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/4161.m3u8
 #EXTINF: 1 tvg id="HBO 3" tvg-logo="https://www.jagledam.com/logo/logohbo3.jpg" tvg-name="HBO 3"group-title="Filmski",HBO 3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10696.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/10696.m3u8
 #EXTINF: 1 tvg id="HBO Adria" tvg-logo="https://www.jagledam.com/logo/logohbo.jpg" tvg-name="HBO Adria"group-title="Filmski",HBO Adria
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/6826.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/6826.m3u8
 #EXTINF: 1 tvg id="HBO Comedy" tvg-logo="https://www.jagledam.com/logo/logohbocomedy.jpg" tvg-name="HBO Comedy"group-title="Filmski",HBO Comedy
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/151864.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/151864.m3u8
 #EXTINF: 1 tvg id="Klasik TV" tvg-logo="https://www.jagledam.com/logo/logoklasik.jpg" tvg-name="Klasik TV"group-title="Filmski",Klasik TV
 https://178.253.194.105/klasiktv/playlist.m3u8
 #EXTINF: 1 tvg id="M1 Film" tvg-logo="https://www.jagledam.com/logo/logom1film.jpg" tvg-name="M1 Film"group-title="Filmski",M1 Film
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4173.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/4173.m3u8
 #EXTINF: 1 tvg id="M1 Film Family" tvg-logo="https://www.jagledam.com/logo/logom1film.jpg" tvg-name="M1 Film Family"group-title="Filmski",M1 Film Family
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/297586.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/297586.m3u8
 #EXTINF: 1 tvg id="M1 Gold" tvg-logo="https://www.jagledam.com/logo/logom1gold.jpg" tvg-name="M1 Gold"group-title="Filmski",M1 Gold
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/120690.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/120690.m3u8
 #EXTINF: 1 tvg id="Pink Action" tvg-logo="https://www.jagledam.com/logo/pinkaction.jpg" tvg-name="Pink Action"group-title="Filmski",Pink Action
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3429.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3429.m3u8
 #EXTINF: 1 tvg id="Pink Classic" tvg-logo="https://www.jagledam.com/logo/pinkclassic.jpg" tvg-name="Pink Classic"group-title="Filmski",Pink Classic
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3431.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3431.m3u8
 #EXTINF: 1 tvg id="Pink Comedy" tvg-logo="https://www.jagledam.com/logo/logopinkcomedy.jpg" tvg-name="Pink Comedy"group-title="Filmski",Pink Comedy
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3430.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3430.m3u8
 #EXTINF: 1 tvg id="Pink Crime and Mystery" tvg-logo="https://www.jagledam.com/logo/logopinkcrimeandmystery.jpg" tvg-name="Pink Crime and Mystery"group-title="Filmski",Pink Crime and Mystery
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3434.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3434.m3u8
 #EXTINF: 1 tvg id="Pink Film" tvg-logo="https://www.jagledam.com/logo/logopinkfilm.jpg" tvg-name="Pink Film"group-title="Filmski",Pink Film
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3428.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3428.m3u8
 #EXTINF: 1 tvg id="Pink Horror" tvg-logo="https://www.jagledam.com/logo/pinkhorror.jpg" tvg-name="Pink Horror"group-title="Filmski",Pink Horror
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3437.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3437.m3u8
 #EXTINF: 1 tvg id="Pink Movies" tvg-logo="https://www.jagledam.com/logo/logopinkmovies.jpg" tvg-name="Pink Movies"group-title="Filmski",Pink Movies
 http://46.240.130.158/PinkMovies/index.m3u8?token=test
 #EXTINF: 1 tvg id="Pink premium" tvg-logo="https://www.jagledam.com/logo/logopinkpremium.jpg" tvg-name="Pink premium"group-title="Filmski",Pink premium
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/48.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/48.m3u8
 #EXTINF: 1 tvg id="Pink SciFi and Fantasy" tvg-logo="https://www.jagledam.com/logo/logopinkscifiandfantasy.jpg" tvg-name="Pink SciFi and Fantasy"group-title="Filmski",Pink SciFi and Fantasy
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3423.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3423.m3u8
 #EXTINF: 1 tvg id="Pink Thriller" tvg-logo="https://www.jagledam.com/logo/logopinkthriller.jpg" tvg-name="Pink Thriller"group-title="Filmski",Pink Thriller
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3419.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3419.m3u8
 #EXTINF: 1 tvg id="Pink Western" tvg-logo="https://www.jagledam.com/logo/logopinkwestern.jpg" tvg-name="Pink Western"group-title="Filmski",Pink Western
 http://195.222.53.136:8080/pink-western/index.m3u8
 #EXTINF: 1 tvg id="Pink World Cinema" tvg-logo="https://www.jagledam.com/logo/logopinkworldcinema.jpg" tvg-name="Pink World Cinema"group-title="Filmski",Pink World Cinema
@@ -963,15 +963,15 @@ https://djcm0qygn4i0x.cloudfront.net/rtl-crime/playlist.m3u8
 #EXTINF: 1 tvg id="RTS Drama" tvg-logo="https://www.jagledam.com/logo/logortsdrama.jpg" tvg-name="RTS Drama"group-title="Filmski",RTS Drama
 http://178.217.15.36/rtsdrama/tracks-v1a1/mono.m3u8
 #EXTINF: 1 tvg id="Sci Fi" tvg-logo="https://www.jagledam.com/logo/logoscifi.jpg" tvg-name="Sci Fi"group-title="Filmski",Sci Fi
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4199.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/4199.m3u8
 #EXTINF: 1 tvg id="STAR TV" tvg-logo="https://www.jagledam.com/logo/logostartv.jpg" tvg-name="STAR TV"group-title="Filmski",STAR TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/27418.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/27418.m3u8
 #EXTINF: 1 tvg id="SUPERSTAR 2" tvg-logo="https://www.jagledam.com/logo/logostartv.jpg" tvg-name="SUPERSTAR 2"group-title="Filmski",SUPERSTAR 2
 http://82.118.0.14:8000/play/8
 #EXTINF: 1 tvg id="SHOWTIME" tvg-logo="https://i1.wp.com/tv247us.com/wp-content/uploads/2021/02/showtime.png?fit=240%2C160&ssl=1" tvg-name="SHOWTIME"group-title="Filmski",SHOWTIME
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/765.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/765.m3u8
 #EXTINF: 1 tvg id="TV 1000" tvg-logo="https://www.jagledam.com/logo/logotv1000.jpg" tvg-name="TV 1000"group-title="Filmski",TV 1000
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10759.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/10759.m3u8
 
 #EXTINF:-1 tvg-id="Duna" tvg-logo="https://www.jagledam.com/logo/logoduna.jpg" tvg-name="Duna" group-title="Internacionalni",Duna
 https://c202-node62-cdn.connectmedia.hu/110303/2571ad3c015fbc3d4a85a515a589a6e1/64482b19/index.m3u8?v=5iip:109.175.99.106
@@ -984,14 +984,14 @@ http://46.240.143.86/M2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="M5" tvg-logo="https://www.jagledam.com/logo/logom5.jpg" tvg-name="M5" group-title="Internacionalni",M5
 https://c402-node61-cdn.connectmedia.hu/110305/5aaccd0fb5d541eba699ee03c6203143/64482d13/index.m3u8?v=5iip:109.175.99.106
 #EXTINF:-1 tvg-id="RTL Klub" tvg-logo="https://www.jagledam.com/logo/logortlklub.jpg" tvg-name="RTL Klub" group-title="Internacionalni",RTL Klub
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/23933.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/23933.m3u8
 #EXTINF:-1 tvg-id="Pro 7" tvg-logo="https://laki.eu/files/thumbs/files/images/2020/12/11/thumbs_102/pro7_102_41px.png" tvg-name="Pro 7" group-title="Internacionalni",Pro 7
 http://178.217.15.36/pro7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Baby TV" tvg-logo="https://www.jagledam.com/logo/logobabytv.jpg" tvg-name="Baby TV" group-title="Dječiji",Baby TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/13472.ts
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/13472.ts
 #EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://www.jagledam.com/logo/logoboomerang.jpg" tvg-name="Boomerang" group-title="Dječiji",Boomerang
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/65857.ts
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/65857.ts
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://www.jagledam.com/logo/logocartoonnet.jpg" tvg-name="Cartoon Network" group-title="Dječiji",Cartoon Network
 http://45.92.110.243:80/play/nDlvA26Ss7TrEyr4oZ48ZPEExxVmELoNV_3FJW9o65YwOhi4x0PXUAg0l1vQHg38
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://www.jagledam.com/logo/logodisney.jpg" tvg-name="Disney Channel" group-title="Dječiji",Disney Channel
@@ -1001,11 +1001,11 @@ http://82.135.224.135:88/udp/239.255.1.236:1234
 #EXTINF:-1 tvg-id="Djak TV" tvg-logo="https://www.jagledam.com/logo/logodjaktv.jpg" tvg-name="Djak TV" group-title="Dječiji",Djak TV
 https://srv1.adriatelekom.com/DjakTV/index.m3u8
 #EXTINF:-1 tvg-id="Duck TV" tvg-logo="https://www.jagledam.com/logo/logoducktv.jpg" tvg-name="Duck TV" group-title="Dječiji",Duck TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/144753.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/144753.m3u8
 #EXTINF:-1 tvg-id="Hayatovci" tvg-logo="https://www.jagledam.com/logo/hayatovci.jpg" tvg-name="Hayatovci" group-title="Dječiji",Hayatovci
 http://195.222.53.136:8080/hayatovci/index.m3u8
 #EXTINF:-1 tvg-id="JimJam" tvg-logo="https://www.jagledam.com/logo/logojimjam.jpg" tvg-name="JimJam" group-title="Dječiji",JimJam
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/33604.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/33604.m3u8
 #EXTINF:-1 tvg-id="Mini TV" tvg-logo="https://www.jagledam.com/logo/logominitv.jpg" tvg-name="Mini TV" group-title="Dječiji",Mini TV
 http://45.92.110.243:80/play/nDlvA26Ss7TrEyr4oZ48ZPEExxVmELoNV_3FJW9o65aCS7UKdI-1ENPm7whZF9OW
 #EXTINF:-1 tvg-id="Minimax" tvg-logo="https://www.jagledam.com/logo/logominimax.jpg" tvg-name="Minimax" group-title="Dječiji",Minimax
@@ -1017,9 +1017,9 @@ http://45.92.110.243:80/play/nDlvA26Ss7TrEyr4oZ48ZPEExxVmELoNV_3FJW9o65ask56b-wK
 #EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://www.jagledam.com/logo/logonick.jpg" tvg-name="nickelodeon" group-title="Dječiji",nickelodeon
 http://109.105.205.250:8081/live/NICKELODEON/playlist.m3u8
 #EXTINF:-1 tvg-id="Pink Kids" tvg-logo="https://www.jagledam.com/logo/logopinkkids.jpg" tvg-name="Pink Kids" group-title="Dječiji",Pink Kids
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3438.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3438.m3u8
 #EXTINF:-1 tvg-id="Pink Super Kids" tvg-logo="https://www.jagledam.com/logo/logopinksuperkids.jpg" tvg-name="Pink Super Kids" group-title="Dječiji",Pink Super Kids
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/20250.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/20250.m3u8
 #EXTINF:-1 tvg-id="RTL Kockica" tvg-logo="https://www.jagledam.com/logo/logortlkockica.jpg" tvg-name="RTL Kockica" group-title="Dječiji",RTL Kockica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS Poletarac" tvg-logo="https://www.jagledam.com/logo/logortspoletarac.jpg" tvg-name="RTS Poletarac" group-title="Dječiji",RTS Poletarac
@@ -1030,7 +1030,7 @@ https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-id="AGRO TV" tvg-logo="https://www.jagledam.com/logo/logoagrotv.jpg" tvg-name="AGRO TV" group-title="Dokumentarni",AGRO TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://www.jagledam.com/logo/logoanimalplanet.jpg" tvg-name="Animal Planet" group-title="Dokumentarni",Animal Planet
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4127.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/4127.m3u8
 #EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="https://www.jagledam.com/logo/logodavincilearning.jpg" tvg-name="Da Vinci Learning" group-title="Dokumentarni",Da Vinci Learning
 https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
 #EXTINF:-1 tvg-id="Discovery CI" tvg-logo="https://www.jagledam.com/logo/logodiscoveryci.jpg" tvg-name="Discovery CI" group-title="Dokumentarni",Discovery CI
@@ -1095,13 +1095,13 @@ http://93.87.85.10/PLTV/88888888/224/3221226989/index.m3u8?accountinfo=I4hb%2B1Q
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" tvg-name="Arena Sport 1" group-title="⚽ Sports",Arena Sport 1
 http://94.156.59.247:8899/udp/239.1.3.34:4000
 #EXTINF:-1 tvg-id="Arena Sport 1 BH" tvg-logo="https://www.jagledam.com/logo/logoarenasport1bh.jpg" tvg-name="Arena Sport 1 BH" group-title="⚽ Sports",Arena Sport 1 BH
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/36909.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/36909.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 1 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" tvg-name="Arena Sport 1 HR" group-title="⚽ Sports",Arena Sport 1 HR
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 tvg-id="Arena Sport 1 Premium" tvg-logo="https://www.jagledam.com/logo/logoarenaspot1premium.jpg" tvg-name="Arena Sport 1 Premium" group-title="⚽ Sports",Arena Sport 1 Premium
 http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/62.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 1x2" tvg-logo="https://www.jagledam.com/logo/logoarenasport1x2.jpg" tvg-name="Arena Sport 1x2" group-title="⚽ Sports",Arena Sport 1x2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/296564.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/296564.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" tvg-name="Arena Sport 2" group-title="⚽ Sports",Arena Sport 2
 http://94.156.59.247:8899/udp/239.1.3.35:4000
 #EXTINF:-1 tvg-id="Arena Sport 2 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" tvg-name="Arena Sport 2 HR" group-title="⚽ Sports",Arena Sport 2 HR
@@ -1155,35 +1155,35 @@ https://c401-node62-cdn.connectmedia.hu/110304/e9292caf7d81045193a7bfdefbf16269/
 #EXTINF:-1 tvg-id="M4 Sport Plus" tvg-logo="https://www.jagledam.com/logo/logom4sport.jpg" tvg-name="M4 Sport Plus" group-title="⚽ Sports",M4 Sport Plus
 https://c402-node62-cdn.connectmedia.hu/110306/dd862da2abbcd47e78f13defc909e67f/64482d8f/index.m3u8?v=5iip:109.175.99.106
 #EXTINF:-1 tvg-id="MRT 3" tvg-logo="https://www.jagledam.com/logo/logomrt3.jpg" tvg-name="MRT 3" group-title="⚽ Sports",MRT 3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/24066.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/24066.m3u8
 #EXTINF:-1 tvg-id="Nova Sport" tvg-logo="https://www.jagledam.com/logo/logonovasport.jpg" tvg-name="Nova Sport" group-title="⚽ Sports",Nova Sport
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/84781.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/84781.m3u8
 #EXTINF:-1 tvg-id="SK Fight" tvg-logo="https://www.jagledam.com/logo/logoskfight.jpg" tvg-name="SK Fight" group-title="⚽ Sports",SK Fight
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/67741.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/67741.m3u8
 #EXTINF:-1 tvg-id="Sport Klub 1 SRB" tvg-logo="https://www.jagledam.com/logo/logosportklub1.jpg" tvg-name="Sport Klub 1 SRB" group-title="⚽ Sports",Sport Klub 1 SRB
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3473.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3473.m3u8
 #EXTINF:-1 tvg-id="Sport Klub 2" tvg-logo="https://www.jagledam.com/logo/logosportklub2.jpg" tvg-name="Sport Klub 2" group-title="⚽ Sports",Sport Klub 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3468.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3468.m3u8
 #EXTINF:-1 tvg-id="Sport Klub 3 SR" tvg-logo="https://www.jagledam.com/logo/logosportklub3.jpg" tvg-name="Sport Klub 3 SR" group-title="⚽ Sports",Sport Klub 3 SR
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3469.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3469.m3u8
 #EXTINF:-1 tvg-id="Sport Klub 4" tvg-logo="https://www.jagledam.com/logo/logosportklub4.jpg" tvg-name="Sport Klub 4" group-title="⚽ Sports",Sport Klub 4
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/5563.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/5563.m3u8
 #EXTINF:-1 tvg-id="Sport Klub 5" tvg-logo="https://www.jagledam.com/logo/logosportklub5.jpg" tvg-name="Sport Klub 5" group-title="⚽ Sports",Sport Klub 5
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10752.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/10752.m3u8
 #EXTINF:-1 tvg-id="Sport Klub 6" tvg-logo="https://www.jagledam.com/logo/logosportklub6.jpg" tvg-name="Sport Klub 6" group-title="⚽ Sports",Sport Klub 6
 http://kuchini.site:8080/messie2022/z430Zln8JmVa/3471.m3u8
 #EXTINF:-1 tvg-id="Sport Klub Golf" tvg-logo="https://www.jagledam.com/logo/logosportklubgolf.jpg" tvg-name="Sport Klub Golf" group-title="⚽ Sports",Sport Klub Golf
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/25657.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/25657.m3u8
 #EXTINF:-1 tvg-id="Sport Klub HD" tvg-logo="https://www.jagledam.com/logo/logosportklubhd.jpg" tvg-name="Sport Klub HD" group-title="⚽ Sports",Sport Klub HD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3466.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/3466.m3u8
 #EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="https://www.jagledam.com/logo/logosport1.jpg" tvg-name="Sport TV 1" group-title="⚽ Sports",Sport TV 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/5592.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/5592.m3u8
 #EXTINF:-1 tvg-id="Sport TV 2" tvg-logo="https://www.jagledam.com/logo/logosport2.jpg" tvg-name="Sport TV 2" group-title="⚽ Sports",Sport TV 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/27391.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/27391.m3u8
 #EXTINF:-1 tvg-id="Sport TV 3" tvg-logo="https://www.jagledam.com/logo/logosport3.jpg" tvg-name="Sport TV 3" group-title="⚽ Sports",Sport TV 3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/27398.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/27398.m3u8
 #EXTINF:-1 tvg-id="sportska tv" tvg-logo="https://www.jagledam.com/logo/logosptv.jpg" tvg-name="sportska tv" group-title="⚽ Sports",sportska tv
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4206.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/4206.m3u8
 #EXTINF:-1 tvg-id="Super Sport 1 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport1hd.jpg" tvg-name="Super Sport 1 HD" group-title="⚽ Sports",Super Sport 1 HD
 http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/209.m3u8
 #EXTINF:-1 tvg-id="Super Sport 2 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport2hd.jpg" tvg-name="Super Sport 2 HD" group-title="⚽ Sports",Super Sport 2 HD
@@ -1233,7 +1233,7 @@ http://178.217.15.36/euronews/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://www.rtvslo.si/
 https://cdn-live.rtvslo.si/hls/live/2098829/mmctv1/playlist.m3u8
 #EXTINF: 1 tvg-id="MRT Sobraniski Kanal" tvg-logo="https://www.jagledam.com/logo/logomrt.jpg" tvg-name="MRT Sobraniski Kanal" group-title="Informativni",MRT Sobraniski Kanal
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/265794.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/265794.m3u8
 #EXTINF: 1 tvg-id="Rai Uno" tvg-logo="https://laki.eu/files/thumbs/files/images/2020/12/11/thumbs_102/raiuno_102_41px.png" tvg-name="Rai Uno" group-title="Informativni",Rai Uno
 http://178.217.15.36/raiuno/tracks-v1a1/mono.m3u8
 #EXTINF: 1 tvg-id="N1 info BiH" tvg-logo="https://www.jagledam.com/logo/logon1info.jpg" tvg-name="N1 info BiH" group-title="Informativni",N1 info BiH
@@ -1247,7 +1247,7 @@ https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&
 #EXTINF: 1 tvg-id="news 24" tvg-logo="https://www.jagledam.com/logo/logonews24.jpg" tvg-name="news 24" group-title="Informativni",news 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF: 1 tvg-id="Nova 24 TV" tvg-logo="https://www.jagledam.com/logo/logonova24tv.jpg" tvg-name="Nova 24 TV" group-title="Informativni",Nova 24 TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/5633.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/5633.m3u8
 #EXTINF: 1 tvg-id="TV5 Monde" tvg-logo="https://laki.eu/files/thumbs/files/images/2020/12/11/thumbs_102/tv5monde_102_41px.png" tvg-name="TV5 Monde" group-title="Informativni",TV5 Monde
 http://178.217.15.36/tv5monde/tracks-v1a1/mono.m3u8
 #EXTINF: 1 tvg-id="Vesti (Pink 3 info)" tvg-logo="https://www.jagledam.com/logo/logopink3.jpg" tvg-name="Vesti (Pink 3 info)" group-title="Informativni",Vesti (Pink 3 info)
@@ -1255,7 +1255,7 @@ https://tv.liveott.online/VESTI.m3u8
 #EXTINF: 1 tvg-id="RTCG Parlamentarni" tvg-logo="https://www.jagledam.com/logo/logortcgparlament.jpg" tvg-name="RTCG Parlamentarni" group-title="Informativni",RTCG Parlamentarni
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF: 1 tvg-id="Vijesti CG" tvg-logo="https://www.jagledam.com/logo/logovijesti.jpg" tvg-name="Vijesti CG" group-title="Informativni",Vijesti CG
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/13458.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/13458.m3u8
 
 #EXTINF:-1 tvg-id="Islam MNE TV" tvg-logo="https://www.jagledam.com/logo/logoislammnetv.jpg" tvg-name="Islam MNE TV" group-title="Religijski",Islam MNE TV
 http://45.92.110.243:80/play/nDlvA26Ss7TrEyr4oZ48ZCg-ypIOMhbvWCBES_JTkw5K2Ap8U-zr5hIigkqhTPao/ts
@@ -1268,7 +1268,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
 #EXTINF:-1 tvg-id="Mary TV" tvg-logo="https://www.jagledam.com/logo/logomarytv.jpg" tvg-name="Mary TV" group-title="Religijski",Mary TV
 https://2-fss-2.streamhoster.com/pl_120/amlst:200012-111298/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv Igman" tvg-logo="https://www.jagledam.com/logo/logomtvigman.jpg" tvg-name="mtv Igman" group-title="Religijski",mtv Igman
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/6892.m3u8
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/6892.m3u8
 #EXTINF:-1 tvg-id="Studio 12" tvg-logo="https://www.jagledam.com/logo/logostudio12.jpg" tvg-name="Studio 12" group-title="Religijski",Studio 12
 
 #EXTINF:-1 tvg-id="Super TV" tvg-logo="https://www.jagledam.com/logo/logosupertv.jpg" tvg-name="Super TV" group-title="Religijski",Super TV
@@ -1278,7 +1278,7 @@ https://balkanmedia.dynu.net/hls/tv5web-14936.ts
 #EXTINF:-1 tvg-id="TV Hram" tvg-logo="https://www.jagledam.com/logo/logohramtv.jpg" tvg-name="TV Hram" group-title="Religijski",TV Hram
 http://178.217.15.36/live/hram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zdrava TV" tvg-logo="https://www.jagledam.com/logo/logozdravatv.jpg" tvg-name="Zdrava TV" group-title="Religijski",Zdrava TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/65841
+http://gamsgo.cyou:8080/liveadastream/J2DVrYWnpTu3Sk4W/65841
 #EXTINF:-1 tvg-id="Zdrava TV SLO" tvg-logo="https://www.jagledam.com/logo/logozdravatv.jpg" tvg-name="Zdrava TV SLO" group-title="Religijski",Zdrava TV SLO
 
 #EXTINF:-1 tvg-id="Zdrava TV SR" tvg-logo="https://www.jagledam.com/logo/logozdravatvsr.jpg" tvg-name="Zdrava TV SR" group-title="Religijski",Zdrava TV SR

@@ -36,12 +36,8 @@ http://46.240.130.158/B92/index.m3u8?token=test
 http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/65848.m3u8
 #EXTINF:-1 tvg-id="BHT 1" tvg-logo="https://www.jagledam.com/logo/logobht.jpg" tvg-name="BHT 1" group-title="Bosnia Herzegovina",BHT 1
 https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
-#EXTINF:-1 tvg-id="BN" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0 tvg-logo="https://www.jagledam.com/logo/logobn.jpg" tvg-name="BN" group-title="Bosnia Herzegovina",BN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://dns2.rtvbn.com:8080/live/index.m3u8
-#EXTINF:-1 tvg-id="BN" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0 tvg-logo="https://www.jagledam.com/logo/logobn.jpg" tvg-name="BN" group-title="Bosnia Herzegovina",BN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-http://wslb.dobratv.net:8877/bn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTV BN" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" tvg-name="RTV BN" group-title="Bosnia Herzegovina",RTV BN
+https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="BTR" tvg-logo="https://www.jagledam.com/logo/logobtr.jpg" tvg-name="BTR" group-title="Macedonia",BTR
 http://fms.zulu.mk:554/zulu/btr_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cegrani Media" tvg-logo="https://www.jagledam.com/logo/logocergani.jpg" tvg-name="Cegrani Media" group-title="Kosovo",Cegrani Media
@@ -81,7 +77,7 @@ http://195.222.53.136:8080/hayat/index.m3u8
 #EXTINF:-1 tvg-id="Hayat Plus" tvg-logo="https://www.jagledam.com/logo/logohayatplus.jpg" tvg-name="Hayat Plus" group-title="Bosnia Herzegovina",Hayat Plus
 http://195.222.53.136:8080/hayat-plus/index.m3u8
 #EXTINF:-1 tvg-id="HRT 1" tvg-logo="https://www.jagledam.com/logo/logohrt1.jpg" tvg-name="HRT 1" group-title="Croatia",HRT 1
-http://178.217.15.36/hrt1/video.m3u8
+http://195.222.53.136:8080/hrt1/video.m3u8
 #EXTINF:-1 tvg-id="HRT 1" http-referrer=https://bhtelecom.ba/ tvg-logo="https://www.jagledam.com/logo/logohrt1.jpg" tvg-name="HRT 1" group-title="Croatia",HRT 1
 #EXTVLCOPT:http-referrer=https://bhtelecom.ba/
 https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
@@ -176,7 +172,7 @@ https://tv.liveott.online/PRVA.m3u8
 #EXTINF:-1 tvg-id="Prva TV CG" tvg-logo="https://www.jagledam.com/logo/logoprva.jpg" tvg-name="Prva TV CG" group-title="Crna Gora",Prva TV CG
 http://45.92.110.243:80/play/nDlvA26Ss7TrEyr4oZ48ZEGTMhyFegI7ehRrgYwePhpowpspynIDFof8nPSTxzEB/ts
 #EXTINF:-1 tvg-id="Prva World" tvg-logo="https://www.jagledam.com/logo/logoprvaworld.jpg" tvg-name="Prva World" group-title="Serbia",Prva World
-http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/147.m3u8
+http://46.240.143.86/PrvaWorld/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Red TV" tvg-logo="https://www.jagledam.com/logo/logoredtv.jpg" tvg-name="Red TV" group-title="Serbia",Red TV
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1 tvg-id="Rrokum" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0 tvg-logo="https://www.jagledam.com/logo/logorrokum.jpg" tvg-name="Rrokum" group-title="Kosovo",Rrokum
@@ -193,7 +189,7 @@ https://cdn3.rtcg.me:1936/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 xui-id="433" tvg-id="" tvg-name="RTV Budva" tvg-logo="" group-title="Crna Gora",RTV Budva
 http://45.92.110.243:80/play/nDlvA26Ss7TrEyr4oZ48ZCg-ypIOMhbvWCBES_JTkw5Quz8wkpnHKzGdhp3HrAW8/ts
 #EXTINF:-1 tvg-id="TV Niksic" tvg-logo="https://i.imgur.com/51fGwzn.png" tvg-name="TV Niksic" group-title="Crna Gora",TV Niksic
-http://45.92.110.243:80/play/nDlvA26Ss7TrEyr4oZ48ZCg-ypIOMhbvWCBES_JTkw5oEmt3jEK8Gnnr7g2ybfqy/ts
+https://ythls.onrender.com/channel/$TelevizijaNiksicYT.m3u8
 #EXTINF:-1 xui-id="435" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0 tvg-id="" tvg-name="TV Rozaje" tvg-logo="" group-title="Crna Gora",TV Rozaje
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://player.twitch.tv/?channel=radiotelevizijarozaje&parent=radiorozaje.me
@@ -677,11 +673,11 @@ https://dunfmbmkf5wpd.cloudfront.net/rtl-living/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL Passion" tvg-logo="https://www.jagledam.com/logo/logortlpassion.jpg" tvg-name="RTL Passion"group-title="Zabavni",RTL Passion
 https://d2qz0cwq7kw2wp.cloudfront.net/rtl-passion/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS Zivot" tvg-logo="https://www.jagledam.com/logo/logortszivot.jpg" tvg-name="RTS Zivot"group-title="Zabavni",RTS Zivot
-http://178.217.15.36/rtszivot/tracks-v1a1/mono.m3u8
+http://46.240.130.158/RTSZivot/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Telegraf now" tvg-logo="https://www.jagledam.com/logo/logotelegrafnow.jpg" tvg-name="Telegraf now"group-title="Zabavni",Telegraf now
 http://v.tf.rs/liveedge/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://www.jagledam.com/logo/logotlc.jpg" tvg-name="TLC"group-title="Zabavni",TLC
-http://185.6.22.6:8000/play/a034
+http://212.200.164.212:8080/TLC/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Zadruga Reality 1" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" tvg-name="Zadruga Reality 1"group-title="Zabavni",Zadruga Reality 1
 http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/3410.m3u8
 #EXTINF:-1 tvg-id="Zadruga Reality 2" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" tvg-name="Zadruga Reality 2"group-title="Zabavni",Zadruga Reality 2
@@ -824,7 +820,7 @@ http://91.212.150.248/PinkSlo/index.m3u8
 #EXTINF:-1 tvg-id="Roma Music" tvg-logo="https://www.jagledam.com/logo/logoromatv.jpg" tvg-name="Roma Music" group-title="Muzički",Roma Music
 http://178.132.6.97:8080/ROMATV/index.m3u8
 #EXTINF:-1 tvg-id="RTS Kolo" tvg-logo="https://www.jagledam.com/logo/logortskolo.jpg" tvg-name="RTS Kolo" group-title="Muzički",RTS Kolo
-http://178.217.15.36/rtskolo/tracks-v1a1/mono.m3u8
+http://46.240.130.158/RTSKolo/index.m3u8?token=test
 #EXTINF:-1 tvg-id="RTS Muzika" tvg-logo="https://www.jagledam.com/logo/logortsmuzika.jpg" tvg-name="RTS Muzika" group-title="Muzički",RTS Muzika
 http://178.217.15.36/rtsmuzika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTV Zeri" tvg-logo="https://www.jagledam.com/logo/logortvzeri.jpg" tvg-name="RTV Zeri" group-title="Muzički",RTV Zeri
@@ -923,7 +919,7 @@ http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/4161.m3u8
 #EXTINF: 1 tvg id="HBO 3" tvg-logo="https://www.jagledam.com/logo/logohbo3.jpg" tvg-name="HBO 3"group-title="Filmski",HBO 3
 http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/10696.m3u8
 #EXTINF: 1 tvg id="HBO Adria" tvg-logo="https://www.jagledam.com/logo/logohbo.jpg" tvg-name="HBO Adria"group-title="Filmski",HBO Adria
-http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/6826.m3u8
+http://212.200.164.212:8080/HBO_1/index.m3u8?token=test
 #EXTINF: 1 tvg id="HBO Comedy" tvg-logo="https://www.jagledam.com/logo/logohbocomedy.jpg" tvg-name="HBO Comedy"group-title="Filmski",HBO Comedy
 http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/151864.m3u8
 #EXTINF: 1 tvg id="Klasik TV" tvg-logo="https://www.jagledam.com/logo/logoklasik.jpg" tvg-name="Klasik TV"group-title="Filmski",Klasik TV

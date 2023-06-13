@@ -885,7 +885,7 @@ http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/67727.m3u8
 #EXTINF: 1 tvg id="Cinemax 2" tvg-logo="https://www.jagledam.com/logo/logocinemax2.jpg" tvg-name="Cinemax 2"group-title="Filmski",Cinemax 2
 http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/26790.m3u8
 #EXTINF: 1 tvg id="Cinestar Action" tvg-logo="https://www.jagledam.com/logo/logocinestaraction.jpg" tvg-name="Cinestar Action"group-title="Filmski",Cinestar Action
-http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/26785.m3u8
+http://185.6.22.6:8000/play/a039
 #EXTINF: 1 tvg id="Cinestar Fantasy" tvg-logo="https://www.jagledam.com/logo/logocinestarfantasy.jpg" tvg-name="Cinestar Fantasy"group-title="Filmski",Cinestar Fantasy
 http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/5584.m3u8
 #EXTINF: 1 tvg id="Cinestar Premiere 1" tvg-logo="https://www.jagledam.com/logo/logocinestarpremiere1.jpg" tvg-name="Cinestar Premiere 1"group-title="Filmski",Cinestar Premiere 1
@@ -893,7 +893,7 @@ http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/192244.m3u8
 #EXTINF: 1 tvg id="Cinestar Premiere 2" tvg-logo="https://www.jagledam.com/logo/logocinestarpremiere2.jpg" tvg-name="Cinestar Premiere 2"group-title="Filmski",Cinestar Premiere 2
 http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/192637.m3u8
 #EXTINF: 1 tvg id="Cinestar TV" tvg-logo="https://www.jagledam.com/logo/logocinestar.jpg" tvg-name="Cinestar TV"group-title="Filmski",Cinestar TV
-http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/13464.m3u8
+http://185.6.22.6:8000/play/a038
 #EXTINF: 1 tvg id="Cinestar TV 2" tvg-logo="https://www.jagledam.com/logo/logocinestar.jpg" tvg-name="Cinestar TV 2"group-title="Filmski",Cinestar TV 2
 http://gamsgo.cyou:8080/live/adastream/J2DVrYWnpTu3Sk4W/69754.m3u8
 #EXTINF: 1 tvg id="Epic Drama" tvg-logo="https://www.jagledam.com/logo/logoepicdrama.jpg" tvg-name="Epic Drama"group-title="Filmski",Epic Drama

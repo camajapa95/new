@@ -919,12 +919,12 @@ http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/4173.m3u8
 http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/297586.m3u8
 #EXTINF: 1 tvg id="M1 Gold" tvg-logo="https://www.jagledam.com/logo/logom1gold.jpg" tvg-name="M1 Gold"group-title="Filmski",M1 Gold
 http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/120690.m3u8
-#EXTINF:-1tvg-id=""tvg-name="Nova Cinema"tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9b67c6faa7afc845286864667c57c0bf.png"group-title="Croatia",NovaCinema
-http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/295249
-#EXTINF:-1tvg-id=""tvg-name="Nova Family"tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f624abb42d0aa4bcb8686be1a24776b6.png"group-title="Croatia",NovaFamily
-http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/285316
-#EXTINF:-1tvg-id=""tvg-name="Nova World"tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a2487222c7f192a9d184a4fb0187ac50.png"group-title="Croatia",NovaWorld
-http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/54277
+#EXTINF:-1tvg-id=""tvg-name="Nova Cinema"tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9b67c6faa7afc845286864667c57c0bf.png"group-title="Filmski",Nova Cinema
+http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/295249.m3u8
+#EXTINF:-1tvg-id=""tvg-name="Nova Family"tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f624abb42d0aa4bcb8686be1a24776b6.png"group-title="Filmski",Nova Family
+http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/285316.m3u8
+#EXTINF:-1tvg-id=""tvg-name="Nova World"tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a2487222c7f192a9d184a4fb0187ac50.png"group-title="Filmski",Nova World
+http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/54277.m3u8
 #EXTINF: 1 tvg id="Pink Action" tvg-logo="https://www.jagledam.com/logo/pinkaction.jpg" tvg-name="Pink Action"group-title="Filmski",Pink Action
 http://93.87.44.242:1112/play/a033
 #EXTINF: 1 tvg id="Pink Classic" tvg-logo="https://www.jagledam.com/logo/pinkclassic.jpg" tvg-name="Pink Classic"group-title="Filmski",Pink Classic

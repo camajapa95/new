@@ -79,16 +79,13 @@ http://195.222.53.136:8080/hayat/index.m3u8
 #EXTINF:-1 tvg-id="Hayat Plus" tvg-logo="https://www.jagledam.com/logo/logohayatplus.jpg" tvg-name="Hayat Plus" group-title="Bosnia Herzegovina",Hayat Plus
 http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/6899.m3u8
 #EXTINF:-1 tvg-id="HRT 1" tvg-logo="https://www.jagledam.com/logo/logohrt1.jpg" tvg-name="HRT 1" group-title="Croatia",HRT 1
-http://195.222.53.136:8080/hrt1/video.m3u8
-#EXTINF:-1 tvg-id="HRT 1" http-referrer=https://bhtelecom.ba/ tvg-logo="https://www.jagledam.com/logo/logohrt1.jpg" tvg-name="HRT 1" group-title="Croatia",HRT 1
-#EXTVLCOPT:http-referrer=https://bhtelecom.ba/
-https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/21.m3u8
 #EXTINF:-1 tvg-id="HRT 2" tvg-logo="https://www.jagledam.com/logo/logohrt2.jpg" tvg-name="HRT 2" group-title="Croatia",HRT 2
-http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/3394.m3u8
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/106.m3u8
 #EXTINF:-1 tvg-id="HRT 3" tvg-logo="https://www.jagledam.com/logo/logohrt3.jpg" tvg-name="HRT 3" group-title="Croatia",HRT 3
-http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/3395.m3u8
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/22.m3u8
 #EXTINF:-1 tvg-id="HRT 4" tvg-logo="https://www.jagledam.com/logo/logohrt4.jpg" tvg-name="HRT 4" group-title="Croatia",HRT 4
-http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/3396.m3u8
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/152.m3u8
 #EXTINF:-1 tvg-id="HRT int" tvg-logo="https://www.jagledam.com/logo/logohrtint.jpg" tvg-name="HRT int" group-title="Croatia",HRT int
 http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/16583.m3u8
 #EXTINF:-1 tvg-id="Kanal 3" tvg-logo="https://www.jagledam.com/logo/logokanal3.jpg" tvg-name="Kanal 3" group-title="Serbia",Kanal 3
@@ -164,13 +161,13 @@ http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/5572.m3u8
 #EXTINF:-1 tvg-id="POP TV" tvg-logo="https://www.jagledam.com/logo/logopop.jpg" tvg-name="POP TV" group-title="Slovenia",POP TV
 http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/5570.m3u8
 #EXTINF:-1 tvg-id="Prva Plus" tvg-logo="https://www.jagledam.com/logo/logoprvaplus.jpg" tvg-name="Prva Plus" group-title="Serbia",Prva Plus
-http://46.240.143.86/PrvaPlus/tracks-v1a1/mono.m3u8?token=test
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/195.m3u8
 #EXTINF:-1 tvg-id="Prva TV" tvg-logo="https://www.jagledam.com/logo/logoprva.jpg" tvg-name="Prva TV" group-title="Serbia",Prva TV
 https://tv.liveott.online/PRVA.m3u8
 #EXTINF:-1 tvg-id="Prva TV CG" tvg-logo="https://www.jagledam.com/logo/logoprva.jpg" tvg-name="Prva TV CG" group-title="Crna Gora",Prva TV CG
 
 #EXTINF:-1 tvg-id="Prva World" tvg-logo="https://www.jagledam.com/logo/logoprvaworld.jpg" tvg-name="Prva World" group-title="Serbia",Prva World
-http://46.240.143.86/PrvaWorld/index.m3u8?token=test
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/147.m3u8
 #EXTINF:-1 tvg-id="Red TV" tvg-logo="https://www.jagledam.com/logo/logoredtv.jpg" tvg-name="Red TV" group-title="Serbia",Red TV
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1 tvg-id="Rrokum" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0 tvg-logo="https://www.jagledam.com/logo/logorrokum.jpg" tvg-name="Rrokum" group-title="Kosovo",Rrokum
@@ -341,7 +338,7 @@ http://ott.dobratv.net:25461/live/BoemTV/112233445566/7145.m3u8
 #EXTINF: 1 tvg-id="Jabuka TV" tvg-logo="https://www.jagledam.com/logo/logojabuka.jpg" tvg-name="Jabuka TV" group-title="Croatia",Jabuka TV
 http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/295172.m3u8
 #EXTINF: 1 tvg-id="Jadran" tvg-logo="https://www.jagledam.com/logo/logojadran.jpg" tvg-name="Jadran" group-title="Croatia",Jadran
-https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+https://tvjadran.stream.agatin.3412/live/tvjadranlive.m3u8
 #EXTINF: 1 tvg-id="Jedinstvo TV" tvg-logo="https://www.jagledam.com/logo/logojedinstvotv.jpg" tvg-name="Jedinstvo TV" group-title="Serbia",Jedinstvo TV
 http://178.132.6.97:8080/JedinstvoTV/index.m3u8
 #EXTINF: 1 tvg-id="K3" tvg-logo="https://www.jagledam.com/logo/logok3.jpg" tvg-name="K3" group-title="Bosnia Herzegovina",K3
@@ -533,7 +530,7 @@ http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/5636.m3u8
 #EXTINF: 1 tvg-id="TV Most" tvg-logo="https://www.jagledam.com/logo/logotvmost.jpg" tvg-name="TV Most" group-title="Serbia",TV Most
 http://178.217.15.36/most/tracks-v1a1/mono.m3u8
 #EXTINF: 1 tvg-id="TV Nova" tvg-logo="https://www.jagledam.com/logo/logotvnova.jpg" tvg-name="TV Nova" group-title="Croatia",TV Nova
-https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+https://stream.agatin.3727/live/tvnovalive.m3u8
 #EXTINF: 1 tvg-id="TV Orbis" tvg-logo="https://www.jagledam.com/logo/logoorbis.jpg" tvg-name="TV Orbis" group-title="Macedonia",TV Orbis
 http://tvorbis.hugo.mk:1935/live/orbistv/jagledam.m3u8
 #EXTINF: 1 tvg-id="TV Pancevo" tvg-logo="https://www.jagledam.com/logo/logotvpancevo.jpg" tvg-name="TV Pancevo" group-title="Serbia",TV Pancevo
@@ -692,7 +689,7 @@ https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/pla
 #EXTINF:-1 tvg-id="Balkanika" tvg-logo="https://www.jagledam.com/logo/logobalkanika.jpg" tvg-name="Balkanika" group-title="Muzički",Balkanika
 http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/4135.m3u8
 #EXTINF:-1 tvg-id="Televizija Banovina" tvg-logo="https://www.jagledam.com/logo/logobanovina.jpg" tvg-name="Televizija Banovina" group-title="Muzički",Televizija Banovina
-https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR
+https://pool.alter-media.1936/live/myStream/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="Banovina TV" tvg-logo="https://www.jagledam.com/logo/logobanovina.jpg" tvg-name="Banovina TV" group-title="Muzički",Banovina TV
 https://5b57bb229a2e6.streamlock.net/live/banovina/playlist.m3u8
 #EXTINF:-1 tvg-id="bn music" tvg-logo="https://www.jagledam.com/logo/logobnmusic.jpg" tvg-name="bn music" group-title="Muzički",bn music
@@ -704,7 +701,7 @@ http://93.87.44.242:1112/play/a03d
 #EXTINF:-1 tvg-id="City TV" tvg-logo="https://www.jagledam.com/logo/logocitytv.jpg" tvg-name="City TV" group-title="Muzički",City TV
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 tvg-id="CMC" tvg-logo="https://www.jagledam.com/logo/logocmc.jpg" tvg-name="CMC" group-title="Muzički",CMC
-https://stream.cmctv.hr:49998/cmc/live.m3u8
+https://stream.cmctv.49998/cmc/live.m3u8
 #EXTINF:-1 tvg-id="CRO TV" tvg-logo="https://www.jagledam.com/logo/logocrotv.jpg" tvg-name="CRO TV" group-title="Muzički",CRO TV
 http://92.204.40.139:8081/crotv/televizijahrvatskedijaspore/playlist.m3u8
 #EXTINF:-1 tvg-id="DeeJay TV HR" tvg-logo="https://www.jagledam.com/logo/logodjtv.jpg" tvg-name="DeeJay TV HR" group-title="Muzički",DeeJay TV HR
@@ -745,7 +742,7 @@ http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/20223.m3u8
 #EXTINF:-1 tvg-id="Karolina" tvg-logo="https://www.jagledam.com/logo/logokarolina.jpg" tvg-name="Karolina" group-title="Muzički",Karolina
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/master.m3u8
 #EXTINF:-1 tvg-id="Klape i tambure" tvg-logo="https://www.jagledam.com/logo/logoklapeitambure.jpg" tvg-name="Klape i tambure" group-title="Muzički",Klape i tambure
-https://stream.cmctv.hr:49998/kit/live.m3u8
+https://stream.cmctv.49998/kit/live.m3u8
 #EXTINF:-1 tvg-id="Makedonska TV" tvg-logo="https://www.jagledam.com/logo/logomakedonskatv.jpg" tvg-name="Makedonska TV" group-title="Muzički",Makedonska TV
 http://137.74.114.60:8080/hls/makedonska.m3u8
 #EXTINF:-1 tvg-id="Melos" tvg-logo="https://www.jagledam.com/logo/logomelos.jpg" tvg-name="Melos" group-title="Muzički",Melos
@@ -922,6 +919,12 @@ http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/4173.m3u8
 http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/297586.m3u8
 #EXTINF: 1 tvg id="M1 Gold" tvg-logo="https://www.jagledam.com/logo/logom1gold.jpg" tvg-name="M1 Gold"group-title="Filmski",M1 Gold
 http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/120690.m3u8
+#EXTINF:-1tvg-id=""tvg-name="Nova Cinema"tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9b67c6faa7afc845286864667c57c0bf.png"group-title="Croatia",NovaCinema
+http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/295249
+#EXTINF:-1tvg-id=""tvg-name="Nova Family"tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f624abb42d0aa4bcb8686be1a24776b6.png"group-title="Croatia",NovaFamily
+http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/285316
+#EXTINF:-1tvg-id=""tvg-name="Nova World"tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a2487222c7f192a9d184a4fb0187ac50.png"group-title="Croatia",NovaWorld
+http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/54277
 #EXTINF: 1 tvg id="Pink Action" tvg-logo="https://www.jagledam.com/logo/pinkaction.jpg" tvg-name="Pink Action"group-title="Filmski",Pink Action
 http://93.87.44.242:1112/play/a033
 #EXTINF: 1 tvg id="Pink Classic" tvg-logo="https://www.jagledam.com/logo/pinkclassic.jpg" tvg-name="Pink Classic"group-title="Filmski",Pink Classic
@@ -1082,7 +1085,7 @@ http://93.87.85.10/PLTV/88888888/224/3221226989/index.m3u8?accountinfo=I4hb%2B1Q
 #EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Sport.png" group-title="⚽ Sports",**********
 http://
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" tvg-name="Arena Sport 1" group-title="⚽ Sports",Arena Sport 1
-http://94.156.59.247:8899/udp/239.1.3.34:4000
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/34.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 1 BH" tvg-logo="https://www.jagledam.com/logo/logoarenasport1bh.jpg" tvg-name="Arena Sport 1 BH" group-title="⚽ Sports",Arena Sport 1 BH
 http://aflaxtv.xyz:8080/live/Millenium/7Se7MBqtCsEEt3VC/36909.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 1 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" tvg-name="Arena Sport 1 HR" group-title="⚽ Sports",Arena Sport 1 HR
@@ -1342,9 +1345,9 @@ https://21223.live.streamtheworld.com/PROGRAM2AAC.aac
 #EXTINF: 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Radio_Slovenia_International.png" http-user-agent=WinampMPEG/5.8  group-title="EX RADIO",Radio Slovenia 1 - PRVI
 http://live3.infonetmedia.si:8000/Radio1
 #EXTINF: 1 tvg-logo="https://www.antenazagreb.hr/wp-content/uploads/2018/03/ANTENA-LOGOTIP-2018-color-landscape-2.png" http-user-agent=WinampMPEG/5.8  group-title="EX RADIO",Radio Antena (Zagreb)
-http://live.antenazagreb.hr:8000/;
+http://live.antenazagreb.8000/;
 #EXTINF: 1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/1/17/Radio_Dalmacija_logo.svg/2560px-Radio_Dalmacija_logo.svg.png" http-user-agent=WinampMPEG/5.8  group-title="EX RADIO",Radio Dalmacija
-http://shoutcast.pondi.hr:8000/;
+http://shoutcast.pondi.8000/;
 #EXTINF: 1 tvg-logo="https://seeklogo.com/images/O/otvoreni-radio-logo-E3643A4AA5-seeklogo.com.png" http-user-agent=WinampMPEG/5.8  group-title="EX RADIO",Radio Otvoreni
 https://stream.otvoreni.hr/otvoreni
 #EXTINF: 1 tvg-logo="https://www.playradio.rs/assets/images/play-navigation.png" http-user-agent=WinampMPEG/5.8  group-title="EX RADIO",Play Radio BG

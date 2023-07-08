@@ -11,12 +11,6 @@ https://vipotv.com/wp-content/uploads/2019/05/Flag_Europa_macedonia.jpg
 https://vipotv.com/wp-content/uploads/2019/05/Flag_kosova.png
 #EXTINF:-1 tvg-id="Slovenia" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Flag_Europa_slovenia.jpg" tvg-name="Slovenia" group-title="Slovenia",**Slovenia
 https://vipotv.com/wp-content/uploads/2019/05/Flag_Europa_slovenia.jpg
-#EXTINF:-1 tvg-id="Bosnia" tvg-logo="" tvg-name="Bosnia" group-title="Bosnia",Bosnia
-
-#EXTINF:-1 tvg-id="Bosnia" tvg-logo="" tvg-name="Bosnia" group-title="Bosnia",Bosnia
-
-#EXTINF:-1 tvg-id="Bosnia" tvg-logo="" tvg-name="Bosnia" group-title="Bosnia",Bosnia
-
 #EXTINF:-1 tvg-id="Germany" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/Flag_Europa_germayn.jpg" tvg-name="Germany" group-title="Germany",Germany
 https://vipotv.com/wp-content/uploads/2020/04/Flag_Europa_germayn.jpg
 #EXTINF:-1 tvg-id="A1 Montenegro" tvg-logo="https://www.jagledam.com/logo/logoa1.jpg" tvg-name="A1 Montenegro" group-title="Crna Gora"http-user-agent=Lavf/56.15.10,A1 Montenegro
@@ -877,9 +871,9 @@ https://freestreams.ott.solutions:8443/YuPlanet/asojnd2jsjae/playlist.m3u8
 #EXTINF: 1 tvg id="AMC" tvg-logo="https://www.jagledam.com/logo/logoamc.jpg" tvg-name="AMC"group-title="Filmski",AMC
 http://46.240.130.158/AMC/index.m3u8?token=test
 #EXTINF: 1 tvg id="AXN" tvg-logo="https://www.jagledam.com/logo/logoaxn.jpg" tvg-name="AXN"group-title="Filmski",AXN
-http://iptvtree.net:8080/live/d1823794/40bcdac324/16585.m3u8
+http://213.186.23.21:8000/Axn?u=00:1A:79:00:FE:67:p=001A7900FE67
 #EXTINF: 1 tvg id="AXN Spin" tvg-logo="https://www.jagledam.com/logo/logoaxnspin.jpg" tvg-name="AXN Spin"group-title="Filmski",AXN Spin
-http://iptvtree.net:8080/live/d1823794/40bcdac324/70825.m3u8
+http://213.186.23.21:8000/Axn%20Spin?u=00:1A:79:00:FE:67:p=001A7900FE67
 #EXTINF: 1 tvg id="Cinemania" tvg-logo="https://www.jagledam.com/logo/logocinemania.jpg" tvg-name="Cinemania"group-title="Filmski",Cinemania
 http://iptvtree.net:8080/live/d1823794/40bcdac324/59873.m3u8
 #EXTINF: 1 tvg id="Cinemax" tvg-logo="https://www.jagledam.com/logo/logocinemax.jpg" tvg-name="Cinemax"group-title="Filmski",Cinemax
@@ -915,19 +909,19 @@ http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/78.m3u8
 #EXTINF: 1 tvg id="Filmbox Premium" tvg-logo="https://www.jagledam.com/logo/logofilmboxpremium.jpg" tvg-name="Filmbox Premium"group-title="Filmski",Filmbox Premium
 http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/65.m3u8
 #EXTINF: 1 tvg id="FOX Adria" tvg-logo="https://www.jagledam.com/logo/logofox.jpg" tvg-name="FOX Adria"group-title="Filmski",FOX Adria
-http://iptvtree.net:8080/live/d1823794/40bcdac324/16586.m3u8
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/55.m3u8
 #EXTINF: 1 tvg id="FOX Movies" tvg-logo="https://www.jagledam.com/logo/logofoxmovies.jpg" tvg-name="FOX Movies"group-title="Filmski",FOX Movies
 http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/70.m3u8
-#EXTINF: 1 tvg id="HBO 2" tvg-logo="https://www.jagledam.com/logo/logohbo2.jpg" tvg-name="HBO 2"group-title="Filmski",HBO 2
-http://iptvtree.net:8080/live/d1823794/40bcdac324/4161.m3u8
-#EXTINF: 1 tvg id="HBO 3" tvg-logo="https://www.jagledam.com/logo/logohbo3.jpg" tvg-name="HBO 3"group-title="Filmski",HBO 3
-http://iptvtree.net:8080/live/d1823794/40bcdac324/10696.m3u8
 #EXTINF: 1 tvg id="HBO Adria" tvg-logo="https://www.jagledam.com/logo/logohbo.jpg" tvg-name="HBO Adria"group-title="Filmski",HBO Adria
-http://212.200.164.212:8080/HBO_1/index.m3u8?token=test
+http://213.186.23.21:8000/HBO%201?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF: 1 tvg id="HBO 2" tvg-logo="https://www.jagledam.com/logo/logohbo2.jpg" tvg-name="HBO 2"group-title="Filmski",HBO 2
+http://213.186.23.21:8000/HBO%202?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF: 1 tvg id="HBO 3" tvg-logo="https://www.jagledam.com/logo/logohbo3.jpg" tvg-name="HBO 3"group-title="Filmski",HBO 3
+http://213.186.23.21:8000/HBO%203?u=00:1A:79:00:FE:67:p=001A7900FE67
 #EXTINF: 1 tvg id="HBO Comedy" tvg-logo="https://www.jagledam.com/logo/logohbocomedy.jpg" tvg-name="HBO Comedy"group-title="Filmski",HBO Comedy
 http://iptvtree.net:8080/live/d1823794/40bcdac324/151864.m3u8
 #EXTINF: 1 tvg id="Klasik TV" tvg-logo="https://www.jagledam.com/logo/logoklasik.jpg" tvg-name="Klasik TV"group-title="Filmski",Klasik TV
-https://178.253.194.105/klasiktv/playlist.m3u8
+http://213.186.23.21:8000/Klasik%20Tv?u=00:1A:79:00:FE:67:p=001A7900FE67
 #EXTINF: 1 tvg id="M1 Film" tvg-logo="https://www.jagledam.com/logo/logom1film.jpg" tvg-name="M1 Film"group-title="Filmski",M1 Film
 http://iptvtree.net:8080/live/d1823794/40bcdac324/4173.m3u8
 #EXTINF: 1 tvg id="M1 Film Family" tvg-logo="https://www.jagledam.com/logo/logom1film.jpg" tvg-name="M1 Film Family"group-title="Filmski",M1 Film Family
@@ -1032,9 +1026,9 @@ http://iptvtree.net:8080/live/d1823794/40bcdac324/4127.m3u8
 #EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="https://www.jagledam.com/logo/logodavincilearning.jpg" tvg-name="Da Vinci Learning" group-title="Dokumentarni",Da Vinci Learning
 http://iptvtree.net:8080/live/d1823794/40bcdac324/281717.m3u8
 #EXTINF:-1 tvg-id="Discovery CI" tvg-logo="https://www.jagledam.com/logo/logodiscoveryci.jpg" tvg-name="Discovery CI" group-title="Dokumentarni",Discovery CI
-http://185.6.22.6:8000/play/a02x
+http://213.186.23.21:8000/ID?u=00:1A:79:00:FE:67:p=001A7900FE67
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.jagledam.com/logo/logodiscoverysc.jpg" tvg-name="Discovery Science" group-title="Dokumentarni",Discovery Science
-http://185.6.22.6:8000/play/a02y
+http://213.186.23.21:8000/Discovery%20Science?u=00:1A:79:00:FE:67:p=001A7900FE67
 #EXTINF:-1 tvg-id="Discovery SR" tvg-logo="https://www.jagledam.com/logo/logodiscovery.jpg" tvg-name="Discovery SR" group-title="Dokumentarni",Discovery SR
 http://213.186.23.21:8000/Discovery?u=00:1A:79:00:FE:67:p=001A7900FE67
 #EXTINF:-1 tvg-id="DocuBox" tvg-logo="https://www.jagledam.com/logo/logodocubox.jpg" tvg-name="DocuBox" group-title="Dokumentarni",DocuBox
@@ -1279,6 +1273,26 @@ http://iptvtree.net:8080/live/d1823794/40bcdac324/65841
 
 #EXTINF:-1 tvg-id="Zdrava TV SR" tvg-logo="https://www.jagledam.com/logo/logozdravatvsr.jpg" tvg-name="Zdrava TV SR" group-title="Religijski",Zdrava TV SR
 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Germany",RTL
+http://213.186.23.21:8000/Rtl%20DE?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Germany",RTL 2
+http://213.186.23.21:8000/Rtl%202%20DE?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Germany",Pro Sieben
+http://213.186.23.21:8000/Pro%20Sieben?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Germany",Vox
+http://213.186.23.21:8000/Vox?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Germany",Kabel 1
+http://213.186.23.21:8000/Kabel%201?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Germany",Sat 1
+http://213.186.23.21:8000/Sat%201?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Germany",Dmax
+http://213.186.23.21:8000/Dmax?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Germany",Zdf
+http://213.186.23.21:8000/Zdf?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Germany",Das Erste
+http://213.186.23.21:8000/Das%20Erste?u=00:1A:79:00:FE:67:p=001A7900FE67
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Germany",Sport 1
+http://213.186.23.21:8000/Sport%201?u=00:1A:79:00:FE:67:p=001A7900FE67
 
 
 #EXTINF: 1 tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-03.png" http-user-agent=WinampMPEG/5.8  group-title="EX RADIO",RADIO M EXYU

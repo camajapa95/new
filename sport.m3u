@@ -1,0 +1,1169 @@
+#EXTM3U
+#EXTINF:0 tvg-id="DigiSport1.ro" group-title="Romania ➾ Sports",DIGI Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/71457.m3u8
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="Romania ➾ Sports",DIGI Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/71459.m3u8
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="Romania ➾ Sports",DIGI Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2243.m3u8
+#EXTINF:0 tvg-id="DigiSport4.ro" group-title="Romania ➾ Sports",DIGI Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4219.m3u8
+#EXTINF:0 tvg-id="esp" group-title="Romania ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4221.m3u8
+#EXTINF:0 tvg-id="Eurosport2.ro" group-title="Romania ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4222.m3u8
+#EXTINF:0 tvg-id="esp-4k" group-title="Romania ➾ Sports",Eurosport 4K
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/281130.m3u8
+#EXTINF:0 tvg-id="fight-box-hd" group-title="Romania ➾ Sports",FightBox
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/299261.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania ➾ Sports",Orange Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12727.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania ➾ Sports",Orange Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12728.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania ➾ Sports",Orange Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12729.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania ➾ Sports",Orange Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12730.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania ➾ Sports",Prima Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2229.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania ➾ Sports",Prima Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/147299.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania ➾ Sports",Prima Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/147300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania ➾ Sports",Prima Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297626.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania ➾ Sports",Prima Sport 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298628.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania ➾ Sports",Realitatea Sportiva
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/299243.m3u8
+#EXTINF:0 tvg-id="SportExtra.ro" group-title="Romania ➾ Sports",Sport Extra
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/299267.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Cablenet Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298893.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Cablenet Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298892.m3u8
+#EXTINF:0 tvg-id="OTESport1.gr" group-title="Greece ➾ Sports",Cosmote Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/124.m3u8
+#EXTINF:0 tvg-id="OTESport2.gr" group-title="Greece ➾ Sports",Cosmote Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/18.m3u8
+#EXTINF:0 tvg-id="OTESport3.gr" group-title="Greece ➾ Sports",Cosmote Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4269.m3u8
+#EXTINF:0 tvg-id="OTESport4.gr" group-title="Greece ➾ Sports",Cosmote Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/125.m3u8
+#EXTINF:0 tvg-id="OTESport5.gr" group-title="Greece ➾ Sports",Cosmote Sport 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4271.m3u8
+#EXTINF:0 tvg-id="OTESport6.gr" group-title="Greece ➾ Sports",Cosmote Sport 6
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4272.m3u8
+#EXTINF:0 tvg-id="OTESport7.gr" group-title="Greece ➾ Sports",Cosmote Sport 7
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/126.m3u8
+#EXTINF:0 tvg-id="OTESport8.gr" group-title="Greece ➾ Sports",Cosmote Sport 8
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/127.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Cosmote Sport 9
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/121356.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Cytavision Sports 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298887.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Cytavision Sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298886.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Cytavision Sports 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298885.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Cytavision Sports 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298888.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",ERT Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",ERT Sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/276085.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",ERT Sports 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290658.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",ERT Sports 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298613.m3u8
+#EXTINF:0 tvg-id="EuroSport2.gr" group-title="Greece ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/139.m3u8
+#EXTINF:0 tvg-id="NovaSports1.gr" group-title="Greece ➾ Sports",Nova Sports 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12844.m3u8
+#EXTINF:0 tvg-id="NovaSports2.gr" group-title="Greece ➾ Sports",Nova sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12845.m3u8
+#EXTINF:0 tvg-id="NovaSports3.gr" group-title="Greece ➾ Sports",Nova Sports 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12846.m3u8
+#EXTINF:0 tvg-id="NovaSports4.gr" group-title="Greece ➾ Sports",Nova Sports 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/279631.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Nova Sports 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/45242.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Nova Sports 6
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/291115.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Nova Sports News
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/291111.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Nova Sports Premier League
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298889.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Nova sports Prime
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/291116.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Nova Sports Start
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295161.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",PTS 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298894.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",PTS 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298895.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",PTS 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298896.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece ➾ Sports",Sigma
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2671.m3u8
+#EXTINF:0 tvg-id="sport-plus" group-title="Greece ➾ Sports",Sport Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298890.m3u8
+
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="France ➾ Sports",beIN Sports Max 6
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4368.m3u8
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="France ➾ Sports",beIN Sports Max 7
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4369.m3u8
+#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="France ➾ Sports",beIN Sports Max 8
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4370.m3u8
+#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="France ➾ Sports",beIN Sports Max 9
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4371.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",CANAL+ Foot
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297371.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",CANAL+ Formula 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295260.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",CANAL+ MotoGP
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297423.m3u8
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="France ➾ Sports",CANAL+ Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/143.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",CANAL+ Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/291175.m3u8
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="France ➾ Sports",CANAL+ Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298742.m3u8
+#EXTINF:0 tvg-id="CanalPlusSport3.pl" group-title="France ➾ Sports",CANAL+ Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/291177.m3u8
+#EXTINF:0 tvg-id="CanalPlusSport4.pl" group-title="France ➾ Sports",CANAL+ Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297381.m3u8
+#EXTINF:0 tvg-id="CanalPlusSport5.pl" group-title="France ➾ Sports",CANAL+ Sport 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/291178.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",CANAL+ Sport 360
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297378.m3u8
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="France ➾ Sports",Equidia
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/276130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",Equidia Pro
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297555.m3u8
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="France ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/151.m3u8
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="France ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1195.m3u8
+#EXTINF:0 tvg-id="GolfChannel.fr" group-title="France ➾ Sports",Golf Channel
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/279613.m3u8
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="France ➾ Sports",GOLF+
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1934.m3u8
+#EXTINF:0 tvg-id="Infosport.fr" group-title="France ➾ Sports",InfoSport+
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1190.m3u8
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="France ➾ Sports",L Equipe
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/147.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",L Equipe Live
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298759.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",L Equipe Live 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298757.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",L Equipe Live 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298758.m3u8
+#EXTINF:0 tvg-id="MULTISPORTS1.fr" group-title="France ➾ Sports",MultiSports 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290572.m3u8
+#EXTINF:0 tvg-id="MULTISPORTS2.fr" group-title="France ➾ Sports",MultiSports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290573.m3u8
+#EXTINF:0 tvg-id="MULTISPORTS3.fr" group-title="France ➾ Sports",MultiSports 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290574.m3u8
+#EXTINF:0 tvg-id="MULTISPORTS4.fr" group-title="France ➾ Sports",MultiSports 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290575.m3u8
+#EXTINF:0 tvg-id="MULTISPORTS5.fr" group-title="France ➾ Sports",MultiSports 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290576.m3u8
+#EXTINF:0 tvg-id="MULTISPORTS6.fr" group-title="France ➾ Sports",MultiSports 6
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290577.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",Olympia TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/281599.m3u8
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="France ➾ Sports",RMC SPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1937.m3u8
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="France ➾ Sports",RMC SPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1938.m3u8
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="France ➾ Sports",RMC SPORT 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/279991.m3u8
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="France ➾ Sports",RMC SPORT 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/279752.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",RMC SPORT 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1940.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",RMC SPORT 7
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/20883.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",RMC SPORT 8
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/20884.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",RMC SPORT 9
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/20885.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",RMC SPORT 10
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/192025.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",RMC SPORT 12
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/20887.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France ➾ Sports",RMC SPORT 13
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/20890.m3u8
+#EXTINF:0 tvg-id="TraceSport.uk" group-title="France ➾ Sports",TRACE Sport Stars
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12002.m3u8
+
+#EXTINF:0 tvg-id="blueSport1.ch" group-title="Switzerland ➾ Sports",Blue Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2815.m3u8
+#EXTINF:0 tvg-id="blueSport2.ch" group-title="Switzerland ➾ Sports",Blue Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6187.m3u8
+#EXTINF:0 tvg-id="blueZoomD.ch" group-title="Switzerland ➾ Sports",Blue Zoom D
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/52435.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",MySports 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/280169.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",MySports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/35843.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",MySports 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/70853.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",MySports 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/23838.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",MySports 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/90859.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",MySports 6
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/148193.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",MySports 7
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/148191.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",MySports 8
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/148198.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",MySports 9
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/152345.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",V Sport Live 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297923.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",V Sport Live 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297924.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",V Sport Live 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297925.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",V Sport Live 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297926.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland ➾ Sports",V Sport Live 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297927.m3u8
+
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="UK ➾ Sports",Box Nation
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4719.m3u8
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="UK ➾ Sports",BT Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/270.m3u8
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="UK ➾ Sports",BT Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/273.m3u8
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="UK ➾ Sports",BT Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/271.m3u8
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="UK ➾ Sports",BT Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298471.m3u8
+#EXTINF:0 tvg-id="EdgeSport.nl" group-title="UK ➾ Sports",Edge Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/54012.m3u8
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="UK ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/692.m3u8
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="UK ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1555.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UK ➾ Sports",MotoRRacing
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295426.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UK ➾ Sports",RACING TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/731.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="UK ➾ Sports",RedBull TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/85429.m3u8
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="UK ➾ Sports",Sky Sports Action
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/268.m3u8
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="UK ➾ Sports",Sky Sports Arena
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/267.m3u8
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="UK ➾ Sports",Sky Sports Cricket
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/269.m3u8
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="UK ➾ Sports",Sky Sports F1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/265.m3u8
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="UK ➾ Sports",Sky Sports Golf
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/264.m3u8
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="UK ➾ Sports",Sky Sports Main Event
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/283053.m3u8
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="UK ➾ Sports",Sky Sports Mix
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/261.m3u8
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="UK ➾ Sports",Sky Sports News
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/260.m3u8
+#EXTINF:0 tvg-id="AtTheRaces.uk" group-title="UK ➾ Sports",Sky Sports Racing
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/163132.m3u8
+#EXTINF:0 tvg-id="ViaplayXtra.nl" group-title="UK ➾ Sports",Viaplay Xtra
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298023.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",ACC Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/29664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Adrenalina Sports Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/47945.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",AT&T SportsNet
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/59945.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Arizona Alternate
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296660.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Arizona Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/150613.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Detroit
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6463.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Detroit Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296661.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Florida
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296662.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Florida Alternate
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296663.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Florida Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Great Lakes
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296665.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Indiana
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296666.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Kansas City
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296667.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Midwest
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/58557.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Midwest Alternate
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296669.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Midwest Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296670.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Netbase
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296671.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports New Orleans
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296672.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports North
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2324.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports North Minnesota
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296673.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports North Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296674.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Ohio
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296675.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Ohio Cincinnati
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296676.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Ohio Cincinnati Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296677.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Ohio Cleveland
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3358.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Ohio Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296678.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Oklahoma
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6452.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports San Diego
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3361.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports San Diego Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296680.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports SoCal
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296681.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports SoCal Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296682.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports South
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/277374.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Southeast
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/82301.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Southwest
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3364.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Southwest Alternate
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3362.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Southwest Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296685.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Sun
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2325.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Sun Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296686.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports West
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3367.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports West Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296688.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Wisconsin
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295668.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Bally Sports Wisconsin Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296689.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="USA ➾ Sports",beIN Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/284530.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="USA ➾ Sports",beIN Sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/151022.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="USA ➾ Sports",beIN Sports 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/151024.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="USA ➾ Sports",beIN Sports 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/151026.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="USA ➾ Sports",beIN Sports 6
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/151030.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="USA ➾ Sports",beIN Sports 7
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/151028.m3u8
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="USA ➾ Sports",beIN Sports 8
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/151032.m3u8
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="USA ➾ Sports",beIN Sports n
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296690.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="USA ➾ Sports",beIN Sports USA
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296691.m3u8
+#EXTINF:0 tvg-id="BTN.us" group-title="USA ➾ Sports",Big Ten Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2279.m3u8
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="USA ➾ Sports",CBS Sports Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/267357.m3u8
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="USA ➾ Sports",Eleven Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7765.m3u8
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="USA ➾ Sports",ESPN
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/747.m3u8
+#EXTINF:0 tvg-id="ESPN2.us" group-title="USA ➾ Sports",ESPN 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/41918.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="USA ➾ Sports",ESPN 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/14816.m3u8
+#EXTINF:0 tvg-id="ESPNews.us" group-title="USA ➾ Sports",ESPN News
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2312.m3u8
+#EXTINF:0 tvg-id="ESPNU.us" group-title="USA ➾ Sports",ESPNU
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2311.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",FIGHT BOX
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/530.m3u8
+#EXTINF:0 tvg-id="FightSports.svn" group-title="USA ➾ Sports",FIGHT Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/157606.m3u8
+#EXTINF:0 tvg-id="FOXSoccerPlus.us" group-title="USA ➾ Sports",Fox Soccer Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2314.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",FOX SPORTS 506
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/157457.m3u8
+#EXTINF:0 tvg-id="FOXSportsRacing.ca" group-title="USA ➾ Sports",FOX SPORTS Racing
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2327.m3u8
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="USA ➾ Sports",FS1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/756.m3u8
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="USA ➾ Sports",FS2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/757.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",FTF Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/294679.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Fubo Sports Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/147553.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="USA ➾ Sports",Fuel TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11712.m3u8
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="USA ➾ Sports",Golf Channel
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/5845.m3u8
+#EXTINF:0 tvg-id="LonghornNetworkHD.us" group-title="USA ➾ Sports",Longhorn Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2340.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Marquee Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/150609.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Marquee Sports Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298969.m3u8
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="USA ➾ Sports",MLB Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2342.m3u8
+#EXTINF:0 tvg-id="Velocity.us" group-title="USA ➾ Sports",Motortrend
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/272264.m3u8
+#EXTINF:0 tvg-id="MSG.us" group-title="USA ➾ Sports",MSG
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3382.m3u8
+#EXTINF:0 tvg-id="MSGPlus.us" group-title="USA ➾ Sports",MSG 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/25213.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",NBA League Pass 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/198961.m3u8
+#EXTINF:0 tvg-id="NBA.blt" group-title="USA ➾ Sports",NBA TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/762.m3u8
+#EXTINF:0 tvg-id="NBCSportsBayArea.us" group-title="USA ➾ Sports",NBC Sports Bay Area
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/45785.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",NBC Sports Boston
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/35132.m3u8
+#EXTINF:0 tvg-id="NBCSportsCalifornia.us" group-title="USA ➾ Sports",NBC Sports California
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/16116.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",NBC Sports Chicago
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/8490.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",NBC Sports Chicago Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12986.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",NBC Sports Northwest
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3373.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",NBC Sports Philadelphia
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/35472.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",NBC Sports Philadelphia Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/281668.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",NBC Sports Washington
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/82282.m3u8
+#EXTINF:0 tvg-id="NESN.us" group-title="USA ➾ Sports",NESN
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7786.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",NESN Plus
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298228.m3u8
+#EXTINF:0 tvg-id="NFLNetwork.mx" group-title="USA ➾ Sports",NFL Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2367.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",NFL RedZone
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2369.m3u8
+#EXTINF:0 tvg-id="NHLNetwork.us" group-title="USA ➾ Sports",NHL Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2348.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",PAC 12 Arizona
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7789.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",PAC 12 Bay Area
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7796.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",PAC 12 Insider
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297033.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",PAC 12 Los Angeles
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7790.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",PAC 12 Mountain
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7793.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",PAC 12 Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/35140.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",PAC 12 Oregon
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7791.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",PAC 12 Washington
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7792.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Root Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/299105.m3u8
+#EXTINF:0 tvg-id="SECNetwork.us" group-title="USA ➾ Sports",SEC Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6447.m3u8
+#EXTINF:0 tvg-id="SpectrumSportsNet.us" group-title="USA ➾ Sports",Spectrum SportsNet
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/150611.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",SportsGrid
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/282284.m3u8
+#EXTINF:0 tvg-id="SportsmanChannel.us" group-title="USA ➾ Sports",Sportsman Channel
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/30847.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Stadium
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/29657.m3u8
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="USA ➾ Sports",Tennis Channel
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2275.m3u8
+#EXTINF:0 tvg-id="TVG.us" group-title="USA ➾ Sports",TVG
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/57055.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",VSiN
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/150629.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Willow
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2372.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",Willow Xtra
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296763.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA ➾ Sports",World Poker Tour
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/286493.m3u8
+#EXTINF:0 tvg-id="WWE.ca" group-title="USA ➾ Sports",WWE
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2373.m3u8
+#EXTINF:0 tvg-id="YESHD.us" group-title="USA ➾ Sports",Yes Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/5519.m3u8
+
+#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="Canada ➾ Sports",FIGHT Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/9235.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canada ➾ Sports",Hard Knocks
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/282286.m3u8
+#EXTINF:0 tvg-id="NBATV.ca" group-title="Canada ➾ Sports",NBA TV Canada
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/13222.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canada ➾ Sports",Players TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/286218.m3u8
+#EXTINF:0 tvg-id="RDS.ca" group-title="Canada ➾ Sports",RDS
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/280913.m3u8
+#EXTINF:0 tvg-id="RDS2.ca" group-title="Canada ➾ Sports",RDS 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/495.m3u8
+#EXTINF:0 tvg-id="RDSInfo.ca" group-title="Canada ➾ Sports",RDS Info
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/496.m3u8
+#EXTINF:0 tvg-id="TheScore.ca" group-title="Canada ➾ Sports",SportsNet 360
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3377.m3u8
+#EXTINF:0 tvg-id="SportsNetEST.ca" group-title="Canada ➾ Sports",SportsNet East
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1720.m3u8
+#EXTINF:0 tvg-id="SportsNetNewYork.us" group-title="Canada ➾ Sports",SportsNet New York
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6436.m3u8
+#EXTINF:0 tvg-id="SportsNetOne.ca" group-title="Canada ➾ Sports",SportsNet One
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3378.m3u8
+#EXTINF:0 tvg-id="SportsNetOntario.ca" group-title="Canada ➾ Sports",SportsNet Ontario
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/280602.m3u8
+#EXTINF:0 tvg-id="SportsNetPacifique.ca" group-title="Canada ➾ Sports",SportsNet Pacific
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/5511.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canada ➾ Sports",SportsNet Spectrum
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295024.m3u8
+#EXTINF:0 tvg-id="SportsNetWest.ca" group-title="Canada ➾ Sports",SportsNet West
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/72575.m3u8
+#EXTINF:0 tvg-id="SportsnetWorld.ca" group-title="Canada ➾ Sports",SportsNet World
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/280568.m3u8
+#EXTINF:0 tvg-id="TSN1.ca" group-title="Canada ➾ Sports",TSN 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/770.m3u8
+#EXTINF:0 tvg-id="TSN2.ca" group-title="Canada ➾ Sports",TSN 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/771.m3u8
+#EXTINF:0 tvg-id="TSN3.ca" group-title="Canada ➾ Sports",TSN 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/772.m3u8
+#EXTINF:0 tvg-id="TSN4.ca" group-title="Canada ➾ Sports",TSN 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/773.m3u8
+#EXTINF:0 tvg-id="TSN5.ca" group-title="Canada ➾ Sports",TSN 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/774.m3u8
+#EXTINF:0 tvg-id="TVASports.ca" group-title="Canada ➾ Sports",TVA Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/500.m3u8
+#EXTINF:0 tvg-id="TVASports2.ca" group-title="Canada ➾ Sports",TVA Sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295157.m3u8
+
+#EXTINF:0 tvg-id="ASpor.tr" group-title="Turkey ➾ Sports",A Spor
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/529.m3u8
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="Turkey ➾ Sports",beIN Sports 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1735.m3u8
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="Turkey ➾ Sports",beIN Sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1737.m3u8
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="Turkey ➾ Sports",beIN Sports 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1739.m3u8
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="Turkey ➾ Sports",beIN Sports 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7450.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Turkey ➾ Sports",beIN Sports Haber
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7448.m3u8
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Turkey ➾ Sports",beIN Sports Max 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/8224.m3u8
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="Turkey ➾ Sports",beIN Sports Max 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/16878.m3u8
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="Turkey ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1755.m3u8
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="Turkey ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1756.m3u8
+#EXTINF:0 tvg-id="SSport.tr" group-title="Turkey ➾ Sports",S Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1753.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Turkey ➾ Sports",S Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/10167.m3u8
+#EXTINF:0 tvg-id="SmartSpor1.tr" group-title="Turkey ➾ Sports",Spor Smart
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1750.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Turkey ➾ Sports",Spor Smart 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/50121.m3u8
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Turkey ➾ Sports",Sports TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/89846.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Turkey ➾ Sports",TAY TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/16887.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Turkey ➾ Sports",Tivibu Spor
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1746.m3u8
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="Turkey ➾ Sports",Tivibu Spor 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1748.m3u8
+#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="Turkey ➾ Sports",Tivibu Spor 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1749.m3u8
+#EXTINF:0 tvg-id="TivibuSpor4.tr" group-title="Turkey ➾ Sports",Tivibu Spor 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/286778.m3u8
+#EXTINF:0 tvg-id="TJKTV.tr" group-title="Turkey ➾ Sports",TJK TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/594.m3u8
+#EXTINF:0 tvg-id="TRT3.tr" group-title="Turkey ➾ Sports",TRT Spor
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/528.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Turkey ➾ Sports",TRT Spor Yildiz
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/32095.m3u8
+
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Netherlands ➾ Sports",ESPN
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/267209.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Netherlands ➾ Sports",ESPN 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/272119.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Netherlands ➾ Sports",ESPN 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/272120.m3u8
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="Netherlands ➾ Sports",ESPN 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/272121.m3u8
+#EXTINF:0 tvg-id="esp" group-title="Netherlands ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/5074.m3u8
+#EXTINF:0 tvg-id="Eurosport2.nl" group-title="Netherlands ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/5331.m3u8
+#EXTINF:0 tvg-id="extreme-sports" group-title="Netherlands ➾ Sports",Extreme Sports Channel
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/5329.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Netherlands ➾ Sports",ZIGGO Docu
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/5327.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Netherlands ➾ Sports",ZIGGO Golf
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4514.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Netherlands ➾ Sports",ZIGGO Racing
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4515.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Netherlands ➾ Sports",ZIGGO Select
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Netherlands ➾ Sports",ZIGGO Tennis
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2500.m3u8
+
+#EXTINF:0 tvg-id="ACISport.it" group-title="Italy ➾ Sports",ACI Sport TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298813.m3u8
+#EXTINF:0 tvg-id="BikeChannel.uk" group-title="Italy ➾ Sports",Bike
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/22709.m3u8
+#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="Italy ➾ Sports",DAZN 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/79220.m3u8
+#EXTINF:0 tvg-id="DAZN2.es" group-title="Italy ➾ Sports",DAZN 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/39497.m3u8
+#EXTINF:0 tvg-id="Eurosport1.it" group-title="Italy ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/995.m3u8
+#EXTINF:0 tvg-id="Eurosport2.it" group-title="Italy ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1040.m3u8
+#EXTINF:0 tvg-id="RaiSport.it" group-title="Italy ➾ Sports",Rai Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1042.m3u8
+#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Italy ➾ Sports",Sky Sport Moto GP
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/9880.m3u8
+#EXTINF:0 tvg-id="SuperTennis.it" group-title="Italy ➾ Sports",Super Tennis
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/285535.m3u8
+
+#EXTINF:0 tvg-id="DDSports.in" group-title="India ➾ Sports",DD Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/56153.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India ➾ Sports",Sony Sports Ten 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/16622.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India ➾ Sports",Sony Sports Ten 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/16621.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India ➾ Sports",Sony Sports Ten 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/56191.m3u8
+#EXTINF:0 tvg-id="StarSports1.in" group-title="India ➾ Sports",Star Sports 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3630.m3u8
+#EXTINF:0 tvg-id="StarSports2.in" group-title="India ➾ Sports",Star Sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3631.m3u8
+#EXTINF:0 tvg-id="StarSports3.in" group-title="India ➾ Sports",Star Sports 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/62584.m3u8
+#EXTINF:0 tvg-id="StarSportsSelect1.in" group-title="India ➾ Sports",Star Sports Select 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/82628.m3u8
+#EXTINF:0 tvg-id="StarSportsSelect2.in" group-title="India ➾ Sports",Star Sports Select 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/16619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India ➾ Sports",Total Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/299029.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India ➾ Sports",Willow
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/165776.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",Bon Dia TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/165148.m3u8
+#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="Spain ➾ Sports",Canal Sur Andalucia
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2191.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",D Kiss
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/9356.m3u8
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="Spain ➾ Sports",DAZN F1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1672.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Spain ➾ Sports",ESPN 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/281480.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Spain ➾ Sports",ESPN 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/281403.m3u8
+#EXTINF:0 tvg-id="ESPNDeportes.us" group-title="Spain ➾ Sports",ESPN Deportes
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/281417.m3u8
+#EXTINF:0 tvg-id="Esport3.es" group-title="Spain ➾ Sports",Esport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7445.m3u8
+#EXTINF:0 tvg-id="ETB1.es" group-title="Spain ➾ Sports",ETB 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/165969.m3u8
+#EXTINF:0 tvg-id="ETB2.es" group-title="Spain ➾ Sports",ETB 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/165970.m3u8
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="Spain ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1160.m3u8
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="Spain ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1159.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Spain ➾ Sports",FOX SPORTS 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/89723.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Spain ➾ Sports",FOX SPORTS 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/89722.m3u8
+#EXTINF:0 tvg-id="Golf.es" group-title="Spain ➾ Sports",MOVISTAR Golf
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1142.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",Olympic Channel
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11138.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",Popular TV Cantabria
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/285794.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",ART Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/23143.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",ART Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/23146.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",ART Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/40061.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",ART Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295216.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",ART Sport 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295215.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",ART Sport 6
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295217.m3u8
+#EXTINF:0 tvg-id="esp" group-title="Albania ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/45047.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="Albania ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/16454.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",Kujtesa Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1863.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",Kujtesa Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1864.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",Kujtesa Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1865.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",Kujtesa Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1866.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",Oversport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290218.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",Oversport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295514.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",Oversport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290537.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",Oversport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290538.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",Oversport News
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298898.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Albania ➾ Sports",RTSH Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2568.m3u8
+#EXTINF:0 tvg-id="SuperSport2.al" group-title="Albania ➾ Sports",SuperSport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1312.m3u8
+#EXTINF:0 tvg-id="SuperSport3.al" group-title="Albania ➾ Sports",SuperSport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1319.m3u8
+#EXTINF:0 tvg-id="SuperSport4.al" group-title="Albania ➾ Sports",SuperSport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1318.m3u8
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="Albania ➾ Sports",SuperSport 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1860.m3u8
+#EXTINF:0 tvg-id="SuperSport6.al" group-title="Albania ➾ Sports",SuperSport 6
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3638.m3u8
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania ➾ Sports",SuperSport News
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1313.m3u8
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Albania ➾ Sports",Tring Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1306.m3u8
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania ➾ Sports",Tring Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1305.m3u8
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Albania ➾ Sports",Tring Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1304.m3u8
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania ➾ Sports",Tring Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1862.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Sports",Adrenalina Sports Network
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290478.m3u8
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Mexico ➾ Sports",AyM Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/9074.m3u8
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Mexico ➾ Sports",Claro Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3012.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Sports",Claro Sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297205.m3u8
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Mexico ➾ Sports",ESPN
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/9070.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Mexico ➾ Sports",ESPN 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298057.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Mexico ➾ Sports",ESPN 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/38603.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Sports",ESPN Dos
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/9068.m3u8
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Mexico ➾ Sports",ESPN Extra
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/38607.m3u8
+#EXTINF:0 tvg-id="Europa.mx" group-title="Mexico ➾ Sports",Europa Europa
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/9130.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Brazil ➾ Sports",All Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/7321.m3u8
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Brazil ➾ Sports",Band Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/8777.m3u8
+#EXTINF:0 tvg-id="Espn.br" group-title="Brazil ➾ Sports",ESPN
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/8793.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Brazil ➾ Sports",ESPN 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/8801.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Brazil ➾ Sports",ESPN 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290657.m3u8
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Brazil ➾ Sports",ESPN Extra
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/8789.m3u8
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Brazil ➾ Sports",FOX SPORTS
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/8780.m3u8
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Brazil ➾ Sports",FOX SPORTS 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/8776.m3u8
+#EXTINF:0 tvg-id="Sportv.br" group-title="Brazil ➾ Sports",SPORTV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4015.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Brazil ➾ Sports",SPORTV 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/8783.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Brazil ➾ Sports",SPORTV 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/8784.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Brazil ➾ Sports",TNT Sports 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/286128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Brazil ➾ Sports",TNT Sports 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/286129.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Brazil ➾ Sports",TNT Sports 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/286130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Brazil ➾ Sports",TNT Sports 5 Brasil
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/299064.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Serbia ➾ Sports",Arena Esport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296560.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia ➾ Sports",Arena Fight
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/280238.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia ➾ Sports",Arena Premium 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/285558.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia ➾ Sports",Arena Premium 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/285559.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia ➾ Sports",Arena Premium 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/285560.m3u8
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="Serbia ➾ Sports",Arena Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/60225.m3u8
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="Serbia ➾ Sports",Arena Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3462.m3u8
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="Serbia ➾ Sports",Arena Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3463.m3u8
+#EXTINF:0 tvg-id="ArenaSport4.rs" group-title="Serbia ➾ Sports",Arena Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3465.m3u8
+#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="Serbia ➾ Sports",Arena Sport 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3464.m3u8
+#EXTINF:0 tvg-id="ArenaSport6.hr" group-title="Serbia ➾ Sports",Arena Sport 6
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/36922.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia ➾ Sports",Arena Sport 7
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295312.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia ➾ Sports",Arena Sport 8
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295313.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia ➾ Sports",Arena Sport 9
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295314.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia ➾ Sports",Arena Sport 1x2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296564.m3u8
+#EXTINF:0 tvg-id="esp" group-title="Serbia ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/26660.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="Serbia ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/26664.m3u8
+#EXTINF:0 tvg-id="NOVAsport.bg" group-title="Serbia ➾ Sports",Nova Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/84781.m3u8
+#EXTINF:0 tvg-id="SportKlub.pl" group-title="Serbia ➾ Sports",Sport Klub
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3466.m3u8
+#EXTINF:0 tvg-id="SportKlub2.rs" group-title="Serbia ➾ Sports",Sport Klub 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3468.m3u8
+#EXTINF:0 tvg-id="SportKlub3.hr" group-title="Serbia ➾ Sports",Sport Klub 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3469.m3u8
+#EXTINF:0 tvg-id="SportKlub4.rs" group-title="Serbia ➾ Sports",Sport Klub 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/5563.m3u8
+#EXTINF:0 tvg-id="SportKlub5.rs" group-title="Serbia ➾ Sports",Sport Klub 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/10752.m3u8
+
+#EXTINF:0 tvg-id="esp2" group-title="Norway ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/84120.m3u8
+#EXTINF:0 tvg-id="EurosportNorge.no" group-title="Norway ➾ Sports",Eurosport Norge
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/174590.m3u8
+#EXTINF:0 tvg-id="RikstotoDirekte.no" group-title="Norway ➾ Sports",Rikstoto Direkte
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/90879.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway ➾ Sports",TV 2 Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/281627.m3u8
+#EXTINF:0 tvg-id="TV2Sport2.no" group-title="Norway ➾ Sports",TV 2 Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/21125.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway ➾ Sports",TV 2 Sport Premium
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/277945.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway ➾ Sports",TV 2 Sport Premium 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/264547.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway ➾ Sports",V Sport +
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295309.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway ➾ Sports",V Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297928.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway ➾ Sports",V Sport 1 Norge
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/264451.m3u8
+
+#EXTINF:0 tvg-id="esp" group-title="Denmark ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4582.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="Denmark ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4583.m3u8
+#EXTINF:0 tvg-id="MotorVision.de" group-title="Denmark ➾ Sports",Motorvision TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295565.m3u8
+#EXTINF:0 tvg-id="TV2Sport.dk" group-title="Denmark ➾ Sports",TV 2 Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4578.m3u8
+#EXTINF:0 tvg-id="TV2SPORTX.dk" group-title="Denmark ➾ Sports",TV 2 Sport X
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/227120.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Denmark ➾ Sports",TV 3 Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/4580.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Denmark ➾ Sports",V Sport Golf
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298451.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Denmark ➾ Sports",V Sport Ultra
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298452.m3u8
+
+#EXTINF:0 tvg-id="CMoreFotboll.se" group-title="Sweden ➾ Sports",C More Fotboll
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/10659.m3u8
+#EXTINF:0 tvg-id="CMoreHockey.se" group-title="Sweden ➾ Sports",C More Hockey
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/10663.m3u8
+#EXTINF:0 tvg-id="CMoreLive.se" group-title="Sweden ➾ Sports",C More Live
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6259.m3u8
+#EXTINF:0 tvg-id="CMoreLive2.se" group-title="Sweden ➾ Sports",C More LIVE 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6845.m3u8
+#EXTINF:0 tvg-id="CMoreLive3.se" group-title="Sweden ➾ Sports",C More Live 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295028.m3u8
+#EXTINF:0 tvg-id="CMoreLive4.se" group-title="Sweden ➾ Sports",C More Live 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/10664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",C More Live 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296939.m3u8
+#EXTINF:0 tvg-id="MTV3Max.fi" group-title="Sweden ➾ Sports",C More Max
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/24231.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",C More Mix
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295027.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",C More Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6844.m3u8
+#EXTINF:0 tvg-id="CMoreSport2.fi" group-title="Sweden ➾ Sports",C More Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/23379.m3u8
+#EXTINF:0 tvg-id="esp" group-title="Sweden ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6262.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="Sweden ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/10658.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",Horse & Country TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6264.m3u8
+#EXTINF:0 tvg-id="Sportkanalen.se" group-title="Sweden ➾ Sports",Sportkanalen
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/24184.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",V sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298468.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",V Sport Extra
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/198403.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",V Sport Golf
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/10652.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",V Sport Motor
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6273.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",V Sport Premium
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/6275.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",V Sport Ultra
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/192678.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden ➾ Sports",V Sport Vinter
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295029.m3u8
+
+#EXTINF:0 tvg-id="Arena4.hu" group-title="Hungary ➾ Sports",Arena 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/280262.m3u8
+#EXTINF:0 tvg-id="Eurosport1.hu" group-title="Hungary ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/72610.m3u8
+#EXTINF:0 tvg-id="Eurosport2.hu" group-title="Hungary ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/56762.m3u8
+#EXTINF:0 tvg-id="M4Sport.hu" group-title="Hungary ➾ Sports",M4 Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/47708.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hungary ➾ Sports",Spiler 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/56768.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hungary ➾ Sports",Spiler 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/77769.m3u8
+#EXTINF:0 tvg-id="Sport1.hu" group-title="Hungary ➾ Sports",Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/14987.m3u8
+#EXTINF:0 tvg-id="Sport2.hu" group-title="Hungary ➾ Sports",Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/14988.m3u8
+
+#EXTINF:0 tvg-id="DiemaSport1.bg" group-title="Bulgaria ➾ Sports",Diema Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/9181.m3u8
+#EXTINF:0 tvg-id="DiemaSport2.bg" group-title="Bulgaria ➾ Sports",Diema Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/9180.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria ➾ Sports",Diema Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/9179.m3u8
+#EXTINF:0 tvg-id="esp" group-title="Bulgaria ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/32010.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="Bulgaria ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/33578.m3u8
+#EXTINF:0 tvg-id="MaxSport1.bg" group-title="Bulgaria ➾ Sports",Max Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/20448.m3u8
+#EXTINF:0 tvg-id="MaxSport2.bg" group-title="Bulgaria ➾ Sports",Max Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/20449.m3u8
+#EXTINF:0 tvg-id="MaxSport3.bg" group-title="Bulgaria ➾ Sports",Max Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/16431.m3u8
+#EXTINF:0 tvg-id="MaxSport4.bg" group-title="Bulgaria ➾ Sports",Max Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/16433.m3u8
+#EXTINF:0 tvg-id="NOVAsport.bg" group-title="Bulgaria ➾ Sports",Nova Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/10531.m3u8
+#EXTINF:0 tvg-id="RINGBG.bg" group-title="Bulgaria ➾ Sports",Ring
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/20466.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria ➾ Sports",Sportal TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/280034.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",Canal+ Foot
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297372.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",Canal+ MotoGP
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297424.m3u8
+#EXTINF:0 tvg-id="CANAL+PREMIERLEAGUE.fr" group-title="South Africa ➾ Sports",CANAL+ Premier League
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297425.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",CANAL+ Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297375.m3u8
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="South Africa ➾ Sports",CANAL+ Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297376.m3u8
+#EXTINF:0 tvg-id="CanalPlusSport3.pl" group-title="South Africa ➾ Sports",CANAL+ Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297377.m3u8
+#EXTINF:0 tvg-id="CanalPlusSport4.pl" group-title="South Africa ➾ Sports",Canal+ Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297380.m3u8
+#EXTINF:0 tvg-id="CanalPlusSport5.pl" group-title="South Africa ➾ Sports",CANAL+ Sport 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297383.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",CANAL+ Sport 360
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297379.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",ESPN 2 Africa
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/295317.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",Ignition
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/38552.m3u8
+#EXTINF:0 tvg-id="NBA.blt" group-title="South Africa ➾ Sports",NBA TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297426.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Action
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/194354.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Blitz
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/281536.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Cricket
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11637.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Golf
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11641.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Grandstand
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/194353.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport LaLiga
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/194358.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Motorsport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11638.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Rugby
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11639.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Tennis
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/15200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Variety 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11633.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Variety 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11634.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Variety 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11635.m3u8
+#EXTINF:0 tvg-id="ext" group-title="South Africa ➾ Sports",SuperSport Variety 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11636.m3u8
+
+#EXTINF:0 tvg-id="esp" group-title="Russia ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12805.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="Russia ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/80264.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russia ➾ Sports",Horse World
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/194119.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russia ➾ Sports",KHL (КХЛ ТВ)
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/77314.m3u8
+#EXTINF:0 tvg-id="kxl-hd" group-title="Russia ➾ Sports",KHL Prime
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297582.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russia ➾ Sports",Match! (МАТЧ!)
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/75641.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russia ➾ Sports",Match! Arena (МАТЧ! АРЕНА)
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/55801.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russia ➾ Sports",Match! Boets (МАТЧ! БОЕЦ)
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/174136.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russia ➾ Sports",Match! Igra (МАТЧ! ИГРА)
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/231627.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russia ➾ Sports",Match! Premier
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/60499.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russia ➾ Sports",Match! Strana
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/148347.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russia ➾ Sports",Viju+ Sport
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/12811.m3u8
+
+#EXTINF:0 tvg-id="esp" group-title="Czech Republic ➾ Sports",EUROSPORT 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/46693.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="Czech Republic ➾ Sports",EUROSPORT 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/46698.m3u8
+#EXTINF:0 tvg-id="NovaSport.cz" group-title="Czech Republic ➾ Sports",Nova Sport 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/279611.m3u8
+#EXTINF:0 tvg-id="NovaSports2.gr" group-title="Czech Republic ➾ Sports",Nova Sport 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/46718.m3u8
+#EXTINF:0 tvg-id="NovaSports3.gr" group-title="Czech Republic ➾ Sports",Nova Sport 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298867.m3u8
+#EXTINF:0 tvg-id="NovaSports4.gr" group-title="Czech Republic ➾ Sports",Nova Sport 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298866.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Qatar ➾ Sports",Al Kass Five
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11901.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar ➾ Sports",Al Kass Four
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar ➾ Sports",Al Kass One
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/26389.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar ➾ Sports",Al Kass Six
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297008.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar ➾ Sports",Al Kass Three
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/265157.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar ➾ Sports",Al Kass Two
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/11899.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Qatar ➾ Sports",beIN Sports 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/100.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Qatar ➾ Sports",beIN Sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/101.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Qatar ➾ Sports",beIN Sports 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/102.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Qatar ➾ Sports",beIN Sports 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/103.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Qatar ➾ Sports",beIN Sports 5
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/104.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Qatar ➾ Sports",beIN Sports 6
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/105.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Qatar ➾ Sports",beIN Sports 7
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/106.m3u8
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="Qatar ➾ Sports",beIN Sports English 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/110.m3u8
+#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="Qatar ➾ Sports",beIN Sports English 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/111.m3u8
+#EXTINF:0 tvg-id="beINSportsEnglish3.qa" group-title="Qatar ➾ Sports",beIN Sports English 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/267769.m3u8
+#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="Qatar ➾ Sports",beIN Sports Max 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296991.m3u8
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="Qatar ➾ Sports",beIN Sports Max 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/199001.m3u8
+#EXTINF:0 tvg-id="BeINSportsMAX3.es" group-title="Qatar ➾ Sports",beIN Sports Max 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296992.m3u8
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Qatar ➾ Sports",beIN Sports Max 4
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/13813.m3u8
+#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="Qatar ➾ Sports",beIN Sports Max 8
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/298192.m3u8
+#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="Qatar ➾ Sports",beIN Sports Max 9
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/13816.m3u8
+#EXTINF:0 tvg-id="beinsportsnba.jsc" group-title="Qatar ➾ Sports",beIN Sports NBA
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/15962.m3u8
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="Qatar ➾ Sports",beIN Sports News
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1266.m3u8
+#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="Qatar ➾ Sports",beIN Sports Premium 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/109.m3u8
+#EXTINF:0 tvg-id="beINSportsPremium2.qa" group-title="Qatar ➾ Sports",beIN Sports Premium 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/280145.m3u8
+#EXTINF:0 tvg-id="beINSportsPremium3.qa" group-title="Qatar ➾ Sports",beIN Sports Premium 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/280249.m3u8
+#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="Qatar ➾ Sports",beIN Sports Xtra 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/290037.m3u8
+#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="Qatar ➾ Sports",beIN Sports Xtra 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/283294.m3u8
+
+#EXTINF:0 tvg-id="ADSports1.net" group-title="UAE ➾ Sports",Abu Dhabi Sports 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1296.m3u8
+#EXTINF:0 tvg-id="ADSports2.net" group-title="UAE ➾ Sports",Abu Dhabi Sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/1295.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Abu Dhabi Sports Asia 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296837.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Abu Dhabi Sports Premium 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296836.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Abu Dhabi Sports Premium 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/296835.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Dubai Racing
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/3730.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Dubai Racing 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/19855.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Dubai Racing 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/21999.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Dubai Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/22058.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Dubai Sports 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/43778.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Dubai Sports 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/21998.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Sharjah Sports TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/2938.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",StarzPlay Criclife 1
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297605.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",StarzPlay Criclife 2
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297606.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",StarzPlay Criclife 3
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297604.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",StarzPlay Sports
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/297607.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UAE ➾ Sports",Yas TV
+http://iptvtree.net:8080/live/kodicologne/48e237edd2/22009.m3u8
+

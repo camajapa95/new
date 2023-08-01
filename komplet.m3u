@@ -30,9 +30,9 @@ http://46.240.130.158/B92/index.m3u8?token=test
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/65848.m3u8
 #EXTINF:-1 tvg-id="BHT" tvg-logo="https://www.jagledam.com/logo/logobht.jpg" tvg-name="BHT 1" group-title="Bosnia Herzegovina",BHT 1
 https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" tvg-name="RTV BN" group-title="Bosnia Herzegovina",BN
+#EXTINF:-1 tvg-id="BN BIH" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" tvg-name="BN BIH" group-title="Bosnia Herzegovina",BN BIH
 https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" tvg-name="RTV BN" group-title="Bosnia Herzegovina",BN
+#EXTINF:-1 tvg-id="BN 2" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" tvg-name="BN 2" group-title="Bosnia Herzegovina",BN 2
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/265789.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagledam.com/logo/logobtr.jpg" tvg-name="BTR" group-title="Macedonia",BTR
 http://fms.zulu.mk:554/zulu/btr_1/playlist.m3u8
@@ -40,15 +40,7 @@ http://fms.zulu.mk:554/zulu/btr_1/playlist.m3u8
 http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/146.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg" tvg-name="Dobra TV" group-title="Bosnia Herzegovina",Dobra TV
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/197589.m3u8
-#EXTINF:-1tvg-id=""tvg-name="DOBRA BALKANSKA"tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png"group-title="Bosnia Herzegovina",DOBRA BALKANSKA
-http://iptvtree.net:8080/live/kodicologne/48e237edd2/295235.m3u8
-#EXTINF:-1tvg-id=""tvg-name="DOBRA DJECIJA"tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg"group-title="Bosnia Herzegovina",DOBRA DJECIJA
-http://iptvtree.net:8080/live/kodicologne/48e237edd2/295230.m3u8
-#EXTINF:-1tvg-id=""tvg-name="DOBRA Croatia"tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg"group-title="Bosnia Herzegovina",DOBRA Croatia
-http://iptvtree.net:8080/live/kodicologne/48e237edd2/295229.m3u8
-#EXTINF:-1tvg-id=""tvg-name="DOBRA ISLAMSKA"tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg"group-title="Bosnia Herzegovina",DOBRA ISLAMSKA
-http://iptvtree.net:8080/live/kodicologne/48e237edd2/295228.m3u8
-#EXTINF:-1 tvg-id="DOMA TV" tvg-logo="https://www.jagledam.com/logo/logodoma.jpg" tvg-name="Doma" group-title="Croatia",Doma
+#EXTINF:-1 tvg-id="DOMA TV" tvg-logo="https://www.jagledam.com/logo/logodoma.jpg" tvg-name="Doma TV" group-title="Croatia",Doma TV HD
 http://46.240.130.158/DomaTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="DUGA TV (SN)" tvg-logo="https://www.jagledam.com/logo/logoduga.jpg" tvg-name="Duga" group-title="Serbia",Duga
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
@@ -70,7 +62,7 @@ http://iptvtree.net:8080/live/kodicologne/48e237edd2/23472.m3u8
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 #EXTINF:-1 tvg-id="Happy" tvg-logo="https://www.jagledam.com/logo/logohappy.jpg" tvg-name="Happy TV" group-title="Serbia",Happy TV
 http://195.222.53.136:8080/happy/index.m3u8
-#EXTINF:-1 tvg-id="HAYAT TV" tvg-logo="https://www.jagledam.com/logo/logohayat.jpg" tvg-name="Hayat" group-title="Bosnia Herzegovina",Hayat
+#EXTINF:-1 tvg-id="HAYAT TV" tvg-logo="https://www.jagledam.com/logo/logohayat.jpg" tvg-name="Hayat TV" group-title="Bosnia Herzegovina",Hayat TV
 http://195.222.53.136:8080/hayat/index.m3u8
 #EXTINF:-1 tvg-id="HAYAT PLUS" tvg-logo="https://www.jagledam.com/logo/logohayatplus.jpg" tvg-name="Hayat Plus" group-title="Bosnia Herzegovina",Hayat Plus
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/6899.m3u8
@@ -85,7 +77,7 @@ http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/152.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagledam.com/logo/logohrtint.jpg" tvg-name="HRT int" group-title="Croatia",HRT int
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/16583.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagledam.com/logo/logokanal3.jpg" tvg-name="Kanal 3" group-title="Serbia",Kanal 3
-http://iptvtree.net:8080/live/kodicologne/48e237edd2/603.m3u8
+
 #EXTINF:-1 tvg-id="KANAL 5 TV" tvg-logo="https://www.jagledam.com/logo/logokanal5.jpg" tvg-name="Kanal 5" group-title="Macedonia",Kanal 5
 http://51.195.90.133:8081/tvstanici/2/KANAL-5-mk-AM-playlist.m3u8
 #EXTINF:-1 tvg-id="KANAL 5 PLUS" tvg-logo="https://www.jagledam.com/logo/plus5.jpg" tvg-name="Kanal 5 Plus" group-title="Macedonia",Kanal 5 Plus
@@ -104,7 +96,7 @@ http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/81.m3u8
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagledam.com/logo/logomistelevizija.jpg" tvg-name="MIS TV" group-title="Serbia",MIS TV
 https://5afd52b55ff79.streamlock.net/MISTV/MISTV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id=")" http-referrer=http://zultv.com/ tvg-logo="https://www.jagledam.com/logo/mrt1.jpg" tvg-name="MRT 1" group-title="Macedonia",MRT 1
+#EXTINF:-1 tvg-id="MRT 1" http-referrer=http://zultv.com/ tvg-logo="https://www.jagledam.com/logo/mrt1.jpg" tvg-name="MRT 1" group-title="Macedonia",MRT 1
 #EXTVLCOPT:http-referrer=http://zultv.com/
 https://s1.teve.mk/tvstanici/6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagledam.com/logo/logomrtsat.jpg" tvg-name="MRT 1 sat" group-title="Macedonia",MRT 1 sat
@@ -205,7 +197,7 @@ http://46.240.130.158/RTL2HR/index.m3u8?token=test
 #EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://www.jagledam.com/logo/logortl2.jpg" tvg-name="RTL 2 FHD" group-title="Croatia",RTL 2 FHD
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist_hd2.m3u8
 #EXTINF:-1 tvg-id="RTRS" tvg-logo="https://www.jagledam.com/logo/logortrs.jpg" tvg-name="RTRS" group-title="Bosnia Herzegovina",RTRS
-http://iptvtree.net:8080/live/kodicologne/48e237edd2/10735.m3u8
+http://mobile.rtrs.tv:1935/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRS Plus" tvg-logo="https://www.jagledam.com/logo/logortrsplus.jpg" tvg-name="RTRS plus" group-title="Bosnia Herzegovina",RTRS plus
 https://pluslive.rtrs.tv/plus/plus/index.m3u8
 #EXTINF:-1 tvg-id="RTS 1 HD" http-referrer=https://tvkanaliuzivo.live/ tvg-logo="https://www.jagledam.com/logo/logorts1.jpg" tvg-name="RTS 1 FHD" group-title="Serbia",RTS 1 FHD

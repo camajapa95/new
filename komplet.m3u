@@ -915,15 +915,15 @@ http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/55.m3u8
 #EXTINF: 1 tvg id="FOX Movies" tvg-logo="https://www.jagledam.com/logo/logofoxmovies.jpg" tvg-name="FOX Movies"group-title="Filmski",FOX Movies
 http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/70.m3u8
 #EXTINF: 1 tvg id="HBO Adria" tvg-logo="https://www.jagledam.com/logo/logohbo.jpg" tvg-name="HBO Adria"group-title="Filmski",HBO Adria
-http://213.186.23.21:8000/HBO%201?u=00:1A:79:00:FE:67:p=001A7900FE67
+http://212.200.164.212:8080/HBO_1/index.m3u8?token=test
 #EXTINF: 1 tvg id="HBO 2" tvg-logo="https://www.jagledam.com/logo/logohbo2.jpg" tvg-name="HBO 2"group-title="Filmski",HBO 2
-http://213.186.23.21:8000/HBO%202?u=00:1A:79:00:FE:67:p=001A7900FE67
+http://212.200.164.212:8080/HBO_2/index.m3u8?token=test
 #EXTINF: 1 tvg id="HBO 3" tvg-logo="https://www.jagledam.com/logo/logohbo3.jpg" tvg-name="HBO 3"group-title="Filmski",HBO 3
 http://213.186.23.21:8000/HBO%203?u=00:1A:79:00:FE:67:p=001A7900FE67
 #EXTINF: 1 tvg id="HBO Comedy" tvg-logo="https://www.jagledam.com/logo/logohbocomedy.jpg" tvg-name="HBO Comedy"group-title="Filmski",HBO Comedy
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/151864.m3u8
 #EXTINF: 1 tvg id="Klasik TV" tvg-logo="https://www.jagledam.com/logo/logoklasik.jpg" tvg-name="Klasik TV"group-title="Filmski",Klasik TV
-http://213.186.23.21:8000/Klasik%20Tv?u=00:1A:79:00:FE:67:p=001A7900FE67
+http://iptvtree.net:8080/live/kodicologne/40bcdac324/3404.m3u8
 #EXTINF: 1 tvg id="M1 Film" tvg-logo="https://www.jagledam.com/logo/logom1film.jpg" tvg-name="M1 Film"group-title="Filmski",M1 Film
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/4173.m3u8
 #EXTINF: 1 tvg id="M1 Film Family" tvg-logo="https://www.jagledam.com/logo/logom1film.jpg" tvg-name="M1 Film Family"group-title="Filmski",M1 Film Family
@@ -941,36 +941,36 @@ http://iptvtree.net:8080/live/kodicologne/48e237edd2/298439.m3u8
 #EXTINF:-1tvg-id=""tvg-name="Nova World"tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a2487222c7f192a9d184a4fb0187ac50.png"group-title="Filmski",Nova World
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/54277.m3u8
 #EXTINF: 1 tvg id="Pink Action" tvg-logo="https://www.jagledam.com/logo/pinkaction.jpg" tvg-name="Pink Action"group-title="Filmski",Pink Action
-http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1770.ts
+http://46.240.130.158/PinkAction/index.m3u8?token=test
 #EXTINF: 1 tvg id="Pink Classic" tvg-logo="https://www.jagledam.com/logo/pinkclassic.jpg" tvg-name="Pink Classic"group-title="Filmski",Pink Classic
-http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1788.ts
+http://46.240.130.158/PinkClassic/index.m3u8?token=test
 #EXTINF: 1 tvg id="Pink Comedy" tvg-logo="https://www.jagledam.com/logo/logopinkcomedy.jpg" tvg-name="Pink Comedy"group-title="Filmski",Pink Comedy
 http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1772.ts
 #EXTINF: 1 tvg id="Pink Crime and Mystery" tvg-logo="https://www.jagledam.com/logo/logopinkcrimeandmystery.jpg" tvg-name="Pink Crime and Mystery"group-title="Filmski",Pink Crime and Mystery
-http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1774.ts
+http://46.240.130.158/PinkComedy/index.m3u8?token=test
 #EXTINF: 1 tvg id="Pink Film" tvg-logo="https://www.jagledam.com/logo/logopinkfilm.jpg" tvg-name="Pink Film"group-title="Filmski",Pink Film
-http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1794.ts
+http://46.240.130.158/PinkFilm/index.m3u8?token=test
 #EXTINF: 1 tvg id="Pink Horror" tvg-logo="https://www.jagledam.com/logo/pinkhorror.jpg" tvg-name="Pink Horror"group-title="Filmski",Pink Horror
-http://iptvtree.net:8080/live/kodicologne/48e237edd2/3437.m3u8
+http://46.240.130.158/PinkHorror/index.m3u8?token=test
 #EXTINF: 1 tvg id="Pink Movies" tvg-logo="https://www.jagledam.com/logo/logopinkmovies.jpg" tvg-name="Pink Movies"group-title="Filmski",Pink Movies
-http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1779.ts
+http://46.240.130.158/PinkMovies/index.m3u8?token=test
 #EXTINF: 1 tvg id="Pink premium" tvg-logo="https://www.jagledam.com/logo/logopinkpremium.jpg" tvg-name="Pink premium"group-title="Filmski",Pink premium
-http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1786.ts
+http://46.240.130.158/PinkPremium/index.m3u8?token=test
 #EXTINF: 1 tvg id="Pink SciFi and Fantasy" tvg-logo="https://www.jagledam.com/logo/logopinkscifiandfantasy.jpg" tvg-name="Pink SciFi and Fantasy"group-title="Filmski",Pink SciFi and Fantasy
-http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1777.ts
+http://46.240.130.158/PinkSciFi/index.m3u8?token=test
 #EXTINF: 1 tvg id="Pink Thriller" tvg-logo="https://www.jagledam.com/logo/logopinkthriller.jpg" tvg-name="Pink Thriller"group-title="Filmski",Pink Thriller
-http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1780.ts
+http://195.222.53.136:8080/pink-triler/index.m3u8
 #EXTINF: 1 tvg id="Pink Western" tvg-logo="https://www.jagledam.com/logo/logopinkwestern.jpg" tvg-name="Pink Western"group-title="Filmski",Pink Western
 http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1792.ts
 #EXTINF: 1 tvg id="Pink World Cinema" tvg-logo="https://www.jagledam.com/logo/logopinkworldcinema.jpg" tvg-name="Pink World Cinema"group-title="Filmski",Pink World Cinema
-http://tvip.world:80/live/PINKKANALI/QqewTB5Smr/1800.ts
+http://195.222.53.136:8080/pink-western/index.m3u8
 #EXTINF: 1 tvg id="RTL Crime" tvg-logo="https://www.jagledam.com/logo/logortlcrime.jpg" tvg-name="RTL Crime"group-title="Filmski",RTL Crime
 https://djcm0qygn4i0x.cloudfront.net/rtl-crime/playlist.m3u8
 #EXTINF: 1 tvg id="RTS Drama" tvg-logo="https://www.jagledam.com/logo/logortsdrama.jpg" tvg-name="RTS Drama"group-title="Filmski",RTS Drama
 http://46.240.130.158/RTSDrama/index.m3u8?token=test
 #EXTINF: 1 tvg id="Sci Fi" tvg-logo="https://www.jagledam.com/logo/logoscifi.jpg" tvg-name="Sci Fi"group-title="Filmski",Sci Fi
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/4199.m3u8
-#EXTINF: 1 tvg id="STAR TV" tvg-logo="https://www.jagledam.com/logo/logostartv.jpg" tvg-name="STAR TV"group-title="Filmski",STAR TV
+#EXTINF: 1 tvg id="SUPERSTAR TV" tvg-logo="https://www.jagledam.com/logo/logostartv.jpg" tvg-name="SUPERSTAR TV"group-title="Filmski",SUPERSTAR TV
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/27418.m3u8
 #EXTINF: 1 tvg id="SUPERSTAR 2" tvg-logo="https://www.jagledam.com/logo/logostartv.jpg" tvg-name="SUPERSTAR 2"group-title="Filmski",SUPERSTAR 2
 
@@ -980,9 +980,9 @@ http://iptvtree.net:8080/live/kodicologne/48e237edd2/765.m3u8
 http://46.240.143.86/TV1000/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Baby TV" tvg-logo="https://www.jagledam.com/logo/logobabytv.jpg" tvg-name="Baby TV" group-title="Dječiji",Baby TV
-http://iptvtree.net:8080/live/kodicologne/48e237edd2/13472.ts
+http://46.240.130.158/BabyTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://www.jagledam.com/logo/logoboomerang.jpg" tvg-name="Boomerang" group-title="Dječiji",Boomerang
-http://iptvtree.net:8080/live/kodicologne/48e237edd2/65857.ts
+http://195.222.53.136:8080/Boomerang/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://www.jagledam.com/logo/logocartoonnet.jpg" tvg-name="Cartoon Network" group-title="Dječiji",Cartoon Network
 http://45.92.110.243:80/play/nDlvA26Ss7TrEyr4oZ48ZPEExxVmELoNV_3FJW9o65YwOhi4x0PXUAg0l1vQHg38
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://www.jagledam.com/logo/logodisney.jpg" tvg-name="Disney Channel" group-title="Dječiji",Disney Channel
@@ -1116,9 +1116,9 @@ http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 tvg-id="ARENASPORT 6 SRB" tvg-logo="https://www.jagledam.com/logo/logoarenasport6.jpg" tvg-name="ARENASPORT 6 SRB" group-title="⚽ Sports",ARENASPORT 6 SRB
 http://46.240.130.158/Arena6/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://www.jagledam.com/logo/logoeurosport.jpg" tvg-name="Eurosport" group-title="⚽ Sports",Eurosport
-http://46.240.143.86/Eurosport/tracks-v1a1/mono.m3u8?token=test
+http://185.6.22.6:8000/play/a02q
 #EXTINF:-1 tvg-id="EuroSport 2" tvg-logo="https://www.jagledam.com/logo/logoeurosport2.jpg" tvg-name="EuroSport 2" group-title="⚽ Sports",EuroSport 2
-http://46.240.143.86/Eurosport2/tracks-v1a1/mono.m3u8?token=test
+http://185.6.22.6:8000/play/a035
 #EXTINF:-1 tvg-id="Fast and Fun Box" tvg-logo="https://www.jagledam.com/logo/logofastandfunbox.jpg" tvg-name="Fast and Fun Box" group-title="⚽ Sports",Fast and Fun Box
 http://178.217.15.36/fastnfun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fight Network" tvg-logo="https://www.jagledam.com/logo/logofightnetwork.jpg" tvg-name="Fight Network" group-title="⚽ Sports",Fight Network

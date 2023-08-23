@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="----Bosnia Herzegovina" tvg-logo="https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-button-square-500.png" tvg-name="Bosnia Herzegovina" group-title="Bosnia Herzegovina",Bosnia Herzegovina 🇧🇦
-https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-button-square-500.png
-#EXTINF:-1 tvg-id="----Croatia" tvg-logo="https://cdn.countryflags.com/thumbs/croatia/flag-button-square-500.png" tvg-name="Croatia" group-title="Croatia",Croatia 🇭🇷 
-https://cdn.countryflags.com/thumbs/croatia/flag-button-square-500.png
-#EXTINF:-1 tvg-id="----Serbia" tvg-logo="https://cdn.countryflags.com/thumbs/serbia/flag-button-square-500.png" tvg-name="Serbia" group-title="Serbia",Serbia 🇷🇸 
-https://cdn.countryflags.com/thumbs/serbia/flag-button-square-500.png
-#EXTINF:-1 tvg-id="----Montenegro" tvg-logo="https://cdn.countryflags.com/thumbs/montenegro/flag-button-square-500.png" tvg-name="Montenegro" group-title="Montenegro",Montenegro 🇲🇪 
-https://cdn.countryflags.com/thumbs/montenegro/flag-button-square-500.png
-#EXTINF:-1 tvg-id="----Macedonia" tvg-logo="https://cdn.countryflags.com/thumbs/north-macedonia/flag-button-square-500.png" tvg-name="Macedonia" group-title="Macedonia",Macedonia 🇲🇰 
-https://cdn.countryflags.com/thumbs/north-macedonia/flag-button-square-500.png
-#EXTINF:-1 tvg-id="----Kosovo" tvg-logo="https://cdn.countryflags.com/thumbs/kosovo/flag-button-square-500.png" tvg-name="Kosovo" group-title="Kosovo",Kosovo 🇽🇰 
-https://cdn.countryflags.com/thumbs/kosovo/flag-button-square-500.png
-#EXTINF:-1 tvg-id="----Slovenia" tvg-logo="https://cdn.countryflags.com/thumbs/slovenia/flag-button-square-500.png" tvg-name="Slovenia" group-title="Slovenia",Slovenia 🇸🇮 
-https://cdn.countryflags.com/thumbs/slovenia/flag-button-square-500.png
-#EXTINF:-1 tvg-id="----Germany" tvg-logo="https://cdn.countryflags.com/thumbs/germany/flag-button-square-500.png" tvg-name="Germany" group-title="Germany",Germany 🇩🇪 
-https://cdn.countryflags.com/thumbs/germany/flag-button-square-500.png
-#EXTINF:-1 tvg-id="----Germany" tvg-logo="https://cdn.countryflags.com/thumbs/austria/flag-button-square-500.png" tvg-name="Germany" group-title="Germany",Austria 🇦🇹 
-https://cdn.countryflags.com/thumbs/austria/flag-button-square-500.png
-#EXTINF:-1 tvg-id="----Germany" tvg-logo="https://cdn.countryflags.com/thumbs/switzerland/flag-button-square-500.png" tvg-name="Germany" group-title="Germany",Switzerland 🇨🇭 
-https://cdn.countryflags.com/thumbs/switzerland/flag-button-square-500.png
+#EXTINF:-1 tvg-id="----Bosnia Herzegovina" tvg-logo="https://tvepg.eu/assets/img/flagsM/bs.png" tvg-name="Bosnia Herzegovina" group-title="Bosnia Herzegovina",Bosnia Herzegovina
+https://tvepg.eu/assets/img/flagsM/bs.png
+#EXTINF:-1 tvg-id="----Croatia" tvg-logo="https://tvepg.eu/assets/img/flagsM/hr.png" tvg-name="Croatia" group-title="Croatia",Croatia
+https://tvepg.eu/assets/img/flagsM/hr.png
+#EXTINF:-1 tvg-id="----Serbia" tvg-logo="https://tvepg.eu/assets/img/flagsM/sr.png" tvg-name="Serbia" group-title="Serbia",Serbia
+https://tvepg.eu/assets/img/flagsM/sr.png
+#EXTINF:-1 tvg-id="----Montenegro" tvg-logo="https://tvepg.eu/assets/img/flagsM/me.png" tvg-name="Montenegro" group-title="Montenegro",Montenegro
+https://tvepg.eu/assets/img/flagsM/me.png
+#EXTINF:-1 tvg-id="----Macedonia" tvg-logo="https://tvepg.eu/assets/img/flagsM/mk.png" tvg-name="Macedonia" group-title="Macedonia",Macedonia
+https://tvepg.eu/assets/img/flagsM/mk.png
+#EXTINF:-1 tvg-id="----Kosovo" tvg-logo="https://tvepg.eu/assets/img/flagsM/xk.png" tvg-name="Kosovo" group-title="Kosovo",Kosovo
+https://tvepg.eu/assets/img/flagsM/xk.png
+#EXTINF:-1 tvg-id="----Slovenia" tvg-logo="https://tvepg.eu/assets/img/flagsM/sl.png" tvg-name="Slovenia" group-title="Slovenia",Slovenia
+https://tvepg.eu/assets/img/flagsM/sl.png
+#EXTINF:-1 tvg-id="----Germany" tvg-logo="https://tvepg.eu/assets/img/flagsM/de.png" tvg-name="Germany" group-title="Germany",Germany
+https://tvepg.eu/assets/img/flagsM/de.png
+#EXTINF:-1 tvg-id="----Germany" tvg-logo="https://tvepg.eu/assets/img/flagsM/at.png" tvg-name="Germany" group-title="Germany",Austria
+https://tvepg.eu/assets/img/flagsM/at.png
+#EXTINF:-1 tvg-id="----Sw" tvg-logo="https://tvepg.eu/assets/img/flagsM/ch.png" tvg-name="Germany" group-title="Germany",Switzerland
+https://tvepg.eu/assets/img/flagsM/ch.png
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagledam.com/logo/logoa1.jpg" tvg-name="A1 Montenegro" group-title="Montenegro"http-user-agent=Lavf/56.15.10,A1 Montenegro
 #EXTVLCOPT:http-user-agent=Lavf/56.15.10
 http://178.132.6.97/A1Balkan/tracks-v1a1/index.m3u8
@@ -579,9 +579,9 @@ https://frn.rtsp.me/VPrbvTEh-ETKk_rLTSXH_g/1639745487/hls/G65nDKKN.m3u8?ip=109.2
 #EXTINF: 1 tvg-id="Z1" tvg-logo="https://www.jagledam.com/logo/logoz1.jpg" tvg-name="Z1" group-title="Croatia",Z1
 http://iptvtree.net:8080/live/kodicologne/48e237edd2/3458.m3u8
 #EXTINF: 1 tvg-id="Z1" referrer="http://www.z1tv.hr/hr/livestream/" user-agent="Star Wars" tvg-logo="https://www.jagledam.com/logo/logoz1.jpg" tvg-name="Z1" group-title="Croatia",Z1
-#EXTVLCOPT:http-referrer=https://iframe.dacast.com/
+#EXTVLCOPT:http-referrer=http://www.z1tv.hr/hr/livestream/
 #EXTVLCOPT:http-user-agent=https://www.cloudflare.com/cdn-cgi/trace
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/23ae13acb237431d9462cc3327163b2f/chunklist_b4628000.m3u8?p=79&s=1692242999&e=1692243599&h=7eba4ae225ea14cc11496d210438621f
+https://iframe.dacast.com/live/c9333166-8b5f-52e8-f7f9-d79aaa828b31/d05ab737-2fd3-8e33-27de-58d48f73eebb
 #EXTINF: 1 tvg-id="Zdravkin" tvg-logo="https://www.jagledam.com/logo/logozdravkin.jpg" tvg-name="Zdravkin" group-title="Macedonia",Zdravkin
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 
@@ -1268,51 +1268,82 @@ http://iptvtree.net:8080/live/kodicologne/48e237edd2/65841
 
 #EXTINF:-1 tvg-id="Zdrava TV SR" tvg-logo="https://www.jagledam.com/logo/logozdravatvsr.jpg" tvg-name="Zdrava TV SR" group-title="Religijski",Zdrava TV SR
 
-#EXTINF:-1 tvg-id="rtl.de" tvg-logo="https://www.fernsehzone.de/static/6490abf027d8b56fefa99210d3c652b0/143e9/b682a3da-0a6e-4df9-a7ef-d4377f2407d7_4808_6264.webp" tvg-name="" group-title="Germany",RTL (DE)
-http://213.186.23.21:8000/Rtl%20DE?u=00:1A:79:00:FE:67:p=001A7900FE67
-#EXTINF:-1 tvg-id="rtl2.de" tvg-logo="" tvg-name="" group-title="Germany",RTL II (DE)
-http://213.186.23.21:8000/Rtl%202%20DE?u=00:1A:79:00:FE:67:p=001A7900FE67
-#EXTINF:-1 tvg-id="pro7.de" tvg-logo="" tvg-name="" group-title="Germany",Pro Sieben
-http://213.186.23.21:8000/Pro%20Sieben?u=00:1A:79:00:FE:67:p=001A7900FE67
-#EXTINF:-1 tvg-id="vox.de" tvg-logo="" tvg-name="" group-title="Germany",Vox
-http://213.186.23.21:8000/Vox?u=00:1A:79:00:FE:67:p=001A7900FE67
-#EXTINF:-1 tvg-id="kabel1.de" tvg-logo="" tvg-name="" group-title="Germany",Kabel 1
-http://213.186.23.21:8000/Kabel%201?u=00:1A:79:00:FE:67:p=001A7900FE67
-#EXTINF:-1 tvg-id="sat1.de" tvg-logo="" tvg-name="" group-title="Germany",Sat 1
-http://213.186.23.21:8000/Sat%201?u=00:1A:79:00:FE:67:p=001A7900FE67
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="" tvg-name="DMAX (DE)" group-title="Germany",DMAX (DE)
-http://213.186.23.21:8000/Dmax?u=00:1A:79:00:FE:67:p=001A7900FE67
-#EXTINF:-1 tvg-id="" tvg-logo="zdf.de" tvg-name="" group-title="Germany",Zdf
-http://213.186.23.21:8000/Zdf?u=00:1A:79:00:FE:67:p=001A7900FE67
-#EXTINF:-1 tvg-id="daserste.de" tvg-logo="" tvg-name="" group-title="Germany",Das Erste
-http://213.186.23.21:8000/Das%20Erste?u=00:1A:79:00:FE:67:p=001A7900FE67
-#EXTINF:-1 tvg-id="sport1" tvg-logo="https://www.fernsehzone.de/static/9cd9c558ad027d5879e912c65fd0aa87/b52b2/2d89461e-2859-4d62-988f-0edfb97bcdfc_3421_9133.png" tvg-name="" group-title="Germany",Sport 1
-http://213.186.23.21:8000/Sport%201?u=00:1A:79:00:FE:67:p=001A7900FE67
-#EXTINF:0 tvg-id="Vox.de" tvg-logo="https://www.fernsehzone.de/static/78596c927781f448370bd6be1cc1d503/b52b2/d925f772-fe1d-4336-a01d-e1f35b1617e1_1940_3166.png" group-title="Germany",VOX DE
-https://fernsehzone.online/getstream.php/vox.m3u8
-#EXTINF:0 tvg-id="RTL.de" tvg-logo="https://www.fernsehzone.de/static/52d719450d6c4dc9a5d2c86ab0ba3ee9/b52b2/ec041f09-450c-4012-9daf-1b8c26da06b5_9718_8041.png" group-title="Germany",RTL DE
-https://fernsehzone.online/getstream.php/rtl.m3u8
-#EXTINF:0 tvg-id="RTL2.de" tvg-logo="https://www.fernsehzone.de/static/f11b66fbbe7ea59bb9c39f2f12f4572a/b52b2/3455805f-e1d1-4f70-a2f1-f2732cf00176_3761_2941.png" group-title="Germany",RTL 2 DE
-https://fernsehzone.online/getstream.php/rtl2-zwei.m3u8
-#EXTINF:0 tvg-id="ComedyCentralVIVA.de" group-title="Germany",COMEDY CENTRAL DE
-https://fernsehzone.online/getstream.php/comedy-central.m3u8
-#EXTINF:0 tvg-id="Kabel.de" tvg-logo="https://www.fernsehzone.de/static/06ac7b1ec892a472f5a6ac69a0adfd9b/b52b2/996c0415-8282-4649-90ef-30423f511fc4_2888_6057.png" group-title="Germany",KABEL 1 DE
-https://fernsehzone.online/getstream.php/kabel-1.m3u8
-#EXTINF:0 tvg-id="ORF1.at" group-title="Germany",ORF 1 DE
-https://fernsehzone.online/getstream.php/orf1-live.m3u8
-#EXTINF:0 tvg-id="ORF2.at" group-title="Germany",ORF 2 DE
-https://fernsehzone.online/getstream.php/orf2-live.m3u8
-#EXTINF:0 tvg-id="Pro7.ch" tvg-logo="https://www.fernsehzone.de/static/960b771e19af751119734b2ce3e4b0b5/b52b2/9a2e765f-4f58-4531-b6ea-5f7266da0de9_1222_9112.png group-title="Germany",PRO 7 DE
-https://fernsehzone.online/getstream.php/pro7.m3u8
-#EXTINF:0 tvg-id="ntv.de" tvg-logo="https://www.fernsehzone.de/static/285b112a080e71d5c4e260a9500e6476/b52b2/05e3d9a9-1e18-4aac-a57e-352b6737aae2_1645_3926.png" group-title="Germany",N-TV DE
-https://fernsehzone.online/getstream.php/n-tv-live.m3u8
-#EXTINF:0 tvg-id="Sat1.de" tvg-logo="https://www.fernsehzone.de/static/d1da4afcf945b3dd1f92ef14398c5965/b52b2/4203d670-f620-4151-a0bb-0fcb76ea8781_3163_5745.png" group-title="Germany",SAT.1 DE
-https://fernsehzone.online/getstream.php/sat1.m3u8
-#EXTINF:0 tvg-id="DMax.de" tvg-logo="https://www.fernsehzone.de/static/d9bea1b926acef94a637278626795147/b52b2/f4c50d73-e299-4a3a-afdc-a9093b7f42f4_5416_5235.png" group-title="Germany",DMAX DE
-https://fernsehzone.online/getstream.php/dmax.m3u8
-#EXTINF:0 tvg-id="n24.de" tvg-logo="https://www.fernsehzone.de/static/b7c6ee491b4f9ab3f194624fd11e92fa/b52b2/6407cb82-eab7-4ecc-9849-d71040716f85_6591_9705.png" group-title="Germany",N24 DE
-https://fernsehzone.online/getstream.php/n24-live.m3u8
-
+#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="Germany",ZDF Ⓖ
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="3sat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png" tvg-id="3sat.de" group-title="Germany",3sat Ⓖ
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ARD Alpha Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png" tvg-id="ARDalpha.de" group-title="Germany",ARD Alpha Ⓖ
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="ARTE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/186px-Arte_Logo_2017.svg.png" tvg-id="ARTEDeutsch.de" group-title="Germany",ARTE Ⓖ
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="Schlager Deluxe" tvg-logo="https://i.imgur.com/YPpgUOg.png" tvg-id="SchlagerDeluxe.de" group-title="Germany",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/JN6Kd0q.png" tvg-id="DeluxeLoungeHD.de" group-title="Germany",Deluxe Lounge HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+#EXTINF:-1 tvg-name="Euronews Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/640px-Euronews_2016_logo.svg.png" tvg-id="EuronewsGerman.fr" group-title="Germany",Euronews Deutsch
+https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1 tvg-name="KiKa Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png" tvg-id="KIKA.de" group-title="Germany",KiKa Ⓖ
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-name="MTV Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/640px-MTV-2021.svg.png" tvg-id="MTVGermany.de" group-title="Germany",MTV Germany
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+#EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://i.imgur.com/mhldfsB.png" tvg-id="NickGermany.de" group-title="Germany",Nick Ⓖ
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-name="ONE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/640px-One_2022.svg.png" tvg-id="One.de" group-title="Germany",ONE Ⓖ
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-name="Phoenix Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/640px-Phoenix-logo-2018.svg.png" tvg-id="Phoenix.de" group-title="Germany",Phoenix Ⓖ
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png" tvg-id="tagesschau24.de" group-title="Germany",Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-name="Welt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/640px-Welt_TV_Logo_2016.svg.png" tvg-id="Welt.de" group-title="Germany",Welt
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/640px-ZDFinfo_2011.svg.png" tvg-id="ZDFinfo.de" group-title="Germany",ZDFinfo Ⓖ
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDFneo Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/569px-ZDFneo2017_Logo.svg.png" tvg-id="ZDFneo.de" group-title="Germany",ZDFneo Ⓖ
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="BR Nord Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" tvg-id="BRFernsehenNord.de" group-title="Germany",BR Nord Ⓖ
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="BR Süd Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" tvg-id="BRFernsehenSud.de" group-title="Germany",BR Süd Ⓖ
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="HR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hr-fernsehen_Logo_2015.svg/640px-Hr-fernsehen_Logo_2015.svg.png" tvg-id="HRFernsehen.de" group-title="Germany",HR Ⓖ
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png" tvg-id="MDRFernsehenSachsen.de" group-title="Germany",MDR Sachsen Ⓖ
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png" tvg-id="MDRFernsehenSachsenAnhalt.de" group-title="Germany",MDR Sachsen-Anhalt Ⓖ
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+#EXTINF:-1 tvg-name="MDR Thüringen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png" tvg-id="MDRFernsehenThuringen.de" group-title="Germany",MDR Thüringen Ⓖ
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+#EXTINF:-1 tvg-name="NDR Hamburg Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenHamburg.de" group-title="Germany",NDR Hamburg Ⓖ
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenMecklenburgVorpommern.de" group-title="Germany",NDR Mecklenburg-Vorpommern Ⓖ
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-name="NDR Niedersachsen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenNiedersachsen.de" group-title="Germany",NDR Niedersachsen Ⓖ
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenSchleswigHolstein.de" group-title="Germany",NDR Schleswig-Holstein Ⓖ
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-name="Radio Bremen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/640px-Logo_Radio_Bremen.svg.png" tvg-id="RadioBremenFernsehen.de" group-title="Germany",Radio Bremen Ⓖ
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-name="RBB Berlin Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/640px-Rbb_Fernsehen_Logo_2017.08.svg.png" tvg-id="RBBBerlin.de" group-title="Germany",RBB Berlin Ⓖ
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-name="RBB Brandenburg Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/640px-Rbb_Fernsehen_Logo_2017.08.svg.png" tvg-id="RBBBrandenburg.de" group-title="Germany",RBB Brandenburg Ⓖ
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-name="SR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/639px-SR_Fernsehen.svg.png" tvg-id="SRFernsehen.de" group-title="Germany",SR Ⓖ
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SWR_Fernsehen_Logo_2014.svg/640px-SWR_Fernsehen_Logo_2014.svg.png" tvg-id="SWRFernsehenBadenWurttemberg.de" group-title="Germany",SWR Baden-Württemberg Ⓖ
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SWR_Fernsehen_Logo_2014.svg/640px-SWR_Fernsehen_Logo_2014.svg.png" tvg-id="SWRFernsehenRheinlandPfalz.de" group-title="Germany",SWR Rheinland-Pfalz Ⓖ
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" tvg-id="WDR.de" group-title="Germany",WDR Ⓖ
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 tvg-name="DW Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" tvg-id="DWDeutsch.de" group-title="Germany",DW Deutsch
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:-1 tvg-name="DW Deutsch+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" tvg-id="DWDeutschPlus.de" group-title="Germany",DW Deutsch+
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1 tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenInternational.de" group-title="Germany",NDR International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
 #EXTINF: 1 tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-03.png" user-agent="Linux-Android 5.0.1"  group-title="EX RADIO",RADIO M EXYU
 #EXTVLCOPT:user-agent="Linux-Android 5.0.1

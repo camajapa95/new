@@ -1269,41 +1269,60 @@ http://iptvtree.net:8080/live/kodicologne/48e237edd2/65841
 #EXTINF:-1 tvg-id="Zdrava TV SR" tvg-logo="https://www.jagledam.com/logo/logozdravatvsr.jpg" tvg-name="Zdrava TV SR" group-title="Religijski",Zdrava TV SR
 
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
-https://mcdn.daserste.de/daserste/de/master.m3u8
+https://fernsehzone.online/getstream.php/ard-live.m3u8
 #EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="Germany",ZDF Ⓖ
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+https://fernsehzone.online/getstream.php/zdf-live.m3u8
 #EXTINF:-1 tvg-name="3sat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png" tvg-id="3sat.de" group-title="Germany",3sat Ⓖ
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+https://s4.hopslan.com/3satt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ARD Alpha Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png" tvg-id="ARDalpha.de" group-title="Germany",ARD Alpha Ⓖ
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/186px-Arte_Logo_2017.svg.png" tvg-id="ARTEDeutsch.de" group-title="Germany",ARTE Ⓖ
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-logo="" group-title="Germany",SAT.1 DE
+https://fernsehzone.online/getstream.php/sat1.m3u8
+#EXTINF:-1 tvg-id="Sat1Gold.de"  group-title="Germany",SAT 1 GOLD (DE)
+https://fernsehzone.online/getstream.php/sgold.m3u8
+#EXTINF:-1 tvg-id="Vox.de"  group-title="Germany",VOX (DE)
+https://fernsehzone.online/getstream.php/vox.m3u8
+#EXTINF:-1 tvg-logo="https://www.livestreamde.com/uploads/kanal/24283kabel-1-live.jpg" group-title="Germany",KABEL 1 (DE)
+https://fernsehzone.online/getstream.php/kabel1.m3u8
+#EXTINF:-1 tvg-logo="https://www.livestreamde.com/uploads/kanal/23884kabel-1-doku-live.jpg" group-title="Germany",KABEL 1 DOKU (DE)
+https://fernsehzone.online/stream123.php/kabel1doku.m3u8
+#EXTINF:-1 tvg-logo="https://www.livestreamde.com/uploads/kanal/23884kabel-1-classic-live.jpg" group-title="Germany",KABEL 1 CLASSIC (DE)
+https://fernsehzone.online/stream123.php/kabel1classic.m3u8
+#EXTINF:-1 tvg-logo="https://www.livestreamde.com/uploads/kanal/22901pro7-live.png" group-title="Germany",ProSieben (DE)
+https://fernsehzone.online/getstream.php/pro7.m3u8
+
+#EXTINF:-1 tvg-logo="null" group-title="Germany", N-TV (DE)
+https://fernsehzone.online/getstream.php/n-tv-live.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="Germany", N24 (DE)
+https://fernsehzone.online/getstream.php/n24-live.m3u8
 #EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+https://fernsehzone.online/stream123.php/deluxe.m3u8
 #EXTINF:-1 tvg-name="Schlager Deluxe" tvg-logo="https://i.imgur.com/YPpgUOg.png" tvg-id="SchlagerDeluxe.de" group-title="Germany",Schlager Deluxe
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/JN6Kd0q.png" tvg-id="DeluxeLoungeHD.de" group-title="Germany",Deluxe Lounge HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #EXTINF:-1 tvg-name="Euronews Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/640px-Euronews_2016_logo.svg.png" tvg-id="EuronewsGerman.fr" group-title="Germany",Euronews Deutsch
 https://euronews.alteox.app/hls/de_stream.m3u8
-#EXTINF:-1 tvg-name="KiKa Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png" tvg-id="KIKA.de" group-title="Germany",KiKa Ⓖ
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-name="KiKa Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png" tvg-id="KIKA.de" group-title="Germany",KiKa (DE)
+https://fernsehzone.online/getstream.php/kik
 #EXTINF:-1 tvg-name="MTV Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/640px-MTV-2021.svg.png" tvg-id="MTVGermany.de" group-title="Germany",MTV Germany
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+https://fernsehzone.online/getstream.php/mtvg.m3u8
 #EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://i.imgur.com/mhldfsB.png" tvg-id="NickGermany.de" group-title="Germany",Nick Ⓖ
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+https://s1.dietdinnerrecipes.com/stream/sprox.php?start=1&p=nickelodeon
 #EXTINF:-1 tvg-name="ONE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/640px-One_2022.svg.png" tvg-id="One.de" group-title="Germany",ONE Ⓖ
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
+https://s5.2ix2com.de/conv/conv.php?start=1&p=one
 #EXTINF:-1 tvg-name="Phoenix Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/640px-Phoenix-logo-2018.svg.png" tvg-id="Phoenix.de" group-title="Germany",Phoenix Ⓖ
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+https://s5.tv24livestream1.de/conv/conv.php?start=1&p=phoenix
 #EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png" tvg-id="tagesschau24.de" group-title="Germany",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="Welt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/640px-Welt_TV_Logo_2016.svg.png" tvg-id="Welt.de" group-title="Germany",Welt
-https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+https://fernsehzone.online/stream123.php/welt.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/640px-ZDFinfo_2011.svg.png" tvg-id="ZDFinfo.de" group-title="Germany",ZDFinfo Ⓖ
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+https://fernsehzone.online/getstream.php/zdfinfo.m3u8
 #EXTINF:-1 tvg-name="ZDFneo Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/569px-ZDFneo2017_Logo.svg.png" tvg-id="ZDFneo.de" group-title="Germany",ZDFneo Ⓖ
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+https://fernsehzone.online/getstream.php/zdfneo.m3u8
 #EXTINF:-1 tvg-name="BR Nord Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" tvg-id="BRFernsehenNord.de" group-title="Germany",BR Nord Ⓖ
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="BR Süd Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" tvg-id="BRFernsehenSud.de" group-title="Germany",BR Süd Ⓖ
@@ -1339,11 +1358,11 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 #EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" tvg-id="WDR.de" group-title="Germany",WDR Ⓖ
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:-1 tvg-name="DW Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" tvg-id="DWDeutsch.de" group-title="Germany",DW Deutsch
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:-1 tvg-name="DW Deutsch+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" tvg-id="DWDeutschPlus.de" group-title="Germany",DW Deutsch+
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+https://dwamdstream110.akamaized.net/hls/live/2017965/dwstream110/index.m3u8
 #EXTINF:-1 tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenInternational.de" group-title="Germany",NDR International
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+https://s5.tv24livestream1.de/conv/conv.php?start=1&p=ndr
 
 #EXTINF: 1 tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-03.png" user-agent="Linux-Android 5.0.1"  group-title="EX RADIO",RADIO M EXYU
 #EXTVLCOPT:user-agent="Linux-Android 5.0.1

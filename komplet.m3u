@@ -40,7 +40,7 @@ http://ott.dobratv.net:25461/live/BoemTV/112233445566/7145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 6 HD" tvg-logo="https://www.jagledam.com/logo/logokanal6.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Kanal 6 HD
 http://195.222.53.136:8080/Kanal-6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Moje Bugojno" tvg-logo="https://www.jagledam.com/logo/logomojebugojno.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Moje Bugojno
-https://webtvstream.bhtelecom.ba/rtv_bugojno.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Neon TV" tvg-logo="https://www.jagledam.com/logo/" group-title="Bosna i Hercegovina" tvg-shift="+1",Neon TV
 http://ott.dobratv.net:25461/live/BoemTV/112233445566/7447.m3u8
 #EXTINF:-1 tvg-id="NovaBH.ba" tvg-name="Nova BH" tvg-logo="https://www.jagledam.com/logo/logonovabh.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Nova BH
@@ -48,7 +48,7 @@ http://aflaxtv.xyz:8080/live/Giobox2/aPnVqQVT6GXhu92E/3408.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="101 Prijedor" tvg-logo="https://www.jagledam.com/logo/logo101.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",101 Prijedor
 http://ott.dobratv.net:25461/live/BoemTV/112233445566/14235.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTVIC Kakanj" tvg-logo="https://www.jagledam.com/logo/logokakanj.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",NTVIC Kakanj
-http://ott.dobratv.net:25461/live/BoemTV/112233445566/6897.m3u8
+http://185.65.107.1:4445/NTVICKAKANJ/index.m3u8?token=test
 #EXTINF:-1 tvg-id="OKKanal.ba" tvg-name="O Kanal" tvg-logo="https://www.jagledam.com/logo/logookanal.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",O Kanal
 http://aflaxtv.xyz:8080/live/Giobox2/aPnVqQVT6GXhu92E/58941.m3u8
 #EXTINF:-1 tvg-id="OBN.hr" tvg-name="OBN" tvg-logo="https://www.jagledam.com/logo/logoobn.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",OBN
@@ -58,7 +58,7 @@ http://185.65.107.1:4445/OBN/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="OSM TV" tvg-logo="https://www.jagledam.com/logo/logoosm.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTVIS (OSM TV)
 http://185.65.107.1:4445/OSM/index.m3u8?token=test
 #EXTINF:-1 tvg-id="OTVValentino.ba" tvg-name="OTV Valentino" tvg-logo="https://www.jagledam.com/logo/logootvv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",OTV Valentino
-http://aflaxtv.xyz:8080/live/Giobox2/aPnVqQVT6GXhu92E/10721.m3u8
+http://185.65.107.1:4445/OTVValentino/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="Pink BH" tvg-logo="https://www.jagledam.com/logo/logopinkbh.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Pink BH
 kodicologne/48e237edd23416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Posavska TV" tvg-logo="https://www.jagledam.com/logo/logoposavskatv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Posavska TV
@@ -924,7 +924,7 @@ https://tv.liveott.online/SUPERSTAR_2.m3u8
 #EXTINF:-1 tvg-id="Superstar2.rs" tvg-name="SUPERSTAR TV" tvg-logo="https://www.jagledam.com/logo/logostartv.jpg" group-title="Filmski" tvg-shift="+1",SUPERSTAR TV
 https://tv.liveott.online/SUPERSTAR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 1000" tvg-logo="https://www.jagledam.com/logo/logotv1000.jpg" group-title="Filmski" tvg-shift="+1",TV 1000
-http://46.240.143.86/TV1000/tracks-v1a1/mono.m3u8?token=test
+http://185.65.107.1:4445/TV1000/index.m3u8?token=test
 #EXTINF:-1 tvg-id="360TuneBox.cz" tvg-name="360 Tune Box" tvg-logo="https://www.jagledam.com/logo/logo360tunebox.jpg" group-title="Muzički" tvg-shift="+1",360 Tune Box
 https://5bc45691ca49f.streamlock.net/360tune/playlist.m3u8
 #EXTINF:-1 tvg-id="ADRIATV.rs" tvg-name="Adria Music TV" tvg-logo="https://www.jagledam.com/logo/logoadriamusictv.jpg" group-title="Muzički" tvg-shift="+1",Adria Music TV

@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Alfa" tvg-logo="https://www.jagledam.com/logo/logoalfa.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Alfa
+#EXTINF:-1 tvg-name="Alfa" tvg-logo="https://www.jagledam.com/logo/logoalfa.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Alfa
 http://195.222.53.136:8080/AlfaTV/index.m3u8
 #EXTINF:-1 tvg-id="ATV.rs" tvg-name="Alternativna TV" tvg-logo="https://www.jagledam.com/logo/logoatv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Alternativna TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/6893
-#EXTINF:-1 tvg-id="" tvg-name="B1 TV" tvg-logo="https://www.jagledam.com/logo/logob1tv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",B1 TV
+#EXTINF:-1 tvg-name="B1 TV" tvg-logo="https://www.jagledam.com/logo/logob1tv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",B1 TV
 http://wowza.bihnet.net:88/hls/b1-live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BDC Televizija" tvg-logo="https://www.jagledam.com/logo/logobdc.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",BDC Televizija
+#EXTINF:-1 tvg-name="BDC Televizija" tvg-logo="https://www.jagledam.com/logo/logobdc.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",BDC Televizija
 
 #EXTINF:-1 tvg-id="BHT1.rs" tvg-name="BHT 1" tvg-logo="https://www.jagledam.com/logo/logobht.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",BHT 1
 https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
@@ -13,11 +13,11 @@ https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/265789.m3u8
 #EXTINF:-1 tvg-id="BN.ba" tvg-name="BN BIH" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",BN BIH
 https://rtvbn.tv:8080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="City TV Mostar" tvg-logo="https://www.jagledam.com/logo/logocitytvbih.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",City TV Mostar
+#EXTINF:-1 tvg-name="City TV Mostar" tvg-logo="https://www.jagledam.com/logo/logocitytvbih.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",City TV Mostar
 http://185.65.107.1:4445/CITYTV/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Dobra TV" tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Dobra TV
+#EXTINF:-1 tvg-name="Dobra TV" tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Dobra TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/197589
-#EXTINF:-1 tvg-id="" tvg-name="Elta 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/22a675ff78c1f390c5b2d68944b13186.png" group-title="Bosna i Hercegovina" tvg-shift="+1",Elta 2
+#EXTINF:-1 tvg-name="Elta 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/22a675ff78c1f390c5b2d68944b13186.png" group-title="Bosna i Hercegovina" tvg-shift="+1",Elta 2
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/267611
 #EXTINF:-1 tvg-id="Elta1.ba" tvg-name="Elta HD" tvg-logo="https://www.jagledam.com/logo/logoelta.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Elta HD
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/192034
@@ -27,29 +27,29 @@ http://195.222.53.136:8080/face/index.m3u8
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/145
 #EXTINF:-1 tvg-id="FederalnaTV.si" tvg-name="Federalna TV" tvg-logo="https://www.jagledam.com/logo/logoftv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Federalna TV
 http://195.222.53.136:8080/ftv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Glas Drine" tvg-logo="https://www.jagledam.com/logo/logoglasdrine.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Glas Drine
+#EXTINF:-1 tvg-name="Glas Drine" tvg-logo="https://www.jagledam.com/logo/logoglasdrine.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Glas Drine
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF:-1 tvg-id="HayatPlus.ba" tvg-name="Hayat Plus" tvg-logo="https://www.jagledam.com/logo/logohayatplus.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Hayat Plus
 http://195.222.53.136:8080/hayat-plus/index.m3u8
 #EXTINF:-1 tvg-id="HayatTV.hr" tvg-name="Hayat TV" tvg-logo="https://www.jagledam.com/logo/logohayat.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Hayat TV
 http://195.222.53.136:8080/hayat/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hema TV" tvg-logo="https://www.jagledam.com/logo/logohema.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Hema TV
+#EXTINF:-1 tvg-name="Hema TV" tvg-logo="https://www.jagledam.com/logo/logohema.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Hema TV
 http://185.65.107.1:4445/HEMA/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Herceg TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Herceg_TV_BA_logo.png" group-title="Bosna i Hercegovina" tvg-shift="+1",Herceg TV
+#EXTINF:-1 tvg-name="Herceg TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Herceg_TV_BA_logo.png" group-title="Bosna i Hercegovina" tvg-shift="+1",Herceg TV
 http://ott.dobratv.net:25461/BoemTV/112233445566/7145
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 6 HD" tvg-logo="https://www.jagledam.com/logo/logokanal6.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Kanal 6 HD
+#EXTINF:-1 tvg-name="Kanal 6 HD" tvg-logo="https://www.jagledam.com/logo/logokanal6.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Kanal 6 HD
 http://195.222.53.136:8080/Kanal-6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moje Bugojno" tvg-logo="https://www.jagledam.com/logo/logomojebugojno.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Moje Bugojno
+#EXTINF:-1 tvg-name="Moje Bugojno" tvg-logo="https://www.jagledam.com/logo/logomojebugojno.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Moje Bugojno
 
-#EXTINF:-1 tvg-id="" tvg-name="Neon TV" tvg-logo="https://www.jagledam.com/logo/" group-title="Bosna i Hercegovina" tvg-shift="+1",Neon TV
+#EXTINF:-1 tvg-name="Neon TV" tvg-logo="https://www.jagledam.com/logo/" group-title="Bosna i Hercegovina" tvg-shift="+1",Neon TV
 http://ott.dobratv.net:25461/BoemTV/112233445566/7447
 #EXTINF:-1 tvg-id="NovaBH.ba" tvg-name="Nova BH" tvg-logo="https://www.jagledam.com/logo/logonovabh.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Nova BH
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3408
-#EXTINF:-1 tvg-id="" tvg-name="101 Prijedor" tvg-logo="https://www.jagledam.com/logo/logo101.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",101 Prijedor
+#EXTINF:-1 tvg-name="101 Prijedor" tvg-logo="https://www.jagledam.com/logo/logo101.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",101 Prijedor
 http://ott.dobratv.net:25461/BoemTV/112233445566/14235
-#EXTINF:-1 tvg-id="" tvg-name="NTVIC Kakanj" tvg-logo="https://www.jagledam.com/logo/logokakanj.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",NTVIC Kakanj
+#EXTINF:-1 tvg-name="NTVIC Kakanj" tvg-logo="https://www.jagledam.com/logo/logokakanj.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",NTVIC Kakanj
 http://ott.dobratv.net:25461/BoemTV/112233445566/6897
-#EXTINF:-1 tvg-id="" tvg-name="NTVIC Kakanj" tvg-logo="https://www.jagledam.com/logo/logokakanj.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",NTVIC Kakanj
+#EXTINF:-1 tvg-name="NTVIC Kakanj" tvg-logo="https://www.jagledam.com/logo/logokakanj.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",NTVIC Kakanj
 http://185.65.107.1:4445/NTVICKAKANJ/index.m3u8?token=test
 #EXTINF:-1 tvg-id="OKKanal.ba" tvg-name="O Kanal" tvg-logo="https://www.jagledam.com/logo/logookanal.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",O Kanal
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/58941
@@ -57,65 +57,65 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/58941
 http://195.222.53.136:8080/obn/index.m3u8
 #EXTINF:-1 tvg-id="OBN.hr" tvg-name="OBN HD" tvg-logo="https://www.jagledam.com/logo/logoobn.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",OBN HD
 http://185.65.107.1:4445/OBN/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSM TV" tvg-logo="https://www.jagledam.com/logo/logoosm.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTVIS (OSM TV)
+#EXTINF:-1 tvg-name="OSM TV" tvg-logo="https://www.jagledam.com/logo/logoosm.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTVIS (OSM TV)
 http://185.65.107.1:4445/OSM/index.m3u8?token=test
 #EXTINF:-1 tvg-id="OTVValentino.ba" tvg-name="OTV Valentino" tvg-logo="https://www.jagledam.com/logo/logootvv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",OTV Valentino
 http://185.65.107.1:4445/OTVValentino/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Pink BH" tvg-logo="https://www.jagledam.com/logo/logopinkbh.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Pink BH
+#EXTINF:-1 tvg-name="Pink BH" tvg-logo="https://www.jagledam.com/logo/logopinkbh.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Pink BH
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3416
-#EXTINF:-1 tvg-id="" tvg-name="Posavska TV" tvg-logo="https://www.jagledam.com/logo/logoposavskatv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Posavska TV
+#EXTINF:-1 tvg-name="Posavska TV" tvg-logo="https://www.jagledam.com/logo/logoposavskatv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Posavska TV
 http://ott.dobratv.net:25461/ProxyIPTV/112233445566/6885
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska TV" tvg-logo="https://www.jagledam.com/logo/logo" group-title="Bosna i Hercegovina" tvg-shift="+1",Prigorska TV
+#EXTINF:-1 tvg-name="Prigorska TV" tvg-logo="https://www.jagledam.com/logo/logo" group-title="Bosna i Hercegovina" tvg-shift="+1",Prigorska TV
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 #EXTINF:-1 tvg-id="RTRS.ba" tvg-name="RTRS" tvg-logo="https://www.jagledam.com/logo/logortrs.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTRS
 https://uzivo.rtrs.tv/tv/live/index.m3u8
 #EXTINF:-1 tvg-id="RTRSPlus.ba" tvg-name="RTRS plus" tvg-logo="https://www.jagledam.com/logo/logortrsplus.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTRS plus
 https://pluslive.rtrs.tv/plus/plus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV 7 Tuzla" tvg-logo="https://www.jagledam.com/logo/logotv7tuzla.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV 7 Tuzla
+#EXTINF:-1 tvg-name="RTV 7 Tuzla" tvg-logo="https://www.jagledam.com/logo/logotv7tuzla.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV 7 Tuzla
 http://ott.dobratv.net:25461/BoemTV/112233445566/100
-#EXTINF:-1 tvg-id="" tvg-name="RTV BPK" tvg-logo="" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV BPK
+#EXTINF:-1 tvg-name="RTV BPK" tvg-logo="" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV BPK
 http://94.250.2.6:7374/play/a02u
-#EXTINF:-1 tvg-id="" tvg-name="RTV Cazin" tvg-logo="https://www.jagledam.com/logo/logortvcazin.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV Cazin
+#EXTINF:-1 tvg-name="RTV Cazin" tvg-logo="https://www.jagledam.com/logo/logortvcazin.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV Cazin
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/267612
-#EXTINF:-1 tvg-id="" tvg-name="RTV HB" tvg-logo="https://www.jagledam.com/logo/logortvhb.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV HB
+#EXTINF:-1 tvg-name="RTV HB" tvg-logo="https://www.jagledam.com/logo/logortvhb.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV HIT" tvg-logo="https://www.jagledam.com/logo/logohittv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV HIT
+#EXTINF:-1 tvg-name="RTV HIT" tvg-logo="https://www.jagledam.com/logo/logohittv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV HIT
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/47618
-#EXTINF:-1 tvg-id="" tvg-name="RTV Maglaj" tvg-logo="https://www.jagledam.com/logo/logortvmaglaj.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV Maglaj
+#EXTINF:-1 tvg-name="RTV Maglaj" tvg-logo="https://www.jagledam.com/logo/logortvmaglaj.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV Maglaj
 https://webtvstream.bhtelecom.ba/rtv_maglaj
-#EXTINF:-1 tvg-id="" tvg-name="RTV Sana" tvg-logo="https://www.jagledam.com/logo/logortvsana.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV Sana
+#EXTINF:-1 tvg-name="RTV Sana" tvg-logo="https://www.jagledam.com/logo/logortvsana.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV Sana
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/5371
-#EXTINF:-1 tvg-id="" tvg-name="RTV TK Tuzla" tvg-logo="https://www.jagledam.com/logo/logortvtk.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV TK Tuzla
+#EXTINF:-1 tvg-name="RTV TK Tuzla" tvg-logo="https://www.jagledam.com/logo/logortvtk.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV TK Tuzla
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/198855
-#EXTINF:-1 tvg-id="" tvg-name="RTV USK" tvg-logo="https://www.jagledam.com/logo/logortvusk.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV USK
+#EXTINF:-1 tvg-name="RTV USK" tvg-logo="https://www.jagledam.com/logo/logortvusk.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV USK
 http://wslb.dobratv.net:8877/usk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Vogosca" tvg-logo="https://www.jagledam.com/logo/logotvvogosca.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV Vogosca
+#EXTINF:-1 tvg-name="RTV Vogosca" tvg-logo="https://www.jagledam.com/logo/logotvvogosca.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV Vogosca
 http://ott.dobratv.net:25461/BoemTV/112233445566/13240
-#EXTINF:-1 tvg-id="" tvg-name="TV Zenica" tvg-logo="https://www.jagledam.com/logo/logortvzenica.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",TV Zenica
+#EXTINF:-1 tvg-name="TV Zenica" tvg-logo="https://www.jagledam.com/logo/logortvzenica.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",TV Zenica
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sahar TV BiH" tvg-logo="https://www.jagledam.com/logo/logosahar.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Sahar TV BiH
+#EXTINF:-1 tvg-name="Sahar TV BiH" tvg-logo="https://www.jagledam.com/logo/logosahar.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Sahar TV BiH
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/287791
-#EXTINF:-1 tvg-id="" tvg-name="Slon Extra" tvg-logo="https://www.jagledam.com/logo/logoslonextrainfo.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Slon Extra
+#EXTINF:-1 tvg-name="Slon Extra" tvg-logo="https://www.jagledam.com/logo/logoslonextrainfo.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Slon Extra
 https://ythls.onrender.com/channel/UCX0QrFrUrE3Vu7wUcvwQKSw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Slon TV" tvg-logo="https://www.jagledam.com/logo/logoslon.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Slon TV
+#EXTINF:-1 tvg-name="Slon TV" tvg-logo="https://www.jagledam.com/logo/logoslon.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Slon TV
 http://31.47.0.130:8082
-#EXTINF:-1 tvg-id="" tvg-name="Smart TV" tvg-logo="https://www.jagledam.com/logo/logosmarttvtesanj.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Smart TV
+#EXTINF:-1 tvg-name="Smart TV" tvg-logo="https://www.jagledam.com/logo/logosmarttvtesanj.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Smart TV
 https://webtvstream.bhtelecom.ba/smart_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tatabrada TV" tvg-logo="https://www.jagledam.com/logo/logotatabradatv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Tatabrada TV
+#EXTINF:-1 tvg-name="Tatabrada TV" tvg-logo="https://www.jagledam.com/logo/logotatabradatv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Tatabrada TV
 https://webtvstream.bhtelecom.ba/tatabrada_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televizija Banovici" tvg-logo="https://www.jagledam.com/logo/logotvbanovici.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Televizija Banovici
+#EXTINF:-1 tvg-name="Televizija Banovici" tvg-logo="https://www.jagledam.com/logo/logotvbanovici.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Televizija Banovici
 http://cdn.livestream.com/embed/banovicitv?autoPlay=true&mute=false&height=475&width=715
 #EXTINF:-1 tvg-id="K3.ba" tvg-name="TV K3" tvg-logo="https://www.jagledam.com/logo/logok3.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",TV K3
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/47613
-#EXTINF:-1 tvg-id="" tvg-name="TV SA" tvg-logo="https://www.jagledam.com/logo/tvsa.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",TV SA
+#EXTINF:-1 tvg-name="TV SA" tvg-logo="https://www.jagledam.com/logo/tvsa.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",TV SA
 http://185.65.107.1:4445/TVSARAJEVO/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="TV Visoko" tvg-logo="https://www.jagledam.com/logo/logotvvisoko.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",TV Visoko
+#EXTINF:-1 tvg-name="TV Visoko" tvg-logo="https://www.jagledam.com/logo/logotvvisoko.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",TV Visoko
 
 #EXTINF:-1 tvg-id="AuroraTV.hr" tvg-name="Aurora TV" tvg-logo="https://www.jagledam.com/logo/logoaurora.jpg" group-title="Hrvatska" tvg-shift="+1",Aurora TV
 http://92.204.40.139/crotvhd-auroratv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Diadora" tvg-logo="https://www.jagledam.com/logo/logodiadoratv.jpg" group-title="Hrvatska" tvg-shift="+1",Diadora
+#EXTINF:-1 tvg-name="Diadora" tvg-logo="https://www.jagledam.com/logo/logodiadoratv.jpg" group-title="Hrvatska" tvg-shift="+1",Diadora
 https://diadoratv.stream/live/diadora/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DMC" tvg-logo="https://www.jagledam.com/logo/logodmc.jpg" group-title="Hrvatska" tvg-shift="+1",DMC
+#EXTINF:-1 tvg-name="DMC" tvg-logo="https://www.jagledam.com/logo/logodmc.jpg" group-title="Hrvatska" tvg-shift="+1",DMC
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/1263
 #EXTINF:-1 tvg-id="DomaTV.hr" tvg-name="Doma TV" tvg-logo="https://www.jagledam.com/logo/logodoma.jpg" group-title="Hrvatska" tvg-shift="+1",Doma TV
 http://46.240.130.158/DomaTV/index.m3u8?token=test
@@ -135,7 +135,7 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/16583
 https://stream.agatin.hr:3559/live/otvlive.m3u8
 #EXTINF:-1 tvg-id="KanalRi.hr" tvg-name="Kanal Ri" tvg-logo="https://www.jagledam.com/logo/logokanalri.jpg" group-title="Hrvatska" tvg-shift="+1",Kanal Ri
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/65814
-#EXTINF:-1 tvg-id="" tvg-name="Libertas TV" tvg-logo="https://www.jagledam.com/logo/logolibertastv.jpg" group-title="Hrvatska" tvg-shift="+1",Libertas TV
+#EXTINF:-1 tvg-name="Libertas TV" tvg-logo="https://www.jagledam.com/logo/logolibertastv.jpg" group-title="Hrvatska" tvg-shift="+1",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="MrezaST.hr" tvg-name="Mreza ST" tvg-logo="https://www.jagledam.com/logo/logomrezast.jpg" group-title="Hrvatska" tvg-shift="+1",Mreza ST
 http://46.240.130.158/MrezaST/index.m3u8?token=test
@@ -151,15 +151,15 @@ https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcast
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL2.hr" tvg-name="RTL 2 HR" tvg-logo="https://www.jagledam.com/logo/logortl2.jpg" group-title="Hrvatska" tvg-shift="+1",RTL 2
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SB TV" tvg-logo="https://www.jagledam.com/logo/logosbtv.jpg" group-title="Hrvatska" tvg-shift="+1",SB TV
+#EXTINF:-1 tvg-name="SB TV" tvg-logo="https://www.jagledam.com/logo/logosbtv.jpg" group-title="Hrvatska" tvg-shift="+1",SB TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/65827
 #EXTINF:-1 tvg-id="SlavonskaTV.hr" tvg-name="STV" tvg-logo="https://www.jagledam.com/logo/slavonska.jpg" group-title="Hrvatska" tvg-shift="+1",STV
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 tvg-id="TVJadran.hr" tvg-name="TV Jadran" tvg-logo="https://www.jagledam.com/logo/logojadran.jpg" group-title="Hrvatska" tvg-shift="+1",TV Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Nova" tvg-logo="https://www.jagledam.com/logo/logotvnova.jpg" group-title="Hrvatska" tvg-shift="+1",TV Nova
+#EXTINF:-1 tvg-name="TV Nova" tvg-logo="https://www.jagledam.com/logo/logotvnova.jpg" group-title="Hrvatska" tvg-shift="+1",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Zapad" tvg-logo="https://www.jagledam.com/logo/logotelevizijazapad.jpg" group-title="Hrvatska" tvg-shift="+1",TV Zapad
+#EXTINF:-1 tvg-name="TV Zapad" tvg-logo="https://www.jagledam.com/logo/logotelevizijazapad.jpg" group-title="Hrvatska" tvg-shift="+1",TV Zapad
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e_output_0.m3u8
 #EXTINF:-1 tvg-id="VarazdinskaTV.hr" tvg-name="Varazdinska VTV" tvg-logo="https://www.jagledam.com/logo/logovtv.jpg" group-title="Hrvatska" tvg-shift="+1",Varazdinska VTV
 https://www.youtube.com/@VtvTelevizija/streams
@@ -174,47 +174,47 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3458
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/mmdlive/lldns/manifest.m3u8
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92" tvg-logo="https://www.jagledam.com/logo/logob92.jpg" group-title="Serbia" tvg-shift="+1",B92
 http://46.240.130.158/B92/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Balkan TV" tvg-logo="https://www.jagledam.com/logo/logobalkantv.jpg" group-title="Serbia" tvg-shift="+1",Balkan TV
+#EXTINF:-1 tvg-name="Balkan TV" tvg-logo="https://www.jagledam.com/logo/logobalkantv.jpg" group-title="Serbia" tvg-shift="+1",Balkan TV
 https://usher.ttvnw.net/api/channel/hls/balkannovisadtv.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&transcode_mode=cbr_v1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22balkannovisadtv%22%2C%22channel_id%22%3A789831452%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22L8FmwoBpU9zQ3IHErN00PwKuxu8B0GOQ%22%2C%22expires%22%3A16922
-#EXTINF:-1 tvg-id="" tvg-name="BNV TV Sandzak" tvg-logo="https://www.jagledam.com/logo/logobnvtvsandzak.jpg" group-title="Serbia" tvg-shift="+1",BNV TV Sandzak
+#EXTINF:-1 tvg-name="BNV TV Sandzak" tvg-logo="https://www.jagledam.com/logo/logobnvtvsandzak.jpg" group-title="Serbia" tvg-shift="+1",BNV TV Sandzak
 http://ott.dobratv.net:25461/BoemTV/112233445566/33
 #EXTINF:-1 tvg-id="TVDuga.ba" tvg-name="Duga" tvg-logo="https://www.jagledam.com/logo/logoduga.jpg" group-title="Serbia" tvg-shift="+1",Duga
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F Kanal Zajecar" tvg-logo="https://www.jagledam.com/logo/logortvzajecar.jpg" group-title="Serbia" tvg-shift="+1",F Kanal Zajecar
+#EXTINF:-1 tvg-name="F Kanal Zajecar" tvg-logo="https://www.jagledam.com/logo/logortvzajecar.jpg" group-title="Serbia" tvg-shift="+1",F Kanal Zajecar
 
 #EXTINF:-1 tvg-id="HappyTV.hr" tvg-name="Happy TV" tvg-logo="https://www.jagledam.com/logo/logohappy.jpg" group-title="Serbia" tvg-shift="+1",Happy TV
 http://195.222.53.136:8080/happy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="InstaTv" tvg-logo="https://www.lyngsat.com/logo/tv/ii/insta-tv-rs.png" group-title="Serbia" tvg-shift="+1",InstaTv
+#EXTINF:-1 tvg-name="InstaTv" tvg-logo="https://www.lyngsat.com/logo/tv/ii/insta-tv-rs.png" group-title="Serbia" tvg-shift="+1",InstaTv
 https://live.rednet.rs/providus/instatv_hq/index.m3u8
 #EXTINF:-1 tvg-id="K1.rs" tvg-name="K1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/3e1bc424a9296a9f1662551ae8f22950.png" group-title="Serbia" tvg-shift="+1",K1
 https://tv.liveott.online/K1_TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 10" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6cd3e8271a25dd39fa5e860deb643758.jpg" group-title="Serbia" tvg-shift="+1",Kanal 10
+#EXTINF:-1 tvg-name="Kanal 10" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6cd3e8271a25dd39fa5e860deb643758.jpg" group-title="Serbia" tvg-shift="+1",Kanal 10
 https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/yky0y1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 3" tvg-logo="https://www.jagledam.com/logo/logokanal3.jpg" group-title="Serbia" tvg-shift="+1",Kanal 3
+#EXTINF:-1 tvg-name="Kanal 3" tvg-logo="https://www.jagledam.com/logo/logokanal3.jpg" group-title="Serbia" tvg-shift="+1",Kanal 3
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/603
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 9 Novi Sad" tvg-logo="https://www.jagledam.com/logo/logokanal9novisad.jpg" group-title="Serbia" tvg-shift="+1",Kanal 9 Novi Sad
+#EXTINF:-1 tvg-name="Kanal 9 Novi Sad" tvg-logo="https://www.jagledam.com/logo/logokanal9novisad.jpg" group-title="Serbia" tvg-shift="+1",Kanal 9 Novi Sad
 https://tv.liveott.online/TV_K9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KCN 1" tvg-logo="https://www.jagledam.com/logo/logokcn1.jpg" group-title="Serbia" tvg-shift="+1",KCN 1
+#EXTINF:-1 tvg-name="KCN 1" tvg-logo="https://www.jagledam.com/logo/logokcn1.jpg" group-title="Serbia" tvg-shift="+1",KCN 1
 https://tv.liveott.online/KCN_1.m3u8
 #EXTINF:-1 tvg-id="KCNSvetplus.rs" tvg-name="KCN 2" tvg-logo="https://www.jagledam.com/logo/logokcn2.jpg" group-title="Serbia" tvg-shift="+1",KCN 2
 https://tv.liveott.online/KCN_SVET_PLUS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KCN 3" tvg-logo="https://www.jagledam.com/logo/logokcn3.jpg" group-title="Serbia" tvg-shift="+1",KCN 3
+#EXTINF:-1 tvg-name="KCN 3" tvg-logo="https://www.jagledam.com/logo/logokcn3.jpg" group-title="Serbia" tvg-shift="+1",KCN 3
 https://tv.liveott.online/KCN_3.m3u8
 #EXTINF:-1 tvg-id="KurirTV.ba" tvg-name="Kurir TV" tvg-logo="https://www.jagledam.com/logo/logokurir.jpg" group-title="Serbia" tvg-shift="+1",Kurir TV
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mars" tvg-logo="https://www.jagledam.com/logo/logomarsh.jpg" group-title="Serbia" tvg-shift="+1",Mars
+#EXTINF:-1 tvg-name="Mars" tvg-logo="https://www.jagledam.com/logo/logomarsh.jpg" group-title="Serbia" tvg-shift="+1",Mars
 http://cdn.dovecher.tv:8081/live/marsh/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MIS TV" tvg-logo="https://www.jagledam.com/logo/logomistelevizija.jpg" group-title="Serbia" tvg-shift="+1",MIS TV
+#EXTINF:-1 tvg-name="MIS TV" tvg-logo="https://www.jagledam.com/logo/logomistelevizija.jpg" group-title="Serbia" tvg-shift="+1",MIS TV
 https://5afd52b55ff79.streamlock.net/MISTV/MISTV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mlava" tvg-logo="https://www.jagledam.com/logo/logomlava.jpg" group-title="Serbia" tvg-shift="+1",Mlava
+#EXTINF:-1 tvg-name="Mlava" tvg-logo="https://www.jagledam.com/logo/logomlava.jpg" group-title="Serbia" tvg-shift="+1",Mlava
 http://rufrtv.com:9000
-#EXTINF:-1 tvg-id="" tvg-name="Nasa" tvg-logo="https://www.jagledam.com/logo/logonasha.jpg" group-title="Serbia" tvg-shift="+1",Nasa
+#EXTINF:-1 tvg-name="Nasa" tvg-logo="https://www.jagledam.com/logo/logonasha.jpg" group-title="Serbia" tvg-shift="+1",Nasa
 https://5bc45691ca49f.streamlock.net/nasatv/video.m3u8
 #EXTINF:-1 tvg-id="NOVAS.rs" tvg-name="Nova S" tvg-logo="https://www.jagledam.com/logo/novars.jpg" group-title="Serbia" tvg-shift="+1",Nova S
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/10717
 #EXTINF:-1 tvg-id="NovosadskaTV.rs" tvg-name="Novosadska TV" tvg-logo="https://www.jagledam.com/logo/logonovosadskatv.jpg" group-title="Serbia" tvg-shift="+1",Novosadska TV
 http://46.240.130.158/Novosadska/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="NTV Serbia" tvg-logo="https://www.jagledam.com/logo/logontv.jpg" group-title="Serbia" tvg-shift="+1",NTV Serbia
+#EXTINF:-1 tvg-name="NTV Serbia" tvg-logo="https://www.jagledam.com/logo/logontv.jpg" group-title="Serbia" tvg-shift="+1",NTV Serbia
 https://tv.liveott.online/NTV.m3u8
 #EXTINF:-1 tvg-id="TVPalmaplus.rs" tvg-name="Palma Plus" tvg-logo="https://www.jagledam.com/logo/logopalmaplus.jpg" group-title="Serbia" tvg-shift="+1",Palma Plus
 https://tv.liveott.online/PALMA_PLUS.m3u8
@@ -228,9 +228,9 @@ http://tvip.world:80/PINKKANALI/QqewTB5Smr/1764
 https://tv.liveott.online/PINK_PLUS.m3u8
 #EXTINF:-1 tvg-id="PinkWorld.si" tvg-name="Pink World" tvg-logo="https://www.jagledam.com/logo/logopinkworld.jpg" group-title="Serbia" tvg-shift="+1",Pink World
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4188
-#EXTINF:-1 tvg-id="" tvg-name="Pomoravlje" tvg-logo="https://www.jagledam.com/logo/logopomoravlje.jpg" group-title="Serbia" tvg-shift="+1",Pomoravlje
+#EXTINF:-1 tvg-name="Pomoravlje" tvg-logo="https://www.jagledam.com/logo/logopomoravlje.jpg" group-title="Serbia" tvg-shift="+1",Pomoravlje
 http://212.200.102.3:5000/udp/239.6.0.10:5000
-#EXTINF:-1 tvg-id="" tvg-name="Pruga TV" tvg-logo="https://www.jagledam.com/logo/logoprugatv.jpg" group-title="Serbia" tvg-shift="+1",Pruga TV
+#EXTINF:-1 tvg-name="Pruga TV" tvg-logo="https://www.jagledam.com/logo/logoprugatv.jpg" group-title="Serbia" tvg-shift="+1",Pruga TV
 https://stream.pruga.rs:8443/live/pruga/index.m3u8
 #EXTINF:-1 tvg-id="Prvaplus.rs" tvg-name="Prva Plus" tvg-logo="https://www.jagledam.com/logo/logoprvaplus.jpg" group-title="Serbia" tvg-shift="+1",Prva Plus
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/195
@@ -240,7 +240,7 @@ https://tv.liveott.online/PRVA.m3u8
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/147
 #EXTINF:-1 tvg-id="REDTV(Pink2).rs" tvg-name="Red TV" tvg-logo="https://www.jagledam.com/logo/logoredtv.jpg" group-title="Serbia" tvg-shift="+1",RED TV (Pink2)
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT Vranje" tvg-logo="https://www.jagledam.com/logo/logortvranje.jpg" group-title="Serbia" tvg-shift="+1",RT Vranje
+#EXTINF:-1 tvg-name="RT Vranje" tvg-logo="https://www.jagledam.com/logo/logortvranje.jpg" group-title="Serbia" tvg-shift="+1",RT Vranje
 https://hls.ustream.to/RTV-Vranje.m3u8?token=test
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-logo="https://www.jagledam.com/logo/logorts1.jpg" group-title="Serbia" tvg-shift="+1",RTS 1
 http://46.240.143.86/RTS1/tracks-v1a1/mono.m3u8?token=test
@@ -256,21 +256,21 @@ http://freetesttv.homeip.net:24621/sabaheta/sabaheta/143
 http://46.240.130.158/RTV1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="RTV2.rs" tvg-name="RTV 2" tvg-logo="https://www.jagledam.com/logo/logortv2.jpg" group-title="Serbia" tvg-shift="+1",RTV 2
 http://46.240.130.158/RTV2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="RTV BAP" tvg-logo="https://rtvbap.rs/wp-content/uploads/2021/03/TELEVIZIJA-ONLINE-ZA-WEB.jpg" group-title="Serbia" tvg-shift="+1",RTV BAP
+#EXTINF:-1 tvg-name="RTV BAP" tvg-logo="https://rtvbap.rs/wp-content/uploads/2021/03/TELEVIZIJA-ONLINE-ZA-WEB.jpg" group-title="Serbia" tvg-shift="+1",RTV BAP
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV City Ub" tvg-logo="https://www.jagledam.com/logo/logotvcityub.jpg" group-title="Serbia" tvg-shift="+1",RTV City Ub
+#EXTINF:-1 tvg-name="RTV City Ub" tvg-logo="https://www.jagledam.com/logo/logotvcityub.jpg" group-title="Serbia" tvg-shift="+1",RTV City Ub
 http://109.72.57.12/hls/tvcityub.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Jug" tvg-logo="https://www.jagledam.com/logo/logojug.jpg" group-title="Serbia" tvg-shift="+1",RTV Jug
+#EXTINF:-1 tvg-name="RTV Jug" tvg-logo="https://www.jagledam.com/logo/logojug.jpg" group-title="Serbia" tvg-shift="+1",RTV Jug
 http://178.132.6.97:8080/JugTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Krusevac" tvg-logo="https://www.jagledam.com/logo/logortk.jpg" group-title="Serbia" tvg-shift="+1",RTV Krusevac
+#EXTINF:-1 tvg-name="RTV Krusevac" tvg-logo="https://www.jagledam.com/logo/logortk.jpg" group-title="Serbia" tvg-shift="+1",RTV Krusevac
 http://91.148.123.53:8888/ipvt_009
-#EXTINF:-1 tvg-id="" tvg-name="RTV Mir Leposavic" tvg-logo="https://www.jagledam.com/logo/logotvmir.jpg" group-title="Serbia" tvg-shift="+1",RTV Mir Leposavic
+#EXTINF:-1 tvg-name="RTV Mir Leposavic" tvg-logo="https://www.jagledam.com/logo/logotvmir.jpg" group-title="Serbia" tvg-shift="+1",RTV Mir Leposavic
 https://rtvmir.info/MIR/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rubin Kikinda" tvg-logo="https://www.jagledam.com/logo/logorubinkikinda.jpg" group-title="Serbia" tvg-shift="+1",Rubin Kikinda
+#EXTINF:-1 tvg-name="Rubin Kikinda" tvg-logo="https://www.jagledam.com/logo/logorubinkikinda.jpg" group-title="Serbia" tvg-shift="+1",Rubin Kikinda
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Cs8EkS3Ff9RFSNv6ixgAnr-hxde36OLQYa9i8oXhuTE3RdKZvUkZ7SR8PNX-ArP-wx_7ZMTBrAAUctE8cyQBGSyk90bHbG_1p4tBcJe_JfDq-uzs-QSXR6Y9Cctop9wRg1-dIgPUMp73NpjBx8ydEv5jKLVzU1EJrXSVTDdtyeXN3c7Up_a1fZBeooMuh0UL5yK2lPDWwl7GK2TuS4FcgZfDRUKjZoQU1t5-4H-aNyAVJy0E3tHAMHwAIAXE7p6DpzmJkdsTmO5y6VoIYlivbKe9_h714uVugPfCuDhNPwBC6UYkPfSaPKc0RKcpz0BaEtTnMLHlotUHlDdBIezB9Z9Of9J83IaVyRmXOR5kNSPezfWBrJHXDTQDhxrFHSmQshT-zbjhGE9FXHuRhFFaMHkY8wLDKdB2Qnn-fKGdSNkL8LZZ93MAS_7ze_ERans6xUVQqayAoXKTRg_u93tnP6-7hWthNf5V6ffhEU_jUG7YI8Ox0gUp_3-7tXlO-gROyI9xmo5LA-aaps8OaptQh4_fzCguYVDmbymT4mnk7TTFiYQyExstzdwTPWn306JOXoDIYUqCHASD-MoBi2OCi9nu3zXZ_-WXL_wH5PMdB4Cf-Y1dbOZOi8aJhTPgPtSAIhhSBfQRQVvLHCDGZFdlaQBniAWkdGkSMDBzfhN28lRc1iS2aq9baMr9dRtapZPm6Miu12r_DVhifN8ZLKkHjfafIgSDNchnuYwiAP-GqDmjUlL9DptHZGwTJccrXAyIfzq_Y8XEshE6l8QbxREVO3SiGgwBL62225FoJLo0Y6sgASoJZXUtd2VzdC0xMLcD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rubin Kikinda" tvg-logo="https://www.jagledam.com/logo/logorubinkikinda.jpg" group-title="Serbia" tvg-shift="+1" ,Rubin Kikinda
+#EXTINF:-1 tvg-name="Rubin Kikinda" tvg-logo="https://www.jagledam.com/logo/logorubinkikinda.jpg" group-title="Serbia" tvg-shift="+1" ,Rubin Kikinda
 https://embed.twitch.tv/?channel=tvkikindalive&parent=embed.twitch.tv
-#EXTINF:-1 tvg-id="" tvg-name="Sandzacka TV mreza" tvg-logo="https://www.jagledam.com/logo/logosandzackatvmreza.jpg" group-title="Serbia" tvg-shift="+1",Sandzacka TV mreza
+#EXTINF:-1 tvg-name="Sandzacka TV mreza" tvg-logo="https://www.jagledam.com/logo/logosandzackatvmreza.jpg" group-title="Serbia" tvg-shift="+1",Sandzacka TV mreza
 http://178.132.6.97:8080/SandzackaTVMreza1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="SuperSatTV.rs" tvg-name="Sat TV Pozarevac" tvg-logo="https://www.jagledam.com/logo/logosattv.jpg" group-title="Serbia" tvg-shift="+1",Sat TV Pozarevac
 https://5bc45691ca49f.streamlock.net/sattv/video.m3u8
@@ -278,61 +278,61 @@ https://5bc45691ca49f.streamlock.net/sattv/video.m3u8
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B" tvg-logo="https://www.jagledam.com/logo/logostudiob.jpg" group-title="Serbia" tvg-shift="+1",Studio B
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STV Sandzak" tvg-logo="https://www.jagledam.com/logo/logostvsandzak.jpg" group-title="Serbia" tvg-shift="+1",STV Sandzak
+#EXTINF:-1 tvg-name="STV Sandzak" tvg-logo="https://www.jagledam.com/logo/logostvsandzak.jpg" group-title="Serbia" tvg-shift="+1",STV Sandzak
 http://streaming.iptv.nextfiber.rs/playlist.m3u8?id=11&profile=5
 #EXTINF:-1 tvg-id="T7(AL)(Albanian).ch" tvg-name="T7" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/97ef52d127071d0279f4e16da7517039.png" group-title="Serbia" tvg-shift="+1",T7
 https://ub1doy938d.gjirafa.net/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/yzg0yt480/index.m3u8
 #EXTINF:-1 tvg-id="TanjugTV.rs" tvg-name="TANJUG TV" tvg-logo="" group-title="Serbia" tvg-shift="+1",TANJUG TV
 https://tv.liveott.online/TANJUG_TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSD" tvg-logo="https://www.jagledam.com/logo/logotsd.jpg" group-title="Serbia" tvg-shift="+1",TSD
+#EXTINF:-1 tvg-name="TSD" tvg-logo="https://www.jagledam.com/logo/logotsd.jpg" group-title="Serbia" tvg-shift="+1",TSD
 https://live.tsd-tv.com/live/tsd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Turisticki Kanal" tvg-logo="https://www.jagledam.com/logo/logoturistickikanal.jpg" group-title="Serbia" tvg-shift="+1",Turisticki Kanal
+#EXTINF:-1 tvg-name="Turisticki Kanal" tvg-logo="https://www.jagledam.com/logo/logoturistickikanal.jpg" group-title="Serbia" tvg-shift="+1",Turisticki Kanal
 http://stmv4.hosting022.com/turistickikanal/turistickikanal/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAs.si" tvg-name="TV AS Sabac" tvg-logo="https://www.jagledam.com/logo/logoassabac.jpg" group-title="Serbia" tvg-shift="+1",TV AS Sabac
 http://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 tvg-id="TVBelleAmie.rs" tvg-name="TV Belle Amie" tvg-logo="https://www.jagledam.com/logo/belleamie.jpg" group-title="Serbia" tvg-shift="+1",TV Belle Amie
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/65848
-#EXTINF:-1 tvg-id="" tvg-name="TV Bor" tvg-logo="https://www.jagledam.com/logo/logobor.jpg" group-title="Serbia" tvg-shift="+1",TV Bor
+#EXTINF:-1 tvg-name="TV Bor" tvg-logo="https://www.jagledam.com/logo/logobor.jpg" group-title="Serbia" tvg-shift="+1",TV Bor
 http://ott.dobratv.net:25461/BoemTV/112233445566/6932
-#EXTINF:-1 tvg-id="" tvg-name="TV Gem (576p)" tvg-logo="" group-title="Serbia" tvg-shift="+1",TV Gem (576p)
+#EXTINF:-1 tvg-name="TV Gem (576p)" tvg-logo="" group-title="Serbia" tvg-shift="+1",TV Gem (576p)
 https://tv.liveott.online/GEM_TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Jefimija" tvg-logo="http://rem.rs/uploads/attachment/pruzalac/660/thumb_jefimija_tv.png" group-title="Serbia" tvg-shift="+1",TV Jefimija
+#EXTINF:-1 tvg-name="TV Jefimija" tvg-logo="http://rem.rs/uploads/attachment/pruzalac/660/thumb_jefimija_tv.png" group-title="Serbia" tvg-shift="+1",TV Jefimija
 http://212.200.108.253/live/jefimija.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Kanal M (576p)" tvg-logo="" group-title="Serbia" tvg-shift="+1",TV Kanal M (576p)
+#EXTINF:-1 tvg-name="TV Kanal M (576p)" tvg-logo="" group-title="Serbia" tvg-shift="+1",TV Kanal M (576p)
 http://176.67.210.1/hls/kanalm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Kladovo" tvg-logo="https://www.jagledam.com/logo/logotvkladovo.jpg" group-title="Serbia" tvg-shift="+1",TV Kladovo
+#EXTINF:-1 tvg-name="TV Kladovo" tvg-logo="https://www.jagledam.com/logo/logotvkladovo.jpg" group-title="Serbia" tvg-shift="+1",TV Kladovo
 http://212.200.113.230:1935/iptv/iptv40000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Kraljevo (576p)" tvg-logo="" group-title="Serbia" tvg-shift="+1",TV Kraljevo (576p)
+#EXTINF:-1 tvg-name="TV Kraljevo (576p)" tvg-logo="" group-title="Serbia" tvg-shift="+1",TV Kraljevo (576p)
 https://tv.liveott.online/TV_KRALJEVO.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Leskovac" tvg-logo="https://www.jagledam.com/logo/logotvleskovac.jpg" group-title="Serbia" tvg-shift="+1",TV Leskovac
+#EXTINF:-1 tvg-name="TV Leskovac" tvg-logo="https://www.jagledam.com/logo/logotvleskovac.jpg" group-title="Serbia" tvg-shift="+1",TV Leskovac
 http://de2-2.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=nettvplus
-#EXTINF:-1 tvg-id="" tvg-name="TV Leskovac" tvg-logo="https://www.jagledam.com/logo/logotvleskovac.jpg" group-title="Serbia" tvg-shift="+1",TV Leskovac
+#EXTINF:-1 tvg-name="TV Leskovac" tvg-logo="https://www.jagledam.com/logo/logotvleskovac.jpg" group-title="Serbia" tvg-shift="+1",TV Leskovac
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=nettvplus&channel=tvleskovac&u=nettvplus&p=tvleskovacSh4redSecre7iNf0
-#EXTINF:-1 tvg-id="" tvg-name="TV Mag (576p)" tvg-logo="" group-title="Serbia" tvg-shift="+1",TV Mag (576p)
+#EXTINF:-1 tvg-name="TV Mag (576p)" tvg-logo="" group-title="Serbia" tvg-shift="+1",TV Mag (576p)
 https://5bc45691ca49f.streamlock.net/tvmag/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Most" tvg-logo="https://www.jagledam.com/logo/logotvmost.jpg" group-title="Serbia" tvg-shift="+1",TV Most
+#EXTINF:-1 tvg-name="TV Most" tvg-logo="https://www.jagledam.com/logo/logotvmost.jpg" group-title="Serbia" tvg-shift="+1",TV Most
 https://tv.liveott.online/TV_MOSTNET.m3u8
 #EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" tvg-logo="https://www.jagledam.com/logo/logonovipazar.jpg" group-title="Serbia" tvg-shift="+1",RTV Novi Pazar
 https://rtvnp.rs/hls/rtvnp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Pancevo" tvg-logo="https://www.jagledam.com/logo/logotvpancevo.jpg" group-title="Serbia" tvg-shift="+1",TV Pancevo
+#EXTINF:-1 tvg-name="TV Pancevo" tvg-logo="https://www.jagledam.com/logo/logotvpancevo.jpg" group-title="Serbia" tvg-shift="+1",TV Pancevo
 https://tv.liveott.online/TV_PANCEVO.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Sabac" tvg-logo="https://www.jagledam.com/logo/logotvsabac.jpg" group-title="Serbia" tvg-shift="+1",TV Sabac
+#EXTINF:-1 tvg-name="TV Sabac" tvg-logo="https://www.jagledam.com/logo/logotvsabac.jpg" group-title="Serbia" tvg-shift="+1",TV Sabac
 https://5bc45691ca49f.streamlock.net/rtvsabac/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV YU Eco (576p)" tvg-logo="" group-title="Serbia" tvg-shift="+1",TV YU Eco (576p)
+#EXTINF:-1 tvg-name="TV YU Eco (576p)" tvg-logo="" group-title="Serbia" tvg-shift="+1",TV YU Eco (576p)
 https://5bc45691ca49f.streamlock.net/yueco/video.m3u8
 #EXTINF:-1 tvg-id="UNATV.ba" tvg-name="Una TV SR" tvg-logo="https://www.jagledam.com/logo/logounatv.jpg" group-title="Serbia" tvg-shift="+1",Una TV SR
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/295252
-#EXTINF:-1 tvg-id="" tvg-name="Vlasotince TV" tvg-logo="https://www.jagledam.com/logo/logovlasotince.jpg" group-title="Serbia" tvg-shift="+1",Vlasotince TV
+#EXTINF:-1 tvg-name="Vlasotince TV" tvg-logo="https://www.jagledam.com/logo/logovlasotince.jpg" group-title="Serbia" tvg-shift="+1",Vlasotince TV
 https://frn.rtsp.me/VPrbvTEh-ETKk_rLTSXH_g/1639745487/hls/G65nDKKN.m3u8?ip=109.227.21.246
-#EXTINF:-1 tvg-id="" tvg-name="A1 Montenegro" tvg-logo="https://www.jagledam.com/logo/logoa1.jpg" group-title="Montenegro" tvg-shift="+1",A1 Montenegro
+#EXTINF:-1 tvg-name="A1 Montenegro" tvg-logo="https://www.jagledam.com/logo/logoa1.jpg" group-title="Montenegro" tvg-shift="+1",A1 Montenegro
 http://178.132.6.97/A1Balkan/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MonteLux" tvg-logo="https://www.jagledam.com/logo/logomontelux.jpg" group-title="Montenegro" tvg-shift="+1",MonteLux
+#EXTINF:-1 tvg-name="MonteLux" tvg-logo="https://www.jagledam.com/logo/logomontelux.jpg" group-title="Montenegro" tvg-shift="+1",MonteLux
 http://ott.dobratv.net:25461/BoemTV/112233445566/14144
 #EXTINF:-1 tvg-id="NOVA.rs" tvg-name="Nova M" tvg-logo="https://www.jagledam.com/logo/logonovam.jpg" group-title="Montenegro" tvg-shift="+1",Nova M
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/276925
 #EXTINF:-1 tvg-id="PinkMontenegro.rs" tvg-name="Pink M" tvg-logo="https://www.jagledam.com/logo/logopinkm.jpg" group-title="Montenegro" tvg-shift="+1",Pink M
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/10725
-#EXTINF:-1 tvg-id="" tvg-name="Prva TV CG" tvg-logo="https://www.jagledam.com/logo/logoprva.jpg" group-title="Montenegro" tvg-shift="+1",Prva TV CG
+#EXTINF:-1 tvg-name="Prva TV CG" tvg-logo="https://www.jagledam.com/logo/logoprva.jpg" group-title="Montenegro" tvg-shift="+1",Prva TV CG
 https://tv.liveott.online/PINK_M.m3u8
 #EXTINF:-1 tvg-id="RTCG1.hr" tvg-name="RTCG 1" tvg-logo="https://www.jagledam.com/logo/logortcg1.jpg" group-title="Montenegro" tvg-shift="+1",RTCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
@@ -342,11 +342,11 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 https://cdn3.rtcg.me:1936/cgmne/smil:cgmne.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTCGSAT.hr" tvg-name="RTCG SAT" tvg-logo="https://www.jagledam.com/logo/logortcgsat.jpg" group-title="Montenegro" tvg-shift="+1",RTCG SAT
 https://cdn3.rtcg.me:1936/cgsat/smil:cgsat.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 777" tvg-logo="https://www.jagledam.com/logo/logo777.jpg" group-title="Montenegro" tvg-shift="+1",TV 777
+#EXTINF:-1 tvg-name="TV 777" tvg-logo="https://www.jagledam.com/logo/logo777.jpg" group-title="Montenegro" tvg-shift="+1",TV 777
 https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Teuta" tvg-logo="" group-title="Montenegro" tvg-shift="+1",TV Teuta
+#EXTINF:-1 tvg-name="TV Teuta" tvg-logo="" group-title="Montenegro" tvg-shift="+1",TV Teuta
 https://teutastream.com/tvteuta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Teuta" tvg-logo="" group-title="Montenegro" tvg-shift="+1",TV Teuta
+#EXTINF:-1 tvg-name="TV Teuta" tvg-logo="" group-title="Montenegro" tvg-shift="+1",TV Teuta
 https://s1.teve.mk/tvstanici/3/playlist.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66621_dark_360w_270h.png" group-title="Germany" tvg-shift="+1",3sat
 https://s4.hopslan.com/3satt/tracks-v1a1/mono.m3u8
@@ -442,113 +442,113 @@ https://fernsehzone.online/getstream.php/zdf-live.m3u8
 https://fernsehzone.online/getstream.php/zdfinfo.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/569px-ZDFneo2017_Logo.svg.png" group-title="Germany" tvg-shift="+1",ZDFneo DE
 https://fernsehzone.online/getstream.php/zdfneo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alfa TV" tvg-logo="https://www.jagledam.com/logo/logoalfatv.jpg" group-title="Macedonia" tvg-shift="+1",Alfa TV
+#EXTINF:-1 tvg-name="Alfa TV" tvg-logo="https://www.jagledam.com/logo/logoalfatv.jpg" group-title="Macedonia" tvg-shift="+1",Alfa TV
 http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alfa TV" tvg-logo="https://www.jagledam.com/logo/logoalfatv.jpg" group-title="Macedonia" tvg-shift="+1",Alfa TV
+#EXTINF:-1 tvg-name="Alfa TV" tvg-logo="https://www.jagledam.com/logo/logoalfatv.jpg" group-title="Macedonia" tvg-shift="+1",Alfa TV
 https://s1.teve.mk/tvstanici/4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alsat M MK" tvg-logo="https://www.jagledam.com/logo/alsatm.jpg" group-title="Macedonia" tvg-shift="+1",Alsat M MK
+#EXTINF:-1 tvg-name="Alsat M MK" tvg-logo="https://www.jagledam.com/logo/alsatm.jpg" group-title="Macedonia" tvg-shift="+1",Alsat M MK
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/1346
-#EXTINF:-1 tvg-id="" tvg-name="BTR" tvg-logo="https://www.jagledam.com/logo/logobtr.jpg" group-title="Macedonia" tvg-shift="+1",BTR
+#EXTINF:-1 tvg-name="BTR" tvg-logo="https://www.jagledam.com/logo/logobtr.jpg" group-title="Macedonia" tvg-shift="+1",BTR
 http://fms.zulu.mk:554/zulu/btr_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ERA" tvg-logo="https://www.jagledam.com/logo/era.jpg" group-title="Macedonia" tvg-shift="+1",ERA
+#EXTINF:-1 tvg-name="ERA" tvg-logo="https://www.jagledam.com/logo/era.jpg" group-title="Macedonia" tvg-shift="+1",ERA
 http://93.157.62.180/EraTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="H1 Hugo TV" tvg-logo="https://www.jagledam.com/logo/logoh1.jpg" group-title="Macedonia" tvg-shift="+1",H1 Hugo TV
+#EXTINF:-1 tvg-name="H1 Hugo TV" tvg-logo="https://www.jagledam.com/logo/logoh1.jpg" group-title="Macedonia" tvg-shift="+1",H1 Hugo TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/23472
-#EXTINF:-1 tvg-id="" tvg-name="H2 Hugo TV" tvg-logo="https://www.jagledam.com/logo/logoh2.jpg" group-title="Macedonia" tvg-shift="+1",H2 Hugo TV
+#EXTINF:-1 tvg-name="H2 Hugo TV" tvg-logo="https://www.jagledam.com/logo/logoh2.jpg" group-title="Macedonia" tvg-shift="+1",H2 Hugo TV
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="K3 Kumanovo" tvg-logo="https://www.jagledam.com/logo/logok3kumanovo.jpg" group-title="Macedonia" tvg-shift="+1",K3 Kumanovo
+#EXTINF:-1 tvg-name="K3 Kumanovo" tvg-logo="https://www.jagledam.com/logo/logok3kumanovo.jpg" group-title="Macedonia" tvg-shift="+1",K3 Kumanovo
 http://Macedonia-tv.cdn.spectar.tv/Macedonia-tv/k3-tv-kumanovo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 5" tvg-logo="https://www.jagledam.com/logo/logokanal5.jpg" group-title="Macedonia" tvg-shift="+1",Kanal 5
+#EXTINF:-1 tvg-name="Kanal 5" tvg-logo="https://www.jagledam.com/logo/logokanal5.jpg" group-title="Macedonia" tvg-shift="+1",Kanal 5
 http://51.195.90.133:8081/tvstanici/2/KANAL-5-mk-AM-playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 5" tvg-logo="https://www.jagledam.com/logo/logokanal5.jpg" group-title="Macedonia" tvg-shift="+1",Kanal 5
+#EXTINF:-1 tvg-name="Kanal 5" tvg-logo="https://www.jagledam.com/logo/logokanal5.jpg" group-title="Macedonia" tvg-shift="+1",Kanal 5
 https://s1.teve.mk/tvstanici/2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 5 Plus" tvg-logo="https://www.jagledam.com/logo/plus5.jpg" group-title="Macedonia" tvg-shift="+1",Kanal 5 Plus
+#EXTINF:-1 tvg-name="Kanal 5 Plus" tvg-logo="https://www.jagledam.com/logo/plus5.jpg" group-title="Macedonia" tvg-shift="+1",Kanal 5 Plus
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_Plus_MK)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 8" tvg-logo="https://www.jagledam.com/logo/logokanal8.jpg" group-title="Macedonia" tvg-shift="+1",Kanal 8
+#EXTINF:-1 tvg-name="Kanal 8" tvg-logo="https://www.jagledam.com/logo/logokanal8.jpg" group-title="Macedonia" tvg-shift="+1",Kanal 8
 http://kanal8.hugo.mk:1935/live/kanal8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal Vis" tvg-logo="https://www.jagledam.com/logo/logokanalvis.jpg" group-title="Macedonia" tvg-shift="+1",Kanal Vis
+#EXTINF:-1 tvg-name="Kanal Vis" tvg-logo="https://www.jagledam.com/logo/logokanalvis.jpg" group-title="Macedonia" tvg-shift="+1",Kanal Vis
 #EXTVLCOPT:http-referrer=https://www.kanalvis.com/
-#EXTINF:-1 tvg-id="" tvg-name="Makedonsko Sonce" tvg-logo="https://www.jagledam.com/logo/logomakedonskosonce.jpg" group-title="Macedonia" tvg-shift="+1",Makedonsko Sonce
+#EXTINF:-1 tvg-name="Makedonsko Sonce" tvg-logo="https://www.jagledam.com/logo/logomakedonskosonce.jpg" group-title="Macedonia" tvg-shift="+1",Makedonsko Sonce
 https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MRT 1" tvg-logo="https://www.jagledam.com/logo/mrt1.jpg" group-title="Macedonia" tvg-shift="+1",MRT 1
+#EXTINF:-1 tvg-name="MRT 1" tvg-logo="https://www.jagledam.com/logo/mrt1.jpg" group-title="Macedonia" tvg-shift="+1",MRT 1
 https://s1.teve.mk/tvstanici/6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MRT 1 sat" tvg-logo="https://www.jagledam.com/logo/logomrtsat.jpg" group-title="Macedonia" tvg-shift="+1",MRT 1 sat
+#EXTINF:-1 tvg-name="MRT 1 sat" tvg-logo="https://www.jagledam.com/logo/logomrtsat.jpg" group-title="Macedonia" tvg-shift="+1",MRT 1 sat
 https://vod-c57.interspace.com/channel_abr/45/receiver/45_p4/chunks.m3u8?nimblesessionid=3512468&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIzIDM6MDk6NTggUE0maGFzaF92YWx1ZT0xZ2pGcWR4eW41T3B5cU1lekxsSnNRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY0MjMwMzQ2NmEwMGI=
-#EXTINF:-1 tvg-id="" tvg-name="MRT 2" tvg-logo="https://www.jagledam.com/logo/mrt2.jpg" group-title="Macedonia" tvg-shift="+1",MRT 2
+#EXTINF:-1 tvg-name="MRT 2" tvg-logo="https://www.jagledam.com/logo/mrt2.jpg" group-title="Macedonia" tvg-shift="+1",MRT 2
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MRT 2 sat" tvg-logo="https://www.jagledam.com/logo/logomrtsat2.jpg" group-title="Macedonia" tvg-shift="+1",MRT 2 sat
+#EXTINF:-1 tvg-name="MRT 2 sat" tvg-logo="https://www.jagledam.com/logo/logomrtsat2.jpg" group-title="Macedonia" tvg-shift="+1",MRT 2 sat
 https://vod-c57.interspace.com/channel_abr/46/receiver/46_p4/chunks.m3u8?nimblesessionid=3512479&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIzIDM6MTE6MjAgUE0maGFzaF92YWx1ZT1NT2k5aVgvRlRzTkhMMVRlV2pWNHVBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY0MjMwMzk4NTcyNGI=
-#EXTINF:-1 tvg-id="" tvg-name="MRT 4" tvg-logo="https://www.jagledam.com/logo/logomrt4.jpg" group-title="Macedonia" tvg-shift="+1",MRT 4
+#EXTINF:-1 tvg-name="MRT 4" tvg-logo="https://www.jagledam.com/logo/logomrt4.jpg" group-title="Macedonia" tvg-shift="+1",MRT 4
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/266468
-#EXTINF:-1 tvg-id="" tvg-name="MTM 1 Skopska" tvg-logo="https://www.jagledam.com/logo/logomtm.jpg" group-title="Macedonia" tvg-shift="+1",MTM 1 Skopska
+#EXTINF:-1 tvg-name="MTM 1 Skopska" tvg-logo="https://www.jagledam.com/logo/logomtm.jpg" group-title="Macedonia" tvg-shift="+1",MTM 1 Skopska
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/157362
-#EXTINF:-1 tvg-id="" tvg-name="Naša TV" tvg-logo="https://www.jagledam.com/logo/nasatv.jpg" group-title="Macedonia" tvg-shift="+1",Naša TV
+#EXTINF:-1 tvg-name="Naša TV" tvg-logo="https://www.jagledam.com/logo/nasatv.jpg" group-title="Macedonia" tvg-shift="+1",Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nova 12" tvg-logo="" group-title="Macedonia" tvg-shift="+1",Nova 12
+#EXTINF:-1 tvg-name="Nova 12" tvg-logo="" group-title="Macedonia" tvg-shift="+1",Nova 12
 http://151.236.247.171:8080/nova/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTK Kavadarci" tvg-logo="https://www.jagledam.com/logo/logortkmk.jpg" group-title="Macedonia" tvg-shift="+1",RTK Kavadarci
+#EXTINF:-1 tvg-name="RTK Kavadarci" tvg-logo="https://www.jagledam.com/logo/logortkmk.jpg" group-title="Macedonia" tvg-shift="+1",RTK Kavadarci
 http://95.86.27.228/rtklive/rtklive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shutel" tvg-logo="https://www.jagledam.com/logo/shutel.jpg" group-title="Macedonia" tvg-shift="+1",Shutel
+#EXTINF:-1 tvg-name="Shutel" tvg-logo="https://www.jagledam.com/logo/shutel.jpg" group-title="Macedonia" tvg-shift="+1",Shutel
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sitel" tvg-logo="https://www.jagledam.com/logo/logositel.jpg" group-title="Macedonia" tvg-shift="+1",Sitel
+#EXTINF:-1 tvg-name="Sitel" tvg-logo="https://www.jagledam.com/logo/logositel.jpg" group-title="Macedonia" tvg-shift="+1",Sitel
 http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sitel 3" tvg-logo="https://www.jagledam.com/logo/sitel3.jpg" group-title="Macedonia" tvg-shift="+1",Sitel 3
+#EXTINF:-1 tvg-name="Sitel 3" tvg-logo="https://www.jagledam.com/logo/sitel3.jpg" group-title="Macedonia" tvg-shift="+1",Sitel 3
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel_3)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televizija Nova" tvg-logo="https://www.jagledam.com/logo/logotvnova.jpg" group-title="Macedonia" tvg-shift="+1",Televizija Nova
+#EXTINF:-1 tvg-name="Televizija Nova" tvg-logo="https://www.jagledam.com/logo/logotvnova.jpg" group-title="Macedonia" tvg-shift="+1",Televizija Nova
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Nova_MK)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televizioni Koha" tvg-logo="https://www.jagledam.com/logo/logokoha.jpg" group-title="Macedonia" tvg-shift="+1",Televizioni Koha
+#EXTINF:-1 tvg-name="Televizioni Koha" tvg-logo="https://www.jagledam.com/logo/logokoha.jpg" group-title="Macedonia" tvg-shift="+1",Televizioni Koha
 http://eu-ams.bestvideostreaming.is/8710/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telma" tvg-logo="https://www.jagledam.com/logo/logotelma.jpg" group-title="Macedonia" tvg-shift="+1",Telma
+#EXTINF:-1 tvg-name="Telma" tvg-logo="https://www.jagledam.com/logo/logotelma.jpg" group-title="Macedonia" tvg-shift="+1",Telma
 https://s1.teve.mk/tvstanici/3/chunks.m3u8?nimblesessionid=120958766
-#EXTINF:-1 tvg-id="" tvg-name="Tera TV" tvg-logo="https://www.jagledam.com/logo/logoteratv.jpg" group-title="Macedonia" tvg-shift="+1",Tera TV
+#EXTINF:-1 tvg-name="Tera TV" tvg-logo="https://www.jagledam.com/logo/logoteratv.jpg" group-title="Macedonia" tvg-shift="+1",Tera TV
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 2 Gostivar" tvg-logo="https://www.jagledam.com/logo/logotv2gostivar.jpg" group-title="Macedonia" tvg-shift="+1",TV 2 Gostivar
+#EXTINF:-1 tvg-name="TV 2 Gostivar" tvg-logo="https://www.jagledam.com/logo/logotv2gostivar.jpg" group-title="Macedonia" tvg-shift="+1",TV 2 Gostivar
 http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 21" tvg-logo="https://www.jagledam.com/logo/logotv21.jpg" group-title="Macedonia" tvg-shift="+1",TV 21
+#EXTINF:-1 tvg-name="TV 21" tvg-logo="https://www.jagledam.com/logo/logotv21.jpg" group-title="Macedonia" tvg-shift="+1",TV 21
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4083
-#EXTINF:-1 tvg-id="" tvg-name="TV Orbis" tvg-logo="https://www.jagledam.com/logo/logoorbis.jpg" group-title="Macedonia" tvg-shift="+1",TV Orbis
+#EXTINF:-1 tvg-name="TV Orbis" tvg-logo="https://www.jagledam.com/logo/logoorbis.jpg" group-title="Macedonia" tvg-shift="+1",TV Orbis
 http://tvorbis.hugo.mk:1935/live/orbistv/jagledam.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Plus" tvg-logo="https://www.jagledam.com/logo/logotvplus.jpg" group-title="Macedonia" tvg-shift="+1",TV Plus
+#EXTINF:-1 tvg-name="TV Plus" tvg-logo="https://www.jagledam.com/logo/logotvplus.jpg" group-title="Macedonia" tvg-shift="+1",TV Plus
 http://stream.rtvpuls.com/broadcasting
-#EXTINF:-1 tvg-id="" tvg-name="TV Sonce" tvg-logo="https://www.jagledam.com/logo/logotvsonce.jpg" group-title="Macedonia" tvg-shift="+1",TV Sonce
+#EXTINF:-1 tvg-name="TV Sonce" tvg-logo="https://www.jagledam.com/logo/logotvsonce.jpg" group-title="Macedonia" tvg-shift="+1",TV Sonce
 https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Svet" tvg-logo="https://www.jagledam.com/logo/logotvsvet.jpg" group-title="Macedonia" tvg-shift="+1",TV Svet
+#EXTINF:-1 tvg-name="TV Svet" tvg-logo="https://www.jagledam.com/logo/logotvsvet.jpg" group-title="Macedonia" tvg-shift="+1",TV Svet
 http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zdravkin" tvg-logo="https://www.jagledam.com/logo/logozdravkin.jpg" group-title="Macedonia" tvg-shift="+1",Zdravkin
+#EXTINF:-1 tvg-name="Zdravkin" tvg-logo="https://www.jagledam.com/logo/logozdravkin.jpg" group-title="Macedonia" tvg-shift="+1",Zdravkin
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cegrani Media" tvg-logo="https://www.jagledam.com/logo/logocergani.jpg" group-title="Kosovo" tvg-shift="+1",Cegrani Media
+#EXTINF:-1 tvg-name="Cegrani Media" tvg-logo="https://www.jagledam.com/logo/logocergani.jpg" group-title="Kosovo" tvg-shift="+1",Cegrani Media
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/146
-#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="https://www.jagledam.com/logo/logodasmatv.jpg" group-title="Kosovo" tvg-shift="+1",Dasma TV
+#EXTINF:-1 tvg-name="Dasma TV" tvg-logo="https://www.jagledam.com/logo/logodasmatv.jpg" group-title="Kosovo" tvg-shift="+1",Dasma TV
 http://93.157.62.180/DasmaTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rrokum" tvg-logo="https://www.jagledam.com/logo/logorrokum.jpg" group-title="Kosovo" tvg-shift="+1",Rrokum
+#EXTINF:-1 tvg-name="Rrokum" tvg-logo="https://www.jagledam.com/logo/logorrokum.jpg" group-title="Kosovo" tvg-shift="+1",Rrokum
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="https://www.jagledam.com/logo/logortk1.jpg" group-title="Kosovo" tvg-shift="+1",RTK 1
+#EXTINF:-1 tvg-name="RTK 1" tvg-logo="https://www.jagledam.com/logo/logortk1.jpg" group-title="Kosovo" tvg-shift="+1",RTK 1
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="https://www.jagledam.com/logo/logortk2.jpg" group-title="Kosovo" tvg-shift="+1",RTK 2
+#EXTINF:-1 tvg-name="RTK 2" tvg-logo="https://www.jagledam.com/logo/logortk2.jpg" group-title="Kosovo" tvg-shift="+1",RTK 2
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTK 3" tvg-logo="https://www.jagledam.com/logo/logortk3.jpg" group-title="Kosovo" tvg-shift="+1",RTK 3
+#EXTINF:-1 tvg-name="RTK 3" tvg-logo="https://www.jagledam.com/logo/logortk3.jpg" group-title="Kosovo" tvg-shift="+1",RTK 3
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="https://www.jagledam.com/logo/logortk4.jpg" group-title="Kosovo" tvg-shift="+1",RTK 4
+#EXTINF:-1 tvg-name="RTK 4" tvg-logo="https://www.jagledam.com/logo/logortk4.jpg" group-title="Kosovo" tvg-shift="+1",RTK 4
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21" tvg-logo="https://www.jagledam.com/logo/logortv21.jpg" group-title="Kosovo" tvg-shift="+1",RTV 21
+#EXTINF:-1 tvg-name="RTV 21" tvg-logo="https://www.jagledam.com/logo/logortv21.jpg" group-title="Kosovo" tvg-shift="+1",RTV 21
 https://ub1doy938d.gjirafa.net/live/6rgklscjRSjkIb3cFcFiyCmOrcQ7AWeB/zy1zzz.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syri Vision" tvg-logo="https://www.jagledam.com/logo/logosyrivision.jpg" group-title="Kosovo" tvg-shift="+1",Syri Vision
+#EXTINF:-1 tvg-name="Syri Vision" tvg-logo="https://www.jagledam.com/logo/logosyrivision.jpg" group-title="Kosovo" tvg-shift="+1",Syri Vision
 https://stream.syritv.al/SyriTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Dukagjini" tvg-logo="https://www.jagledam.com/logo/logodukagjini.jpg" group-title="Kosovo" tvg-shift="+1",TV Dukagjini
+#EXTINF:-1 tvg-name="TV Dukagjini" tvg-logo="https://www.jagledam.com/logo/logodukagjini.jpg" group-title="Kosovo" tvg-shift="+1",TV Dukagjini
 https://ub1doy938d.gjirafa.net/live/mtAOO7iGIzVAs3PFPnAFubierryMwW3V/ygqkzt480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Liria" tvg-logo="https://www.jagledam.com/logo/logotvliria.jpg" group-title="Kosovo" tvg-shift="+1",TV Liria
+#EXTINF:-1 tvg-name="TV Liria" tvg-logo="https://www.jagledam.com/logo/logotvliria.jpg" group-title="Kosovo" tvg-shift="+1",TV Liria
 
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus" tvg-logo="https://www.jagledam.com/logo/logovizionplus.jpg" group-title="Kosovo" tvg-shift="+1",Vizion Plus
+#EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://www.jagledam.com/logo/logovizionplus.jpg" group-title="Kosovo" tvg-shift="+1",Vizion Plus
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/1299
 #EXTINF:-1 tvg-id="ZicoTV.rs" tvg-name="Zico TV" tvg-logo="https://www.jagledam.com/logo/logozico.jpg" group-title="Kosovo" tvg-shift="+1",Zico TV
 https://ub1doy938d.gjirafa.net/live/mtAOO7iGIzVAs3PFPnAFubierryMwW3V/y1k0kk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV" tvg-logo="https://www.jagledam.com/logo/logozjarr.jpg" group-title="Kosovo" tvg-shift="+1",Zjarr TV
+#EXTINF:-1 tvg-name="Zjarr TV" tvg-logo="https://www.jagledam.com/logo/logozjarr.jpg" group-title="Kosovo" tvg-shift="+1",Zjarr TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/23711
 #EXTINF:-1 tvg-id="ExodusTV.si" tvg-name="Exodus TV" tvg-logo="https://i.imgur.com/wokyuql.png" group-title="Slovenia" tvg-shift="+1",Exodus TV
 https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="GeaTV.si" tvg-name="Gea TV" tvg-logo="https://www.jagledam.com/logo/logogea.jpg" group-title="Slovenia" tvg-shift="+1",Gea TV
 
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://www.jagledam.com/logo/logogtv.jpg" group-title="Slovenia" tvg-shift="+1",GTV
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.jagledam.com/logo/logogtv.jpg" group-title="Slovenia" tvg-shift="+1",GTV
 http://91.220.221.60/gtv_hls/gtv_03.m3u8
 #EXTINF:-1 tvg-id="KanalA.si" tvg-name="Kanal A" tvg-logo="https://i.imgur.com/JHNpcqF.png" group-title="Slovenia" tvg-shift="+1",Kanal A
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/5571
@@ -568,39 +568,39 @@ https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-defau
 https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 tvg-id="TVSLO3.si" tvg-name="TV SLO 3" tvg-logo="https://www.jagledam.com/logo/logoslo3.jpg" group-title="Slovenia" tvg-shift="+1",TV SLO 3
 https://cdn-live.rtvslo.si/hls/live/2095063/slo3_ott/playlist.m3u8?hdnts=exp=1689457610~acl=*~hmac=6e69626a4be336184cec67c88689624447f33cc9c8ad12c892fda537004cf211
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 BH" tvg-logo="https://www.jagledam.com/logo/logoarenasport1bh.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 1 BH
+#EXTINF:-1 tvg-name="ARENA SPORT 1 BH" tvg-logo="https://www.jagledam.com/logo/logoarenasport1bh.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 1 BH
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/36909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 1 HR
+#EXTINF:-1 tvg-name="ARENA SPORT 1 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 1 HR
 http://80.252.37.194:5000/udp/233.233.233.3:12000
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 1 RS
+#EXTINF:-1 tvg-name="ARENA SPORT 1 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 1 RS
 http://46.240.130.158/Arena1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1x2" tvg-logo="https://www.jagledam.com/logo/logoarenasport1x2.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 1x2
+#EXTINF:-1 tvg-name="ARENA SPORT 1x2" tvg-logo="https://www.jagledam.com/logo/logoarenasport1x2.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 1x2
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/296564
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 BiH" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 2 BiH
+#EXTINF:-1 tvg-name="ARENA SPORT 2 BiH" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 2 BiH
 http://94.250.2.6:7374/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 2 HR
+#EXTINF:-1 tvg-name="ARENA SPORT 2 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 2 HR
 http://80.252.37.194:5000/udp/233.233.233.4:12000
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 2 RS
+#EXTINF:-1 tvg-name="ARENA SPORT 2 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 2 RS
 http://46.240.130.158/Arena2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport3.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 3 HR
+#EXTINF:-1 tvg-name="ARENA SPORT 3 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport3.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 3 HR
 http://80.252.37.194:5000/udp/233.233.233.5:12000
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport3.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 3 RS
+#EXTINF:-1 tvg-name="ARENA SPORT 3 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport3.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 3 RS
 http://46.240.130.158/Arena3/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport4.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 4 HR
+#EXTINF:-1 tvg-name="ARENA SPORT 4 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport4.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 4 HR
 http://80.252.37.194:5000/udp/233.233.233.6:12000
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport4.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 4 RS
+#EXTINF:-1 tvg-name="ARENA SPORT 4 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport4.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 4 RS
 http://46.240.130.158/Arena4/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport5.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 5 HR
+#EXTINF:-1 tvg-name="ARENA SPORT 5 HR" tvg-logo="https://www.jagledam.com/logo/logoarenasport5.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 5 HR
 http://80.252.37.194:5000/udp/233.233.233.7:12000
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport5.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 5 RS
+#EXTINF:-1 tvg-name="ARENA SPORT 5 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport5.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 5 RS
 http://46.240.130.158/Arena5/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 6 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport6.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 6 RS
+#EXTINF:-1 tvg-name="ARENA SPORT 6 RS" tvg-logo="https://www.jagledam.com/logo/logoarenasport6.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT 6 RS
 http://46.240.130.158/Arena6/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT PREMIUM 1 RS" tvg-logo="https://www.jagledam.com/logo/logoarenaspot1premium.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT PREMIUM 1 RS
+#EXTINF:-1 tvg-name="ARENA SPORT PREMIUM 1 RS" tvg-logo="https://www.jagledam.com/logo/logoarenaspot1premium.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT PREMIUM 1 RS
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/62
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT PREMIUM 2 RS" tvg-logo="https://www.jagledam.com/logo/logoarenaspot2premium.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT PREMIUM 2 RS
+#EXTINF:-1 tvg-name="ARENA SPORT PREMIUM 2 RS" tvg-logo="https://www.jagledam.com/logo/logoarenaspot2premium.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT PREMIUM 2 RS
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/150
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT PREMIUM 3 RS" tvg-logo="https://www.jagledam.com/logo/logoarenaspot3premium.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT PREMIUM 3 RS
+#EXTINF:-1 tvg-name="ARENA SPORT PREMIUM 3 RS" tvg-logo="https://www.jagledam.com/logo/logoarenaspot3premium.jpg" group-title="Sports" tvg-shift="+1",ARENA SPORT PREMIUM 3 RS
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/3
 #EXTINF:-1 tvg-id="Eurosport1.hr" tvg-name="Eurosport" tvg-logo="https://www.jagledam.com/logo/logoeurosport.jpg" group-title="Sports" tvg-shift="+1",Eurosport
 http://185.6.22.6:8000/play/a02q
@@ -608,127 +608,127 @@ http://185.6.22.6:8000/play/a02q
 http://185.6.22.6:8000/play/a035
 #EXTINF:-1 tvg-id="FastandFunBox.hr" tvg-name="Fast and Fun Box" tvg-logo="https://www.jagledam.com/logo/logofastandfunbox.jpg" group-title="Sports" tvg-shift="+1",Fast and Fun Box
 https://5bc45691ca49f.streamlock.net/fastnfun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="https://www.jagledam.com/logo/logofightnetwork.jpg" group-title="Sports" tvg-shift="+1",Fight Network
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://www.jagledam.com/logo/logofightnetwork.jpg" group-title="Sports" tvg-shift="+1",Fight Network
 http://46.240.143.86/FightNetwork/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="FightBox" tvg-logo="https://www.jagledam.com/logo/logofightbox.jpg" group-title="Sports" tvg-shift="+1",FightBox
+#EXTINF:-1 tvg-name="FightBox" tvg-logo="https://www.jagledam.com/logo/logofightbox.jpg" group-title="Sports" tvg-shift="+1",FightBox
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/299261
-#EXTINF:-1 tvg-id="" tvg-name="HNTV" tvg-logo="https://www.jagledam.com/logo/logohntv.jpg" group-title="Sports" tvg-shift="+1",HNTV
+#EXTINF:-1 tvg-name="HNTV" tvg-logo="https://www.jagledam.com/logo/logohntv.jpg" group-title="Sports" tvg-shift="+1",HNTV
 http://212.200.164.212:8080/HNTV/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Kreator TV" tvg-logo="https://www.jagledam.com/logo/logokreatortv.jpg" group-title="Sports" tvg-shift="+1",Kreator TV
+#EXTINF:-1 tvg-name="Kreator TV" tvg-logo="https://www.jagledam.com/logo/logokreatortv.jpg" group-title="Sports" tvg-shift="+1",Kreator TV
 https://livestream-f.akamaihd.net/i/4395813_6938692_87407532_1@143261/master.m3u8?__b__=1096&dw=14400&hdnea=st=1487456222~exp=1487458022~acl=/i/4395813_6938692_87407532_1@143261/*~hmac=41abd7150b9c9b25bb0d875770e7243fd5c35f5505365611f643b9859cb150ca&__a__=off
-#EXTINF:-1 tvg-id="" tvg-name="M4 Sport" tvg-logo="https://www.jagledam.com/logo/logom4sport.jpg" group-title="Sports" tvg-shift="+1",M4 Sport
+#EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://www.jagledam.com/logo/logom4sport.jpg" group-title="Sports" tvg-shift="+1",M4 Sport
 https://c401-node62-cdn.connectmedia.hu/110304/e9292caf7d81045193a7bfdefbf16269/64482c77/index.m3u8?v=5iip:109.175.99.106
-#EXTINF:-1 tvg-id="" tvg-name="M4 Sport Plus" tvg-logo="https://www.jagledam.com/logo/logom4sport.jpg" group-title="Sports" tvg-shift="+1",M4 Sport Plus
+#EXTINF:-1 tvg-name="M4 Sport Plus" tvg-logo="https://www.jagledam.com/logo/logom4sport.jpg" group-title="Sports" tvg-shift="+1",M4 Sport Plus
 https://c402-node62-cdn.connectmedia.hu/110306/dd862da2abbcd47e78f13defc909e67f/64482d8f/index.m3u8?v=5iip:109.175.99.106
-#EXTINF:-1 tvg-id="" tvg-name="MRT 3" tvg-logo="https://www.jagledam.com/logo/logomrt3.jpg" group-title="Sports" tvg-shift="+1",MRT 3
+#EXTINF:-1 tvg-name="MRT 3" tvg-logo="https://www.jagledam.com/logo/logomrt3.jpg" group-title="Sports" tvg-shift="+1",MRT 3
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/24066
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport" tvg-logo="https://www.jagledam.com/logo/logonovasport.jpg" group-title="Sports" tvg-shift="+1",Nova Sport
+#EXTINF:-1 tvg-name="Nova Sport" tvg-logo="https://www.jagledam.com/logo/logonovasport.jpg" group-title="Sports" tvg-shift="+1",Nova Sport
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/84781
-#EXTINF:-1 tvg-id="" tvg-name="SK Fight" tvg-logo="https://www.jagledam.com/logo/logoskfight.jpg" group-title="Sports" tvg-shift="+1",SK Fight
+#EXTINF:-1 tvg-name="SK Fight" tvg-logo="https://www.jagledam.com/logo/logoskfight.jpg" group-title="Sports" tvg-shift="+1",SK Fight
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/67741
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://www.jagledam.com/logo/logosport1.jpg" group-title="Sports" tvg-shift="+1",Sport TV 1
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://www.jagledam.com/logo/logosport1.jpg" group-title="Sports" tvg-shift="+1",Sport TV 1
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/5592
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://www.jagledam.com/logo/logosport2.jpg" group-title="Sports" tvg-shift="+1",Sport TV 2
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://www.jagledam.com/logo/logosport2.jpg" group-title="Sports" tvg-shift="+1",Sport TV 2
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/27391
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://www.jagledam.com/logo/logosport3.jpg" group-title="Sports" tvg-shift="+1",Sport TV 3
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://www.jagledam.com/logo/logosport3.jpg" group-title="Sports" tvg-shift="+1",Sport TV 3
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/27398
 #EXTINF:-1 tvg-id="SportKlub1.rs" tvg-name="SPORT KLUB 1 RS" tvg-logo="https://www.jagledam.com/logo/logosportklub1.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 1 RS
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3473
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2" tvg-logo="https://www.jagledam.com/logo/logosportklub2.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 2
+#EXTINF:-1 tvg-name="SPORT KLUB 2" tvg-logo="https://www.jagledam.com/logo/logosportklub2.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 2
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3468
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 SR" tvg-logo="https://www.jagledam.com/logo/logosportklub3.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 3 SR
+#EXTINF:-1 tvg-name="SPORT KLUB 3 SR" tvg-logo="https://www.jagledam.com/logo/logosportklub3.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 3 SR
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3469
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4" tvg-logo="https://www.jagledam.com/logo/logosportklub4.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 4
+#EXTINF:-1 tvg-name="SPORT KLUB 4" tvg-logo="https://www.jagledam.com/logo/logosportklub4.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 4
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/5563
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5" tvg-logo="https://www.jagledam.com/logo/logosportklub5.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 5
+#EXTINF:-1 tvg-name="SPORT KLUB 5" tvg-logo="https://www.jagledam.com/logo/logosportklub5.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 5
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/10752
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 6" tvg-logo="https://www.jagledam.com/logo/logosportklub6.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 6
+#EXTINF:-1 tvg-name="SPORT KLUB 6" tvg-logo="https://www.jagledam.com/logo/logosportklub6.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB 6
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3471
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB Golf" tvg-logo="https://www.jagledam.com/logo/logosportklubgolf.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB Golf
+#EXTINF:-1 tvg-name="SPORT KLUB Golf" tvg-logo="https://www.jagledam.com/logo/logosportklubgolf.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB Golf
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/25657
 #EXTINF:-1 tvg-id="SportKlub1.rs" tvg-name="SPORT KLUB HD" tvg-logo="https://www.jagledam.com/logo/logosportklubhd.jpg" group-title="Sports" tvg-shift="+1",SPORT KLUB HD
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3466
-#EXTINF:-1 tvg-id="" tvg-name="sportska tv" tvg-logo="https://www.jagledam.com/logo/logosptv.jpg" group-title="Sports" tvg-shift="+1",sportska tv
+#EXTINF:-1 tvg-name="sportska tv" tvg-logo="https://www.jagledam.com/logo/logosptv.jpg" group-title="Sports" tvg-shift="+1",sportska tv
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4206
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport1hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 1 HD
+#EXTINF:-1 tvg-name="Super Sport 1 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport1hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 1 HD
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/209
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport2hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 2 HD
+#EXTINF:-1 tvg-name="Super Sport 2 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport2hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 2 HD
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/210
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport2hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 2 HD
+#EXTINF:-1 tvg-name="Super Sport 2 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport2hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 2 HD
 http://eu-ams.bestvideostreaming.is/8734/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport3hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 3 HD
+#EXTINF:-1 tvg-name="Super Sport 3 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport3hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 3 HD
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/158
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport3hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 3 HD
+#EXTINF:-1 tvg-name="Super Sport 3 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport3hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 3 HD
 http://eu-ams.bestvideostreaming.is/8741/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport4hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 4 HD
+#EXTINF:-1 tvg-name="Super Sport 4 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport4hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 4 HD
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/211
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport4hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 4 HD
+#EXTINF:-1 tvg-name="Super Sport 4 HD" tvg-logo="https://www.jagledam.com/logo/logosupersport4hd.jpg" group-title="Sports" tvg-shift="+1",Super Sport 4 HD
 http://eu-ams.bestvideostreaming.is/8743/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/ART_Sport_5_AL_logo.png" group-title="Sports" tvg-shift="+1",Super Sport 5 HD
+#EXTINF:-1 tvg-name="Super Sport 5 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/ART_Sport_5_AL_logo.png" group-title="Sports" tvg-shift="+1",Super Sport 5 HD
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/212
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 6 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/ART_Sport_6_AL_logo.png" group-title="Sports" tvg-shift="+1",Super Sport 6 HD
+#EXTINF:-1 tvg-name="Super Sport 6 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/ART_Sport_6_AL_logo.png" group-title="Sports" tvg-shift="+1",Super Sport 6 HD
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/213
-#EXTINF:-1 tvg-id="" tvg-name="TV Partizan" tvg-logo="https://www.jagledam.com/logo/logotvpartizan.jpg" group-title="Sports" tvg-shift="+1",TV Partizan
+#EXTINF:-1 tvg-name="TV Partizan" tvg-logo="https://www.jagledam.com/logo/logotvpartizan.jpg" group-title="Sports" tvg-shift="+1",TV Partizan
 https://178.253.194.105/tvpartizan/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AGRO TV" tvg-logo="https://www.jagledam.com/logo/logoagrotv.jpg" group-title="Dokumentarni" tvg-shift="+1",AGRO TV
+#EXTINF:-1 tvg-name="AGRO TV" tvg-logo="https://www.jagledam.com/logo/logoagrotv.jpg" group-title="Dokumentarni" tvg-shift="+1",AGRO TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://www.jagledam.com/logo/logoanimalplanet.jpg" group-title="Dokumentarni" tvg-shift="+1",Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://www.jagledam.com/logo/logoanimalplanet.jpg" group-title="Dokumentarni" tvg-shift="+1",Animal Planet
 http://212.200.164.212:8080/Animal_planet/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Balkan Trip" tvg-logo="null" group-title="Dokumentarni" tvg-shift="+1",Balkan Trip
+#EXTINF:-1 tvg-name="Balkan Trip" tvg-logo="null" group-title="Dokumentarni" tvg-shift="+1",Balkan Trip
 http://185.6.22.6:8000/play/a02v
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="https://www.jagledam.com/logo/logodavincilearning.jpg" group-title="Dokumentarni" tvg-shift="+1",Da Vinci Learning
+#EXTINF:-1 tvg-name="Da Vinci Learning" tvg-logo="https://www.jagledam.com/logo/logodavincilearning.jpg" group-title="Dokumentarni" tvg-shift="+1",Da Vinci Learning
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/281717
-#EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="https://www.jagledam.com/logo/logodiscoveryci.jpg" group-title="Dokumentarni" tvg-shift="+1",Crime+ Investigation
+#EXTINF:-1 tvg-name="Crime+ Investigation" tvg-logo="https://www.jagledam.com/logo/logodiscoveryci.jpg" group-title="Dokumentarni" tvg-shift="+1",Crime+ Investigation
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/84360
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://www.jagledam.com/logo/logodiscoverysc.jpg" group-title="Dokumentarni" tvg-shift="+1",Discovery Science
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://www.jagledam.com/logo/logodiscoverysc.jpg" group-title="Dokumentarni" tvg-shift="+1",Discovery Science
 http://185.6.22.6:8000/play/a02y
-#EXTINF:-1 tvg-id="" tvg-name="Discovery SR" tvg-logo="https://www.jagledam.com/logo/logodiscovery.jpg" group-title="Dokumentarni" tvg-shift="+1",Discovery SR
+#EXTINF:-1 tvg-name="Discovery SR" tvg-logo="https://www.jagledam.com/logo/logodiscovery.jpg" group-title="Dokumentarni" tvg-shift="+1",Discovery SR
 http://46.240.143.86/Discovery/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="DocuBox" tvg-logo="https://www.jagledam.com/logo/logodocubox.jpg" group-title="Dokumentarni" tvg-shift="+1",DocuBox
+#EXTINF:-1 tvg-name="DocuBox" tvg-logo="https://www.jagledam.com/logo/logodocubox.jpg" group-title="Dokumentarni" tvg-shift="+1",DocuBox
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/65793
-#EXTINF:-1 tvg-id="" tvg-name="edu tv" tvg-logo="https://www.jagledam.com/logo/logoedutv.jpg" group-title="Dokumentarni" tvg-shift="+1",edu tv
+#EXTINF:-1 tvg-name="edu tv" tvg-logo="https://www.jagledam.com/logo/logoedutv.jpg" group-title="Dokumentarni" tvg-shift="+1",edu tv
 https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://www.jagledam.com/logo/logohistory.jpg" group-title="Dokumentarni" tvg-shift="+1",History
+#EXTINF:-1 tvg-name="History" tvg-logo="https://www.jagledam.com/logo/logohistory.jpg" group-title="Dokumentarni" tvg-shift="+1",History
 http://185.65.107.1:4445/HistoryChannel/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="ID Xtra" tvg-logo="https://www.jagledam.com/logo/logoidx.jpg" group-title="Dokumentarni" tvg-shift="+1",ID Xtra
+#EXTINF:-1 tvg-name="ID Xtra" tvg-logo="https://www.jagledam.com/logo/logoidx.jpg" group-title="Dokumentarni" tvg-shift="+1",ID Xtra
 http://185.6.22.6:8000/play/a033
-#EXTINF:-1 tvg-id="" tvg-name="Lorist TV" tvg-logo="https://www.jagledam.com/logo/lorist.jpg" group-title="Dokumentarni" tvg-shift="+1",Lorist TV
+#EXTINF:-1 tvg-name="Lorist TV" tvg-logo="https://www.jagledam.com/logo/lorist.jpg" group-title="Dokumentarni" tvg-shift="+1",Lorist TV
 http://loristtv.com:8080/LoristTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MDC" tvg-logo="https://www.jagledam.com/logo/logomdc.jpg" group-title="Dokumentarni" tvg-shift="+1",MDC
+#EXTINF:-1 tvg-name="MDC" tvg-logo="https://www.jagledam.com/logo/logomdc.jpg" group-title="Dokumentarni" tvg-shift="+1",MDC
 https://giganet.mk/hls/macdoc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HR" tvg-logo="https://www.jagledam.com/logo/logonatgeo.jpg" group-title="Dokumentarni" tvg-shift="+1",Nat Geo HR
+#EXTINF:-1 tvg-name="Nat Geo HR" tvg-logo="https://www.jagledam.com/logo/logonatgeo.jpg" group-title="Dokumentarni" tvg-shift="+1",Nat Geo HR
 http://46.240.143.86/NGC/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Pi Canal" tvg-logo="https://www.jagledam.com/logo/logopicanal.jpg" group-title="Dokumentarni" tvg-shift="+1",Pi Canal
+#EXTINF:-1 tvg-name="Pi Canal" tvg-logo="https://www.jagledam.com/logo/logopicanal.jpg" group-title="Dokumentarni" tvg-shift="+1",Pi Canal
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pink Pedia" tvg-logo="https://www.jagledam.com/logo/logopinkpedia.jpg" group-title="Dokumentarni" tvg-shift="+1",Pink Pedia
+#EXTINF:-1 tvg-name="Pink Pedia" tvg-logo="https://www.jagledam.com/logo/logopinkpedia.jpg" group-title="Dokumentarni" tvg-shift="+1",Pink Pedia
 http://tvip.world:80/PINKKANALI/QqewTB5Smr/1810
-#EXTINF:-1 tvg-id="" tvg-name="Poljoprivredna TV" tvg-logo="https://www.jagledam.com/logo/logopoljoprivrednatv.jpg" group-title="Dokumentarni" tvg-shift="+1",Poljoprivredna TV
+#EXTINF:-1 tvg-name="Poljoprivredna TV" tvg-logo="https://www.jagledam.com/logo/logopoljoprivrednatv.jpg" group-title="Dokumentarni" tvg-shift="+1",Poljoprivredna TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/60192
-#EXTINF:-1 tvg-id="" tvg-name="Prva Files" tvg-logo="https://www.jagledam.com/logo/logoprvafiles.jpg" group-title="Dokumentarni" tvg-shift="+1",Prva Files
+#EXTINF:-1 tvg-name="Prva Files" tvg-logo="https://www.jagledam.com/logo/logoprvafiles.jpg" group-title="Dokumentarni" tvg-shift="+1",Prva Files
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/172
-#EXTINF:-1 tvg-id="" tvg-name="RTS Nauka" tvg-logo="https://www.jagledam.com/logo/logortsnauka.jpg" group-title="Dokumentarni" tvg-shift="+1",RTS Nauka
+#EXTINF:-1 tvg-name="RTS Nauka" tvg-logo="https://www.jagledam.com/logo/logortsnauka.jpg" group-title="Dokumentarni" tvg-shift="+1",RTS Nauka
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298011
-#EXTINF:-1 tvg-id="" tvg-name="RTS Trezor" tvg-logo="https://www.jagledam.com/logo/logortstrezor.jpg" group-title="Dokumentarni" tvg-shift="+1",RTS Trezor
+#EXTINF:-1 tvg-name="RTS Trezor" tvg-logo="https://www.jagledam.com/logo/logortstrezor.jpg" group-title="Dokumentarni" tvg-shift="+1",RTS Trezor
 http://46.240.130.158/RTSTrezor/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="SNTV" tvg-logo="https://www.jagledam.com/logo/logosnt.jpg" group-title="Dokumentarni" tvg-shift="+1",SNTV
+#EXTINF:-1 tvg-name="SNTV" tvg-logo="https://www.jagledam.com/logo/logosnt.jpg" group-title="Dokumentarni" tvg-shift="+1",SNTV
 http://93.87.85.10/PLTV/88888888/224/3221226891/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="https://www.jagledam.com/logo/logotravel.jpg" group-title="Dokumentarni" tvg-shift="+1",Travel Channel
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="https://www.jagledam.com/logo/logotravel.jpg" group-title="Dokumentarni" tvg-shift="+1",Travel Channel
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/84439
-#EXTINF:-1 tvg-id="" tvg-name="TV Student" tvg-logo="https://www.jagledam.com/logo/logostudent.jpg" group-title="Dokumentarni" tvg-shift="+1",TV Student
+#EXTINF:-1 tvg-name="TV Student" tvg-logo="https://www.jagledam.com/logo/logostudent.jpg" group-title="Dokumentarni" tvg-shift="+1",TV Student
 https://meduza.carnet.hr/index.php/media/embed/14140
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore" tvg-logo="https://www.jagledam.com/logo/logoviasatexplore.jpg" group-title="Dokumentarni" tvg-shift="+1",Viasat Explore
+#EXTINF:-1 tvg-name="Viasat Explore" tvg-logo="https://www.jagledam.com/logo/logoviasatexplore.jpg" group-title="Dokumentarni" tvg-shift="+1",Viasat Explore
 http://185.6.22.6:8000/play/a03c
-#EXTINF:-1 tvg-id="" tvg-name="Viasat History" tvg-logo="https://www.jagledam.com/logo/logoviasathistory.jpg" group-title="Dokumentarni" tvg-shift="+1",Viasat History
+#EXTINF:-1 tvg-name="Viasat History" tvg-logo="https://www.jagledam.com/logo/logoviasathistory.jpg" group-title="Dokumentarni" tvg-shift="+1",Viasat History
 http://195.222.53.136:8080/Viasat-History/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature" tvg-logo="https://www.jagledam.com/logo/logoviasatnature.jpg" group-title="Dokumentarni" tvg-shift="+1",Viasat Nature
+#EXTINF:-1 tvg-name="Viasat Nature" tvg-logo="https://www.jagledam.com/logo/logoviasatnature.jpg" group-title="Dokumentarni" tvg-shift="+1",Viasat Nature
 http://195.222.53.136:8080/Viasatnature/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zdravlje TV" tvg-logo="https://www.jagledam.com/logo/logozdravljetv.jpg" group-title="Dokumentarni" tvg-shift="+1",Zdravlje TV
+#EXTINF:-1 tvg-name="Zdravlje TV" tvg-logo="https://www.jagledam.com/logo/logozdravljetv.jpg" group-title="Dokumentarni" tvg-shift="+1",Zdravlje TV
 http://93.87.85.10/PLTV/88888888/224/3221226989/index.m3u8?accountinfo=I4hb%2B1QqR5yMZqPAe1b0Hr4pEQwVtxY%2FuC5XlCvYDSwbJJw57uyY9Rc5IDv04sM21T63uN8L3ns9LC%2BB6pLo6LFWP41RNjrMpQh8rVmF9E%2FlavedZ%2BIwRBzZAXM5FTMZMtXeZ69ykjOW2YMp%2BqVb6UWsLTPYLUR9nMAKKil8YA8%3D%3A20180630165831%3AUT%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-id="" tvg-name="1TV" tvg-logo="https://www.jagledam.com/logo/logo1tv.jpg" group-title="Zabavni" tvg-shift="+1",1TV
+#EXTINF:-1 tvg-name="1TV" tvg-logo="https://www.jagledam.com/logo/logo1tv.jpg" group-title="Zabavni" tvg-shift="+1",1TV
 http://vod-c55.interspace.com/channel_abr/152327157439/playlist.m3u8?wmsAuthSign=*
 #EXTINF:-1 tvg-id="24Kitchen.hr" tvg-name="24 Kitchen" tvg-logo="https://www.jagledam.com/logo/logo24kitchen.jpg" group-title="Zabavni" tvg-shift="+1",24 Kitchen
 http://212.200.164.212:8080/24_Kitchen/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Altea" tvg-logo="https://www.jagledam.com/logo/logoaltea.jpg" group-title="Zabavni" tvg-shift="+1",Altea
+#EXTINF:-1 tvg-name="Altea" tvg-logo="https://www.jagledam.com/logo/logoaltea.jpg" group-title="Zabavni" tvg-shift="+1",Altea
 https://tvaltea.ovh/live/stream.m3u8
 #EXTINF:-1 tvg-id="AstroTV.de" tvg-name="Astro" tvg-logo="https://www.jagledam.com/logo/logoastro24h.jpg" group-title="Zabavni" tvg-shift="+1",Astro
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298138
@@ -742,7 +742,7 @@ http://195.222.53.136:8080/CBS/index.m3u8
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/1118
 #EXTINF:-1 tvg-id="FashionBox.cz" tvg-name="FashionBox" tvg-logo="https://www.jagledam.com/logo/logofashionbox.jpg" group-title="Zabavni" tvg-shift="+1",FashionBox
 https://5bc45691ca49f.streamlock.net/fashionbox/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fine Living" tvg-logo="https://www.jagledam.com/logo/logofineliving.jpg" group-title="Zabavni" tvg-shift="+1",Fine Living
+#EXTINF:-1 tvg-name="Fine Living" tvg-logo="https://www.jagledam.com/logo/logofineliving.jpg" group-title="Zabavni" tvg-shift="+1",Fine Living
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/46700
 #EXTINF:-1 tvg-id="FoodNetwork.hr" tvg-name="Food Network" tvg-logo="https://www.jagledam.com/logo/logofoodnetwork.jpg" group-title="Zabavni" tvg-shift="+1",Food Network
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/65862
@@ -758,7 +758,7 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/36892.m3u8
 https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OKKanal.ba" tvg-name="OKK" tvg-logo="https://www.jagledam.com/logo/logookk.jpg" group-title="Zabavni" tvg-shift="+1",OKK
 https://muzzik-live.morescreens.com/mts-2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Parovi Reality Show" tvg-logo="https://www.jagledam.com/logo/logoparovi_jagledam.jpg" group-title="Zabavni" tvg-shift="+1",Parovi Reality Show
+#EXTINF:-1 tvg-name="Parovi Reality Show" tvg-logo="https://www.jagledam.com/logo/logoparovi_jagledam.jpg" group-title="Zabavni" tvg-shift="+1",Parovi Reality Show
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/13448
 #EXTINF:-1 tvg-id="PinkExtra(Serbian).at" tvg-name="Pink Extra" tvg-logo="https://www.jagledam.com/logo/pinkextra.jpg" group-title="Zabavni" tvg-shift="+1",Pink Extra
 http://93.87.44.242:1112/play/a02y
@@ -768,11 +768,11 @@ http://93.87.44.242:1113/play/a0i5
 http://93.87.44.242:1112/play/a03n
 #EXTINF:-1 tvg-id="PinkKuvar.rs" tvg-name="Pink Kuvar" tvg-logo="https://www.jagledam.com/logo/logopinkkuvar.jpg" group-title="Zabavni" tvg-shift="+1",Pink Kuvar
 http://93.87.44.242:1112/play/a03l
-#EXTINF:-1 tvg-id="" tvg-name="Pink LOL" tvg-logo="https://www.jagledam.com/logo/logopinklol.jpg" group-title="Zabavni" tvg-shift="+1",Pink LOL
+#EXTINF:-1 tvg-name="Pink LOL" tvg-logo="https://www.jagledam.com/logo/logopinklol.jpg" group-title="Zabavni" tvg-shift="+1",Pink LOL
 http://93.87.44.242:1112/play/a03o
 #EXTINF:-1 tvg-id="PinkReality.rs" tvg-name="Pink Reality" tvg-logo="https://www.jagledam.com/logo/logopinkreality.jpg" group-title="Zabavni" tvg-shift="+1",Pink Reality
 http://93.87.44.242:1113/play/a02j
-#EXTINF:-1 tvg-id="" tvg-name="Pink Romance" tvg-logo="https://www.jagledam.com/logo/logopinkromance.jpg" group-title="Zabavni" tvg-shift="+1",Pink Romance
+#EXTINF:-1 tvg-name="Pink Romance" tvg-logo="https://www.jagledam.com/logo/logopinkromance.jpg" group-title="Zabavni" tvg-shift="+1",Pink Romance
 http://93.87.44.242:1113/play/a02h
 #EXTINF:-1 tvg-id="PinkSerije.rs" tvg-name="Pink Serije" tvg-logo="https://www.jagledam.com/logo/logopinkserije.jpg" group-title="Zabavni" tvg-shift="+1",Pink Serije
 http://93.87.44.242:1112/play/a03i
@@ -784,7 +784,7 @@ http://46.240.130.158/PinkSoap/index.m3u8?token=test
 http://46.240.130.158/PinkStyle/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PinkZabava.si" tvg-name="Pink Zabava" tvg-logo="https://www.jagledam.com/logo/logopinkzabava.jpg" group-title="Zabavni" tvg-shift="+1",Pink Zabava
 http://93.87.44.242:1113/play/a02nvbn
-#EXTINF:-1 tvg-id="" tvg-name="PinkFamily" tvg-logo="https://www.jagledam.com/logo/logopinkfamily.jpg" group-title="Zabavni" tvg-shift="+1",PinkFamily
+#EXTINF:-1 tvg-name="PinkFamily" tvg-logo="https://www.jagledam.com/logo/logopinkfamily.jpg" group-title="Zabavni" tvg-shift="+1",PinkFamily
 http://93.87.44.242:1112/play/a038
 #EXTINF:-1 tvg-id="PrvaKick.rs" tvg-name="Prva Kick" tvg-logo="https://www.jagledam.com/logo/logoprvakick.jpg" group-title="Zabavni" tvg-shift="+1",Prva Kick
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/194
@@ -792,9 +792,9 @@ http://freetesttv.homeip.net:24621/sabaheta/sabaheta/194
 http://46.240.130.158/PrvaLife/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PrvaMAX.rs" tvg-name="Prva MAX" tvg-logo="https://www.jagledam.com/logo/logoprvamax.jpg" group-title="Zabavni" tvg-shift="+1",Prva MAX
 http://46.240.130.158/PrvaMAX/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="https://www.jagledam.com/logo/logortk4.jpg" group-title="Zabavni" tvg-shift="+1",RTK 4
+#EXTINF:-1 tvg-name="RTK 4" tvg-logo="https://www.jagledam.com/logo/logortk4.jpg" group-title="Zabavni" tvg-shift="+1",RTK 4
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL Adria" tvg-logo="https://www.jagledam.com/logo/logortladria.jpg" group-title="Zabavni" tvg-shift="+1",RTL Adria
+#EXTINF:-1 tvg-name="RTL Adria" tvg-logo="https://www.jagledam.com/logo/logortladria.jpg" group-title="Zabavni" tvg-shift="+1",RTL Adria
 https://d2vu211n51feu6.cloudfront.net/rtl-adria/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLLiving.hr" tvg-name="RTL Living" tvg-logo="https://www.jagledam.com/logo/logortlliving.jpg" group-title="Zabavni" tvg-shift="+1",RTL Living
 https://dunfmbmkf5wpd.cloudfront.net/rtl-living/playlist.m3u8
@@ -802,17 +802,17 @@ https://dunfmbmkf5wpd.cloudfront.net/rtl-living/playlist.m3u8
 https://d2qz0cwq7kw2wp.cloudfront.net/rtl-passion/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTS Zivot" tvg-logo="https://www.jagledam.com/logo/logortszivot.jpg" group-title="Zabavni" tvg-shift="+1",RTS Zivot
 http://46.240.130.158/RTSZivot/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Telegraf now" tvg-logo="https://www.jagledam.com/logo/logotelegrafnow.jpg" group-title="Zabavni" tvg-shift="+1",Telegraf now
+#EXTINF:-1 tvg-name="Telegraf now" tvg-logo="https://www.jagledam.com/logo/logotelegrafnow.jpg" group-title="Zabavni" tvg-shift="+1",Telegraf now
 http://v.tf.rs/liveedge/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.hr" tvg-name="TLC" tvg-logo="https://www.jagledam.com/logo/logotlc.jpg" group-title="Zabavni" tvg-shift="+1",TLC
 http://212.200.164.212:8080/TLC/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga Reality 1" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" group-title="Zabavni" tvg-shift="+1",Zadruga Reality 1
+#EXTINF:-1 tvg-name="Zadruga Reality 1" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" group-title="Zabavni" tvg-shift="+1",Zadruga Reality 1
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3410
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga Reality 2" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" group-title="Zabavni" tvg-shift="+1",Zadruga Reality 2
+#EXTINF:-1 tvg-name="Zadruga Reality 2" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" group-title="Zabavni" tvg-shift="+1",Zadruga Reality 2
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3411
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga Reality 3" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" group-title="Zabavni" tvg-shift="+1",Zadruga Reality 3
+#EXTINF:-1 tvg-name="Zadruga Reality 3" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" group-title="Zabavni" tvg-shift="+1",Zadruga Reality 3
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3412
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga Reality 4" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" group-title="Zabavni" tvg-shift="+1",Zadruga Reality 4
+#EXTINF:-1 tvg-name="Zadruga Reality 4" tvg-logo="https://www.jagledam.com/logo/logozadruga.jpg" group-title="Zabavni" tvg-shift="+1",Zadruga Reality 4
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/80321
 #EXTINF:-1 tvg-id="AMC.hr" tvg-name="AMC" tvg-logo="https://www.jagledam.com/logo/logoamc.jpg" group-title="Filmski" tvg-shift="+1",AMC
 http://46.240.130.158/AMC/index.m3u8?token=test
@@ -826,15 +826,15 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/59873.m3u8
 http://46.240.130.158/Cinemax/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Cinemax2.bg" tvg-name="Cinemax 2" tvg-logo="https://www.jagledam.com/logo/logocinemax2.jpg" group-title="Filmski" tvg-shift="+1",Cinemax 2
 http://46.240.130.158/Cinemax2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="CineStar TV Action" tvg-logo="https://www.jagledam.com/logo/logocinestaraction.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV Action
+#EXTINF:-1 tvg-name="CineStar TV Action" tvg-logo="https://www.jagledam.com/logo/logocinestaraction.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV Action
 http://185.6.22.6:8000/play/a039
-#EXTINF:-1 tvg-id="" tvg-name="CineStar TV Comedy" tvg-logo="https://www.jagledam.com/logo/logocinestar.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV Comedy
+#EXTINF:-1 tvg-name="CineStar TV Comedy" tvg-logo="https://www.jagledam.com/logo/logocinestar.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV Comedy
 http://46.240.130.158/CinestarComedy/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="CineStar TV Fantasy" tvg-logo="https://www.jagledam.com/logo/logocinestarfantasy.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV Fantasy
+#EXTINF:-1 tvg-name="CineStar TV Fantasy" tvg-logo="https://www.jagledam.com/logo/logocinestarfantasy.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV Fantasy
 http://46.240.130.158/CinestarFantasy/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="CineStar TV Premiere 1" tvg-logo="https://www.jagledam.com/logo/logocinestarpremiere1.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV Premiere 1
+#EXTINF:-1 tvg-name="CineStar TV Premiere 1" tvg-logo="https://www.jagledam.com/logo/logocinestarpremiere1.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV Premiere 1
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/192244
-#EXTINF:-1 tvg-id="" tvg-name="CineStar TV Premiere 2" tvg-logo="https://www.jagledam.com/logo/logocinestarpremiere2.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV Premiere 2
+#EXTINF:-1 tvg-name="CineStar TV Premiere 2" tvg-logo="https://www.jagledam.com/logo/logocinestarpremiere2.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV Premiere 2
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/192637.m3u8
 #EXTINF:-1 tvg-id="CineStarTV1.sr" tvg-name="CineStar TV 1" tvg-logo="https://www.jagledam.com/logo/logocinestar.jpg" group-title="Filmski" tvg-shift="+1",CineStar TV 1
 http://185.65.107.1:4445/CinestarTV/index.m3u8?token=test
@@ -860,7 +860,7 @@ http://freetesttv.homeip.net:24621/sabaheta/sabaheta/65
 http://46.240.143.86/Fox/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="FoxMovies.hr" tvg-name="FOX Movies" tvg-logo="https://www.jagledam.com/logo/logofoxmovies.jpg" group-title="Filmski" tvg-shift="+1",FOX Movies
 http://212.200.164.212:8080/Fox_Movies/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="HBO Adria" tvg-logo="https://www.jagledam.com/logo/logohbo.jpg" group-title="Filmski" tvg-shift="+1",HBO Adria
+#EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://www.jagledam.com/logo/logohbo.jpg" group-title="Filmski" tvg-shift="+1",HBO Adria
 http://212.200.164.212:8080/HBO_1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HBO2.bg" tvg-name="HBO 2" tvg-logo="https://www.jagledam.com/logo/logohbo2.jpg" group-title="Filmski" tvg-shift="+1",HBO 2
 http://212.200.164.212:8080/HBO_2/index.m3u8?token=test
@@ -876,37 +876,37 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/151864
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3404
 #EXTINF:-1 tvg-id="M1FILM.hr" tvg-name="M1 Film" tvg-logo="https://www.jagledam.com/logo/logom1film.jpg" group-title="Filmski" tvg-shift="+1",M1 Film
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4173
-#EXTINF:-1 tvg-id="" tvg-name="M1 Gold" tvg-logo="https://www.jagledam.com/logo/logom1gold.jpg" group-title="Filmski" tvg-shift="+1",M1 Gold
+#EXTINF:-1 tvg-name="M1 Gold" tvg-logo="https://www.jagledam.com/logo/logom1gold.jpg" group-title="Filmski" tvg-shift="+1",M1 Gold
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/120690
 #EXTINF:-1 tvg-id="NovaCinema.cz" tvg-name="Nova Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9b67c6faa7afc845286864667c57c0bf.png" group-title="Filmski" tvg-shift="+1",Nova Cinema
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/295249
-#EXTINF:-1 tvg-id="" tvg-name="Nova Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f624abb42d0aa4bcb8686be1a24776b6.png" group-title="Filmski" tvg-shift="+1",Nova Family
+#EXTINF:-1 tvg-name="Nova Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f624abb42d0aa4bcb8686be1a24776b6.png" group-title="Filmski" tvg-shift="+1",Nova Family
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/285316
-#EXTINF:-1 tvg-id="" tvg-name="Nova Max" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/94b56329770ae7b39cd37099b9b2c57a.png" group-title="Filmski" tvg-shift="+1",Nova Max
+#EXTINF:-1 tvg-name="Nova Max" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/94b56329770ae7b39cd37099b9b2c57a.png" group-title="Filmski" tvg-shift="+1",Nova Max
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298439
-#EXTINF:-1 tvg-id="" tvg-name="Nova series" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Filmski" tvg-shift="+1",Nova series
+#EXTINF:-1 tvg-name="Nova series" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Filmski" tvg-shift="+1",Nova series
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/295248
-#EXTINF:-1 tvg-id="" tvg-name="Nova World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a2487222c7f192a9d184a4fb0187ac50.png" group-title="Filmski" tvg-shift="+1",Nova World
+#EXTINF:-1 tvg-name="Nova World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a2487222c7f192a9d184a4fb0187ac50.png" group-title="Filmski" tvg-shift="+1",Nova World
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/54277
-#EXTINF:-1 tvg-id="" tvg-name="Pink Action" tvg-logo="https://www.jagledam.com/logo/pinkaction.jpg" group-title="Filmski" tvg-shift="+1",Pink Action
+#EXTINF:-1 tvg-name="Pink Action" tvg-logo="https://www.jagledam.com/logo/pinkaction.jpg" group-title="Filmski" tvg-shift="+1",Pink Action
 http://46.240.130.158/PinkAction/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PinkClassic.rs" tvg-name="Pink Classic" tvg-logo="https://www.jagledam.com/logo/pinkclassic.jpg" group-title="Filmski" tvg-shift="+1",Pink Classic
 http://46.240.130.158/PinkClassic/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Pink Comedy" tvg-logo="https://www.jagledam.com/logo/logopinkcomedy.jpg" group-title="Filmski" tvg-shift="+1",Pink Comedy
+#EXTINF:-1 tvg-name="Pink Comedy" tvg-logo="https://www.jagledam.com/logo/logopinkcomedy.jpg" group-title="Filmski" tvg-shift="+1",Pink Comedy
 http://46.240.130.158/PinkComedy/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Pink Crime and Mystery" tvg-logo="https://www.jagledam.com/logo/logopinkcrimeandmystery.jpg" group-title="Filmski" tvg-shift="+1",Pink Crime and Mystery
+#EXTINF:-1 tvg-name="Pink Crime and Mystery" tvg-logo="https://www.jagledam.com/logo/logopinkcrimeandmystery.jpg" group-title="Filmski" tvg-shift="+1",Pink Crime and Mystery
 http://46.240.130.158/PinkCrimeMistery/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PinkFilm.si" tvg-name="Pink Film" tvg-logo="https://www.jagledam.com/logo/logopinkfilm.jpg" group-title="Filmski" tvg-shift="+1",Pink Film
 http://46.240.130.158/PinkFilm/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Pink Horror" tvg-logo="https://www.jagledam.com/logo/pinkhorror.jpg" group-title="Filmski" tvg-shift="+1",Pink Horror
+#EXTINF:-1 tvg-name="Pink Horror" tvg-logo="https://www.jagledam.com/logo/pinkhorror.jpg" group-title="Filmski" tvg-shift="+1",Pink Horror
 http://46.240.130.158/PinkHorror/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="Pink Movies" tvg-logo="https://www.jagledam.com/logo/logopinkmovies.jpg" group-title="Filmski" tvg-shift="+1",Pink Movies
 http://46.240.130.158/PinkMovies/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Pink premium" tvg-logo="https://www.jagledam.com/logo/logopinkpremium.jpg" group-title="Filmski" tvg-shift="+1",Pink premium
+#EXTINF:-1 tvg-name="Pink premium" tvg-logo="https://www.jagledam.com/logo/logopinkpremium.jpg" group-title="Filmski" tvg-shift="+1",Pink premium
 http://46.240.130.158/PinkPremium/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PinkSciFiandFantasy.rs" tvg-name="Pink SciFi and Fantasy" tvg-logo="https://www.jagledam.com/logo/logopinkscifiandfantasy.jpg" group-title="Filmski" tvg-shift="+1",Pink SciFi and Fantasy
 http://46.240.130.158/PinkSciFi/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Pink Thriller" tvg-logo="https://www.jagledam.com/logo/logopinkthriller.jpg" group-title="Filmski" tvg-shift="+1",Pink Thriller
+#EXTINF:-1 tvg-name="Pink Thriller" tvg-logo="https://www.jagledam.com/logo/logopinkthriller.jpg" group-title="Filmski" tvg-shift="+1",Pink Thriller
 http://195.222.53.136:8080/pink-triler/index.m3u8
 #EXTINF:-1 tvg-id="PinkWestern.rs" tvg-name="Pink Western" tvg-logo="https://www.jagledam.com/logo/logopinkwestern.jpg" group-title="Filmski" tvg-shift="+1",Pink Western
 http://195.222.53.136:8080/pink-western/index.m3u8
@@ -920,21 +920,21 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4199.m3u8
 https://tv.liveott.online/SUPERSTAR_2.m3u8
 #EXTINF:-1 tvg-id="Superstar2.rs" tvg-name="SUPERSTAR TV" tvg-logo="https://www.jagledam.com/logo/logostartv.jpg" group-title="Filmski" tvg-shift="+1",SUPERSTAR TV
 https://tv.liveott.online/SUPERSTAR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 1000" tvg-logo="https://www.jagledam.com/logo/logotv1000.jpg" group-title="Filmski" tvg-shift="+1",TV 1000
+#EXTINF:-1 tvg-name="TV 1000" tvg-logo="https://www.jagledam.com/logo/logotv1000.jpg" group-title="Filmski" tvg-shift="+1",TV 1000
 http://46.240.143.86/TV1000/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="360TuneBox.cz" tvg-name="360 Tune Box" tvg-logo="https://www.jagledam.com/logo/logo360tunebox.jpg" group-title="Muzički" tvg-shift="+1",360 Tune Box
 https://5bc45691ca49f.streamlock.net/360tune/playlist.m3u8
 #EXTINF:-1 tvg-id="ADRIATV.rs" tvg-name="Adria Music TV" tvg-logo="https://www.jagledam.com/logo/logoadriamusictv.jpg" group-title="Muzički" tvg-shift="+1",Adria Music TV
 https://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alb Swiss TV" tvg-logo="https://www.jagledam.com/logo/logoalbswiss.jpg" group-title="Muzički" tvg-shift="+1",Alb Swiss TV
+#EXTINF:-1 tvg-name="Alb Swiss TV" tvg-logo="https://www.jagledam.com/logo/logoalbswiss.jpg" group-title="Muzički" tvg-shift="+1",Alb Swiss TV
 http://178.132.6.97:8080/RtvIliriaGjeneve/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMOL TV" tvg-logo="https://www.jagledam.com/logo/logoamoltv.jpg" group-title="Muzički" tvg-shift="+1",AMOL TV
+#EXTINF:-1 tvg-name="AMOL TV" tvg-logo="https://www.jagledam.com/logo/logoamoltv.jpg" group-title="Muzički" tvg-shift="+1",AMOL TV
 
-#EXTINF:-1 tvg-id="" tvg-name="Balkan TV Salzburg" tvg-logo="https://www.jagledam.com/logo/logobalkantvsalzburg.jpg" group-title="Muzički" tvg-shift="+1",Balkan TV Salzburg
+#EXTINF:-1 tvg-name="Balkan TV Salzburg" tvg-logo="https://www.jagledam.com/logo/logobalkantvsalzburg.jpg" group-title="Muzički" tvg-shift="+1",Balkan TV Salzburg
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Balkanika.bg" tvg-name="Balkanika" tvg-logo="https://www.jagledam.com/logo/logobalkanika.jpg" group-title="Muzički" tvg-shift="+1",Balkanika
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BanovinaTV" tvg-logo="https://www.jagledam.com/logo/logobanovina.jpg" group-title="Muzički" tvg-shift="+1",BanovinaTV
+#EXTINF:-1 tvg-name="BanovinaTV" tvg-logo="https://www.jagledam.com/logo/logobanovina.jpg" group-title="Muzički" tvg-shift="+1",BanovinaTV
 https://5b57bb229a2e6.streamlock.net/live/banovina/playlist.m3u8
 #EXTINF:-1 tvg-id="BNMusic.ba" tvg-name="BN Music" tvg-logo="https://www.jagledam.com/logo/logobnmusic.jpg" group-title="Muzički" tvg-shift="+1",BN Music
 http://195.222.53.136:8080/bnmusic/index.m3u8
@@ -946,23 +946,23 @@ http://93.87.44.242:1112/play/a03d
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 tvg-id="CMC.hr" tvg-name="CMC" tvg-logo="https://www.jagledam.com/logo/logocmc.jpg" group-title="Muzički" tvg-shift="+1",CMC
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CRO TV" tvg-logo="https://www.jagledam.com/logo/logocrotv.jpg" group-title="Muzički" tvg-shift="+1",CRO TV
+#EXTINF:-1 tvg-name="CRO TV" tvg-logo="https://www.jagledam.com/logo/logocrotv.jpg" group-title="Muzički" tvg-shift="+1",CRO TV
 http://92.204.40.139:8081/crotv/televizijahrvatskedijaspore/playlist.m3u8
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeeJay TV HR" tvg-logo="https://www.jagledam.com/logo/logodjtv.jpg" group-title="Muzički" tvg-shift="+1",DeeJay TV HR
 https://srv1.adriatelekom.com/DJTelevision/mono.m3u8
 #EXTINF:-1 tvg-id="DMSAT.rs" tvg-name="DM SAT" tvg-logo="https://www.jagledam.com/logo/logodmsat.jpg" group-title="Muzički" tvg-shift="+1",DM SAT
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4148
-#EXTINF:-1 tvg-id="" tvg-name="DSTV" tvg-logo="https://www.jagledam.com/logo/logodstv.jpg" group-title="Muzički" tvg-shift="+1",DSTV
+#EXTINF:-1 tvg-name="DSTV" tvg-logo="https://www.jagledam.com/logo/logodstv.jpg" group-title="Muzički" tvg-shift="+1",DSTV
 http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk Club TV" tvg-logo="https://www.jagledam.com/logo/logofolkclubtv.jpg" group-title="Muzički" tvg-shift="+1",Folk Club TV
+#EXTINF:-1 tvg-name="Folk Club TV" tvg-logo="https://www.jagledam.com/logo/logofolkclubtv.jpg" group-title="Muzički" tvg-shift="+1",Folk Club TV
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk TV Macedonia" tvg-logo="https://www.jagledam.com/logo/logofolktvMacedonia.jpg" group-title="Muzički" tvg-shift="+1",Folk TV Macedonia
+#EXTINF:-1 tvg-name="Folk TV Macedonia" tvg-logo="https://www.jagledam.com/logo/logofolktvMacedonia.jpg" group-title="Muzički" tvg-shift="+1",Folk TV Macedonia
 http://137.74.114.60:8080/hls/folkmk2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folx Music TV" tvg-logo="https://folxplay.tv/logos/mt_neg_b.png" group-title="Muzički" tvg-shift="+1",Folx Music TV
+#EXTINF:-1 tvg-name="Folx Music TV" tvg-logo="https://folxplay.tv/logos/mt_neg_b.png" group-title="Muzički" tvg-shift="+1",Folx Music TV
 https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folx Slo" tvg-logo="https://www.jagledam.com/logo/logofolx.jpg" group-title="Muzički" tvg-shift="+1",Folx Slo
+#EXTINF:-1 tvg-name="Folx Slo" tvg-logo="https://www.jagledam.com/logo/logofolx.jpg" group-title="Muzički" tvg-shift="+1",Folx Slo
 https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Frederator Networks" tvg-logo="https://frederator.com/app/uploads/2018/05/networks-logo-fredhead.png" group-title="Muzički" tvg-shift="+1",Frederator Networks
+#EXTINF:-1 tvg-name="Frederator Networks" tvg-logo="https://frederator.com/app/uploads/2018/05/networks-logo-fredhead.png" group-title="Muzički" tvg-shift="+1",Frederator Networks
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/46329e01-6c6a-417f-88e5-b2f0600bdbe6/2.m3u8
 #EXTINF:-1 tvg-id="GrandTV.hr" tvg-name="Grand" tvg-logo="https://www.jagledam.com/logo/logogrand.jpg" group-title="Muzički" tvg-shift="+1",Grand
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4158.m3u8
@@ -970,27 +970,27 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/4158.m3u8
 http://195.222.53.136:8080/hayat-folk/index.m3u8
 #EXTINF:-1 tvg-id="HayatMusic.ba" tvg-name="Hayat Music" tvg-logo="https://www.jagledam.com/logo/logohayatmusic.jpg" group-title="Muzički" tvg-shift="+1",Hayat Music
 http://195.222.53.136:8080/hayat-music/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HD Plus" tvg-logo="https://www.jagledam.com/logo/logohdplus.jpg" group-title="Muzički" tvg-shift="+1",HD Plus
+#EXTINF:-1 tvg-name="HD Plus" tvg-logo="https://www.jagledam.com/logo/logohdplus.jpg" group-title="Muzički" tvg-shift="+1",HD Plus
 http://178.132.6.97:8080/PLUSHDTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hi Fi" tvg-logo="https://www.jagledam.com/logo/logohifi.jpg" group-title="Muzički" tvg-shift="+1",Hi Fi
+#EXTINF:-1 tvg-name="Hi Fi" tvg-logo="https://www.jagledam.com/logo/logohifi.jpg" group-title="Muzički" tvg-shift="+1",Hi Fi
 http://93.87.85.10/PLTV/88888888/224/3221226762/index.m3u8
 #EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJ TV" tvg-logo="https://www.jagledam.com/logo/logoidjtv.jpg" group-title="Muzički" tvg-shift="+1",IDJ TV
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ImperiaTV" tvg-logo="" group-title="Muzički" tvg-shift="+1",ImperiaTV
+#EXTINF:-1 tvg-name="ImperiaTV" tvg-logo="" group-title="Muzički" tvg-shift="+1",ImperiaTV
 
-#EXTINF:-1 tvg-id="" tvg-name="IN TV Australia" tvg-logo="https://www.jagledam.com/logo/logointvaustralia.jpg" group-title="Muzički" tvg-shift="+1",IN TV Australia
+#EXTINF:-1 tvg-name="IN TV Australia" tvg-logo="https://www.jagledam.com/logo/logointvaustralia.jpg" group-title="Muzički" tvg-shift="+1",IN TV Australia
 http://tv1.intv.mk:1935/live/intv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Izvorna TV" tvg-logo="https://www.jagledam.com/logo/logoizvornatv.jpg" group-title="Muzički" tvg-shift="+1",Izvorna TV
+#EXTINF:-1 tvg-name="Izvorna TV" tvg-logo="https://www.jagledam.com/logo/logoizvornatv.jpg" group-title="Muzički" tvg-shift="+1",Izvorna TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/20224
 #EXTINF:-1 tvg-id="Jugoton.hr" tvg-name="Jugoton" tvg-logo="https://www.jagledam.com/logo/logojugoton.jpg" group-title="Muzički" tvg-shift="+1",Jugoton
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/20223
-#EXTINF:-1 tvg-id="" tvg-name="Karolina" tvg-logo="https://www.jagledam.com/logo/logokarolina.jpg" group-title="Muzički" tvg-shift="+1",Karolina
+#EXTINF:-1 tvg-name="Karolina" tvg-logo="https://www.jagledam.com/logo/logokarolina.jpg" group-title="Muzički" tvg-shift="+1",Karolina
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Klape i tambure" tvg-logo="https://www.jagledam.com/logo/logoklapeitambure.jpg" group-title="Muzički" tvg-shift="+1",Klape i tambure
+#EXTINF:-1 tvg-name="Klape i tambure" tvg-logo="https://www.jagledam.com/logo/logoklapeitambure.jpg" group-title="Muzički" tvg-shift="+1",Klape i tambure
 https://stream.cmctv.49998/kit/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Makedonska TV" tvg-logo="https://www.jagledam.com/logo/logomakedonskatv.jpg" group-title="Muzički" tvg-shift="+1",Makedonska TV
+#EXTINF:-1 tvg-name="Makedonska TV" tvg-logo="https://www.jagledam.com/logo/logomakedonskatv.jpg" group-title="Muzički" tvg-shift="+1",Makedonska TV
 http://137.74.114.60:8080/hls/makedonska.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Melos" tvg-logo="https://www.jagledam.com/logo/logomelos.jpg" group-title="Muzički" tvg-shift="+1",Melos
+#EXTINF:-1 tvg-name="Melos" tvg-logo="https://www.jagledam.com/logo/logomelos.jpg" group-title="Muzički" tvg-shift="+1",Melos
 https://5bc45691ca49f.streamlock.net/melos/video.m3u8
 #EXTINF:-1 tvg-id="MTV00sEurope(English).de" tvg-name="MTV 00s (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Muzički" tvg-shift="+1",MTV 00s (576p)
 http://195.24.89.82/VH1_SD/index.m3u8
@@ -1000,390 +1000,390 @@ https://hls.ustream.to/MTV-Adria.m3u8
 http://195.24.89.82/MTV_SD/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV Vietnam (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Muzički" tvg-shift="+1",MTV Vietnam (576p)
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik" tvg-logo="https://www.jagledam.com/logo/logomuzzik.jpg" group-title="Muzički" tvg-shift="+1",Muzzik
+#EXTINF:-1 tvg-name="Muzzik" tvg-logo="https://www.jagledam.com/logo/logomuzzik.jpg" group-title="Muzički" tvg-shift="+1",Muzzik
 https://muzzik-live.morescreens.com/mts-6/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Flashback" tvg-logo="https://www.jagledam.com/logo/logomuzzikflashback.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Flashback
+#EXTINF:-1 tvg-name="Muzzik Flashback" tvg-logo="https://www.jagledam.com/logo/logomuzzikflashback.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Flashback
 https://muzzik-live.morescreens.com/mts-8/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Glazzba" tvg-logo="https://www.jagledam.com/logo/logomuzzikglazzba.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Glazzba
+#EXTINF:-1 tvg-name="Muzzik Glazzba" tvg-logo="https://www.jagledam.com/logo/logomuzzikglazzba.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Glazzba
 https://muzzik-live.morescreens.com/mts-a7/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik JEKA" tvg-logo="https://www.jagledam.com/logo/logomuzzikjeka.jpg" group-title="Muzički" tvg-shift="+1",Muzzik JEKA
+#EXTINF:-1 tvg-name="Muzzik JEKA" tvg-logo="https://www.jagledam.com/logo/logomuzzikjeka.jpg" group-title="Muzički" tvg-shift="+1",Muzzik JEKA
 https://muzzik-live.morescreens.com/mts-4/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Popstar" tvg-logo="https://www.jagledam.com/logo/logomuzzikpopstar.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Popstar
+#EXTINF:-1 tvg-name="Muzzik Popstar" tvg-logo="https://www.jagledam.com/logo/logomuzzikpopstar.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Popstar
 https://muzzik-live.morescreens.com/mts-3/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Riviera" tvg-logo="https://www.jagledam.com/logo/logoriviera.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Riviera
+#EXTINF:-1 tvg-name="Muzzik Riviera" tvg-logo="https://www.jagledam.com/logo/logoriviera.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Riviera
 https://muzzik-live.morescreens.com/mts-a5/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Rock and Roll" tvg-logo="https://www.jagledam.com/logo/logomuzzikrr.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Rock and Roll
+#EXTINF:-1 tvg-name="Muzzik Rock and Roll" tvg-logo="https://www.jagledam.com/logo/logomuzzikrr.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Rock and Roll
 https://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Sense" tvg-logo="https://www.jagledam.com/logo/logomuzziksense.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Sense
+#EXTINF:-1 tvg-name="Muzzik Sense" tvg-logo="https://www.jagledam.com/logo/logomuzziksense.jpg" group-title="Muzički" tvg-shift="+1",Muzzik Sense
 https://muzzik-live.morescreens.com/mts-7/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik World Wide" tvg-logo="https://www.jagledam.com/logo/logomuzzikwwm.jpg" group-title="Muzički" tvg-shift="+1",Muzzik World Wide
+#EXTINF:-1 tvg-name="Muzzik World Wide" tvg-logo="https://www.jagledam.com/logo/logomuzzikwwm.jpg" group-title="Muzički" tvg-shift="+1",Muzzik World Wide
 https://muzzik-live.morescreens.com/mts-5/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik ZZ TV" tvg-logo="https://www.jagledam.com/logo/logomuzzikzztv.jpg" group-title="Muzički" tvg-shift="+1",Muzzik ZZ TV
+#EXTINF:-1 tvg-name="Muzzik ZZ TV" tvg-logo="https://www.jagledam.com/logo/logomuzzikzztv.jpg" group-title="Muzički" tvg-shift="+1",Muzzik ZZ TV
 https://muzzik-live.morescreens.com/mts-a4/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nisville" tvg-logo="https://www.jagledam.com/logo/logonisville.jpg" group-title="Muzički" tvg-shift="+1",Nisville
+#EXTINF:-1 tvg-name="Nisville" tvg-logo="https://www.jagledam.com/logo/logonisville.jpg" group-title="Muzički" tvg-shift="+1",Nisville
 http://tvserver.nisville.com:1935/live/nisville/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="One Adria" tvg-logo="https://www.jagledam.com/logo/logoone1adria.jpg" group-title="Muzički" tvg-shift="+1",One Adria
+#EXTINF:-1 tvg-name="One Adria" tvg-logo="https://www.jagledam.com/logo/logoone1adria.jpg" group-title="Muzički" tvg-shift="+1",One Adria
 https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="One Music TV" tvg-logo="https://folxplay.tv/logos/one_mt_neg_b.png" group-title="Muzički" tvg-shift="+1",One Music TV
+#EXTINF:-1 tvg-name="One Music TV" tvg-logo="https://folxplay.tv/logos/one_mt_neg_b.png" group-title="Muzički" tvg-shift="+1",One Music TV
 https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Opoja" tvg-logo="https://www.jagledam.com/logo/logoopoja.jpg" group-title="Muzički" tvg-shift="+1",Opoja
+#EXTINF:-1 tvg-name="Opoja" tvg-logo="https://www.jagledam.com/logo/logoopoja.jpg" group-title="Muzički" tvg-shift="+1",Opoja
 https://5a1178b42cc03.streamlock.net/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 1" tvg-logo="https://www.jagledam.com/logo/logopinkfolk.jpg" group-title="Muzički" tvg-shift="+1",Pink Folk 1
+#EXTINF:-1 tvg-name="Pink Folk 1" tvg-logo="https://www.jagledam.com/logo/logopinkfolk.jpg" group-title="Muzički" tvg-shift="+1",Pink Folk 1
 http://93.87.44.242:1113/play/a02r
-#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 2" tvg-logo="https://www.jagledam.com/logo/logopinkfolk2.jpg" group-title="Muzički" tvg-shift="+1",Pink Folk 2
+#EXTINF:-1 tvg-name="Pink Folk 2" tvg-logo="https://www.jagledam.com/logo/logopinkfolk2.jpg" group-title="Muzički" tvg-shift="+1",Pink Folk 2
 http://93.87.44.242:1113/play/a02v
-#EXTINF:-1 tvg-id="" tvg-name="Pink Hits" tvg-logo="https://www.jagledam.com/logo/logopinkhits.jpg" group-title="Muzički" tvg-shift="+1",Pink Hits
+#EXTINF:-1 tvg-name="Pink Hits" tvg-logo="https://www.jagledam.com/logo/logopinkhits.jpg" group-title="Muzički" tvg-shift="+1",Pink Hits
 http://93.87.44.242:1113/play/a0i4
-#EXTINF:-1 tvg-id="" tvg-name="Pink Hits 2" tvg-logo="https://www.jagledam.com/logo/logopinkhits2.jpg" group-title="Muzički" tvg-shift="+1",Pink Hits 2
+#EXTINF:-1 tvg-name="Pink Hits 2" tvg-logo="https://www.jagledam.com/logo/logopinkhits2.jpg" group-title="Muzički" tvg-shift="+1",Pink Hits 2
 http://93.87.44.242:1113/play/a02p
-#EXTINF:-1 tvg-id="" tvg-name="Pink Koncert" tvg-logo="https://www.jagledam.com/logo/logopinkkoncert.jpg" group-title="Muzički" tvg-shift="+1",Pink Koncert
+#EXTINF:-1 tvg-name="Pink Koncert" tvg-logo="https://www.jagledam.com/logo/logopinkkoncert.jpg" group-title="Muzički" tvg-shift="+1",Pink Koncert
 http://93.87.44.242:1113/play/a02q
-#EXTINF:-1 tvg-id="" tvg-name="Pink Music" tvg-logo="https://www.jagledam.com/logo/logopinkmusic.jpg" group-title="Muzički" tvg-shift="+1",Pink Music
+#EXTINF:-1 tvg-name="Pink Music" tvg-logo="https://www.jagledam.com/logo/logopinkmusic.jpg" group-title="Muzički" tvg-shift="+1",Pink Music
 http://93.87.44.242:1112/play/a036
-#EXTINF:-1 tvg-id="" tvg-name="Pink Music 2" tvg-logo="https://www.jagledam.com/logo/logopinkmusic2.jpg" group-title="Muzički" tvg-shift="+1",Pink Music 2
+#EXTINF:-1 tvg-name="Pink Music 2" tvg-logo="https://www.jagledam.com/logo/logopinkmusic2.jpg" group-title="Muzički" tvg-shift="+1",Pink Music 2
 http://93.87.44.242:1112/play/a03b
-#EXTINF:-1 tvg-id="" tvg-name="Pink n Roll" tvg-logo="https://www.jagledam.com/logo/logopinknroll.jpg" group-title="Muzički" tvg-shift="+1",Pink n Roll
+#EXTINF:-1 tvg-name="Pink n Roll" tvg-logo="https://www.jagledam.com/logo/logopinknroll.jpg" group-title="Muzički" tvg-shift="+1",Pink n Roll
 http://93.87.44.242:1113/play/a0i2
-#EXTINF:-1 tvg-id="" tvg-name="Pink Parada" tvg-logo="https://www.jagledam.com/logo/logopinkparada.jpg" group-title="Muzički" tvg-shift="+1",Pink Parada
+#EXTINF:-1 tvg-name="Pink Parada" tvg-logo="https://www.jagledam.com/logo/logopinkparada.jpg" group-title="Muzički" tvg-shift="+1",Pink Parada
 https://srv1.adriatelekom.com/PinkParada/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pink Si" tvg-logo="https://www.jagledam.com/logo/logopinksi.jpg" group-title="Muzički" tvg-shift="+1",Pink Si
+#EXTINF:-1 tvg-name="Pink Si" tvg-logo="https://www.jagledam.com/logo/logopinksi.jpg" group-title="Muzički" tvg-shift="+1",Pink Si
 http://91.212.150.248/PinkSlo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Roma Music" tvg-logo="https://www.jagledam.com/logo/logoromatv.jpg" group-title="Muzički" tvg-shift="+1",Roma Music
+#EXTINF:-1 tvg-name="Roma Music" tvg-logo="https://www.jagledam.com/logo/logoromatv.jpg" group-title="Muzički" tvg-shift="+1",Roma Music
 http://178.132.6.97:8080/ROMATV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTS Kolo" tvg-logo="https://www.jagledam.com/logo/logortskolo.jpg" group-title="Muzički" tvg-shift="+1",RTS Kolo
+#EXTINF:-1 tvg-name="RTS Kolo" tvg-logo="https://www.jagledam.com/logo/logortskolo.jpg" group-title="Muzički" tvg-shift="+1",RTS Kolo
 http://46.240.130.158/RTSKolo/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="RTS Muzika" tvg-logo="https://www.jagledam.com/logo/logortsmuzika.jpg" group-title="Muzički" tvg-shift="+1",RTS Muzika
+#EXTINF:-1 tvg-name="RTS Muzika" tvg-logo="https://www.jagledam.com/logo/logortsmuzika.jpg" group-title="Muzički" tvg-shift="+1",RTS Muzika
 http://freetesttv.homeip.net:24621/sabaheta/sabaheta/142
-#EXTINF:-1 tvg-id="" tvg-name="RTV Zeri" tvg-logo="https://www.jagledam.com/logo/logortvzeri.jpg" group-title="Muzički" tvg-shift="+1",RTV Zeri
+#EXTINF:-1 tvg-name="RTV Zeri" tvg-logo="https://www.jagledam.com/logo/logortvzeri.jpg" group-title="Muzički" tvg-shift="+1",RTV Zeri
 https://54627d4fc5996.streamlock.net/RTVZiK/RTVZiK/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV" tvg-logo="https://www.jagledam.com/logo/logosevdahtv.jpg" group-title="Muzički" tvg-shift="+1",Sevdah TV
+#EXTINF:-1 tvg-name="Sevdah TV" tvg-logo="https://www.jagledam.com/logo/logosevdahtv.jpg" group-title="Muzički" tvg-shift="+1",Sevdah TV
 https://restreamer2.tnt.ba/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shenja" tvg-logo="https://www.jagledam.com/logo/logoshenja.jpg" group-title="Muzički" tvg-shift="+1",Shenja
+#EXTINF:-1 tvg-name="Shenja" tvg-logo="https://www.jagledam.com/logo/logoshenja.jpg" group-title="Muzički" tvg-shift="+1",Shenja
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY Folk" tvg-logo="https://www.jagledam.com/logo/logoskyfolk.jpg" group-title="Muzički" tvg-shift="+1",SKY Folk
+#EXTINF:-1 tvg-name="SKY Folk" tvg-logo="https://www.jagledam.com/logo/logoskyfolk.jpg" group-title="Muzički" tvg-shift="+1",SKY Folk
 https://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY Folk" tvg-logo="https://www.jagledam.com/logo/logoskyfolk.jpg" group-title="Muzički" tvg-shift="+1",SKY Folk
+#EXTINF:-1 tvg-name="SKY Folk" tvg-logo="https://www.jagledam.com/logo/logoskyfolk.jpg" group-title="Muzički" tvg-shift="+1",SKY Folk
 https://skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spin TV" tvg-logo="https://www.jagledam.com/logo/logospintv.jpg" group-title="Muzički" tvg-shift="+1",Spin TV
+#EXTINF:-1 tvg-name="Spin TV" tvg-logo="https://www.jagledam.com/logo/logospintv.jpg" group-title="Muzički" tvg-shift="+1",Spin TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/6714
-#EXTINF:-1 tvg-id="" tvg-name="Star Folk" tvg-logo="https://www.jagledam.com/logo/logostarfolk.jpg" group-title="Muzički" tvg-shift="+1",Star Folk
+#EXTINF:-1 tvg-name="Star Folk" tvg-logo="https://www.jagledam.com/logo/logostarfolk.jpg" group-title="Muzički" tvg-shift="+1",Star Folk
 https://live.muzickatv.mk/live/StarMusic.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stop TV" tvg-logo="https://www.jagledam.com/logo/logostoptv.jpg" group-title="Muzički" tvg-shift="+1",Stop TV
+#EXTINF:-1 tvg-name="Stop TV" tvg-logo="https://www.jagledam.com/logo/logostoptv.jpg" group-title="Muzički" tvg-shift="+1",Stop TV
 https://stoptv-live.morescreens.com/musictv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STV Folk" tvg-logo="https://www.jagledam.com/logo/logostvfolk.jpg" group-title="Muzički" tvg-shift="+1",STV Folk
+#EXTINF:-1 tvg-name="STV Folk" tvg-logo="https://www.jagledam.com/logo/logostvfolk.jpg" group-title="Muzički" tvg-shift="+1",STV Folk
 http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syri Blue" tvg-logo="https://www.jagledam.com/logo/logosyriblue.jpg" group-title="Muzički" tvg-shift="+1",Syri Blue
+#EXTINF:-1 tvg-name="Syri Blue" tvg-logo="https://www.jagledam.com/logo/logosyriblue.jpg" group-title="Muzički" tvg-shift="+1",Syri Blue
 http://178.132.6.97:8080/SYRIBLUEHDTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TDI Radio TV" tvg-logo="https://www.jagledam.com/logo/logotdiradiotv.jpg" group-title="Muzički" tvg-shift="+1",TDI Radio TV
+#EXTINF:-1 tvg-name="TDI Radio TV" tvg-logo="https://www.jagledam.com/logo/logotdiradiotv.jpg" group-title="Muzički" tvg-shift="+1",TDI Radio TV
 https://peer.tdiradio.com/static/streaming-playlists/hls/2dbc3630-2d41-4a02-ace8-da279e698b74/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televizija Banovina" tvg-logo="https://www.jagledam.com/logo/logobanovina.jpg" group-title="Muzički" tvg-shift="+1",Televizija Banovina
+#EXTINF:-1 tvg-name="Televizija Banovina" tvg-logo="https://www.jagledam.com/logo/logobanovina.jpg" group-title="Muzički" tvg-shift="+1",Televizija Banovina
 https://pool.alter-media.1936/live/myStream/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="Top TV" tvg-logo="https://www.jagledam.com/logo/logotoptv.jpg" group-title="Muzički" tvg-shift="+1",Top TV
+#EXTINF:-1 tvg-name="Top TV" tvg-logo="https://www.jagledam.com/logo/logotoptv.jpg" group-title="Muzički" tvg-shift="+1",Top TV
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Toxic Folk" tvg-logo="https://www.jagledam.com/logo/logoxtoxictv.jpg" group-title="Muzički" tvg-shift="+1",Toxic Folk
+#EXTINF:-1 tvg-name="Toxic Folk" tvg-logo="https://www.jagledam.com/logo/logoxtoxictv.jpg" group-title="Muzički" tvg-shift="+1",Toxic Folk
 https://tv.liveott.online/TOXIC_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Toxic Folk" tvg-logo="https://www.jagledam.com/logo/logoxtoxicfolk.jpg" group-title="Muzički" tvg-shift="+1",Toxic Folk
+#EXTINF:-1 tvg-name="Toxic Folk" tvg-logo="https://www.jagledam.com/logo/logoxtoxicfolk.jpg" group-title="Muzički" tvg-shift="+1",Toxic Folk
 
-#EXTINF:-1 tvg-id="" tvg-name="Toxic Rap" tvg-logo="https://www.jagledam.com/logo/logoxtoxicrap.jpg" group-title="Muzički" tvg-shift="+1",Toxic Rap
+#EXTINF:-1 tvg-name="Toxic Rap" tvg-logo="https://www.jagledam.com/logo/logoxtoxicrap.jpg" group-title="Muzički" tvg-shift="+1",Toxic Rap
 
-#EXTINF:-1 tvg-id="" tvg-name="Trend TV" tvg-logo="https://www.jagledam.com/logo/logotrendtv.jpg" group-title="Muzički" tvg-shift="+1",Trend TV
+#EXTINF:-1 tvg-name="Trend TV" tvg-logo="https://www.jagledam.com/logo/logotrendtv.jpg" group-title="Muzički" tvg-shift="+1",Trend TV
 http://185.62.75.22:1935/trend/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV S1" tvg-logo="https://www.jagledam.com/logo/logotvs1.jpg" group-title="Muzički" tvg-shift="+1",TV S1
+#EXTINF:-1 tvg-name="TV S1" tvg-logo="https://www.jagledam.com/logo/logotvs1.jpg" group-title="Muzički" tvg-shift="+1",TV S1
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Sehara" tvg-logo="https://www.jagledam.com/logo/logosehara.jpg" group-title="Muzički" tvg-shift="+1",TV Sehara
+#EXTINF:-1 tvg-name="TV Sehara" tvg-logo="https://www.jagledam.com/logo/logosehara.jpg" group-title="Muzički" tvg-shift="+1",TV Sehara
 http://ip2.xxlservices.com:8081/seharatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Tetova" tvg-logo="https://www.jagledam.com/logo/logotvtetova.jpg" group-title="Muzički" tvg-shift="+1",TV Tetova
+#EXTINF:-1 tvg-name="TV Tetova" tvg-logo="https://www.jagledam.com/logo/logotvtetova.jpg" group-title="Muzički" tvg-shift="+1",TV Tetova
 http://live1.tvtetova.net//m3u8/dyn/TvTetova/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Tetova" tvg-logo="https://www.jagledam.com/logo/logotvtetova.jpg" group-title="Muzički" tvg-shift="+1",TV Tetova
+#EXTINF:-1 tvg-name="TV Tetova" tvg-logo="https://www.jagledam.com/logo/logotvtetova.jpg" group-title="Muzički" tvg-shift="+1",TV Tetova
 http://178.132.6.97:8080/TVTetova1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Veseljak" tvg-logo="https://www.jagledam.com/logo/logoveseljak.jpg" group-title="Muzički" tvg-shift="+1",Veseljak
+#EXTINF:-1 tvg-name="Veseljak" tvg-logo="https://www.jagledam.com/logo/logoveseljak.jpg" group-title="Muzički" tvg-shift="+1",Veseljak
 https://stream.veseljak.tv/hls/stream.m3u8?BOB_DIGITAL
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Adria" tvg-logo="https://www.jagledam.com/logo/vh1.jpg" group-title="Muzički" tvg-shift="+1",VH1 Adria
+#EXTINF:-1 tvg-name="VH1 Adria" tvg-logo="https://www.jagledam.com/logo/vh1.jpg" group-title="Muzički" tvg-shift="+1",VH1 Adria
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP HD" tvg-logo="https://www.jagledam.com/logo/logoviphd.jpg" group-title="Muzički" tvg-shift="+1",VIP HD
+#EXTINF:-1 tvg-name="VIP HD" tvg-logo="https://www.jagledam.com/logo/logoviphd.jpg" group-title="Muzički" tvg-shift="+1",VIP HD
 https://46.105.209.61
-#EXTINF:-1 tvg-id="" tvg-name="YU Planet" tvg-logo="https://www.jagledam.com/logo/logoyuplanet.jpg" group-title="Muzički" tvg-shift="+1",YU Planet
+#EXTINF:-1 tvg-name="YU Planet" tvg-logo="https://www.jagledam.com/logo/logoyuplanet.jpg" group-title="Muzički" tvg-shift="+1",YU Planet
 https://freestreams.ott.solutions:8443/YuPlanet/asojnd2jsjae/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZWEI Music TV" tvg-logo="https://folxplay.tv/logos/zwei_neg_b.png" group-title="Muzički" tvg-shift="+1",ZWEI Music TV
+#EXTINF:-1 tvg-name="ZWEI Music TV" tvg-logo="https://folxplay.tv/logos/zwei_neg_b.png" group-title="Muzički" tvg-shift="+1",ZWEI Music TV
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 vesti" tvg-logo="https://www.jagledam.com/logo/logo24vesti.jpg" group-title="Informativni" tvg-shift="+1",24 vesti
+#EXTINF:-1 tvg-name="24 vesti" tvg-logo="https://www.jagledam.com/logo/logo24vesti.jpg" group-title="Informativni" tvg-shift="+1",24 vesti
 http://135.125.204.34:8081/tvstanici/5/24-tv-mk-AM-playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Balkans" tvg-logo="https://www.jagledam.com/logo/logoajb.jpg" group-title="Informativni" tvg-shift="+1",Al Jazeera Balkans
+#EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://www.jagledam.com/logo/logoajb.jpg" group-title="Informativni" tvg-shift="+1",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Adria BiH" tvg-logo="https://www.jagledam.com/logo/logobloombergadria.jpg" group-title="Informativni" tvg-shift="+1",Bloomberg Adria BiH
+#EXTINF:-1 tvg-name="Bloomberg Adria BiH" tvg-logo="https://www.jagledam.com/logo/logobloombergadria.jpg" group-title="Informativni" tvg-shift="+1",Bloomberg Adria BiH
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1569/ngrp:8kmVeum6_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Adria HR" tvg-logo="https://www.jagledam.com/logo/logobloombergadria.jpg" group-title="Informativni" tvg-shift="+1",Bloomberg Adria HR
+#EXTINF:-1 tvg-name="Bloomberg Adria HR" tvg-logo="https://www.jagledam.com/logo/logobloombergadria.jpg" group-title="Informativni" tvg-shift="+1",Bloomberg Adria HR
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1568/ngrp:SnAD0MGy_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Adria MK" tvg-logo="https://www.jagledam.com/logo/logobloombergadria.jpg" group-title="Informativni" tvg-shift="+1",Bloomberg Adria MK
+#EXTINF:-1 tvg-name="Bloomberg Adria MK" tvg-logo="https://www.jagledam.com/logo/logobloombergadria.jpg" group-title="Informativni" tvg-shift="+1",Bloomberg Adria MK
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1570/ngrp:EpCxQqiC_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Adria SR" tvg-logo="https://www.jagledam.com/logo/logobloombergadria.jpg" group-title="Informativni" tvg-shift="+1",Bloomberg Adria SR
+#EXTINF:-1 tvg-name="Bloomberg Adria SR" tvg-logo="https://www.jagledam.com/logo/logobloombergadria.jpg" group-title="Informativni" tvg-shift="+1",Bloomberg Adria SR
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Ardia SLO" tvg-logo="https://www.jagledam.com/logo/logobloombergadria.jpg" group-title="Informativni" tvg-shift="+1",Bloomberg Ardia SLO
+#EXTINF:-1 tvg-name="Bloomberg Ardia SLO" tvg-logo="https://www.jagledam.com/logo/logobloombergadria.jpg" group-title="Informativni" tvg-shift="+1",Bloomberg Ardia SLO
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1567/ngrp:rzFmiqEV_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://www.jagledam.com/logo/logobtv.jpg" group-title="Informativni" tvg-shift="+1",BTV
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://www.jagledam.com/logo/logobtv.jpg" group-title="Informativni" tvg-shift="+1",BTV
 https://tv.liveott.online/BTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="euronews Albania" tvg-logo="https://www.jagledam.com/logo/logoeuronewsalbania.jpg" group-title="Informativni" tvg-shift="+1",euronews Albania
+#EXTINF:-1 tvg-name="euronews Albania" tvg-logo="https://www.jagledam.com/logo/logoeuronewsalbania.jpg" group-title="Informativni" tvg-shift="+1",euronews Albania
 http://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews Serbia" tvg-logo="https://www.jagledam.com/logo/logoeuronewsserbia.jpg" group-title="Informativni" tvg-shift="+1",Euronews Serbia
+#EXTINF:-1 tvg-name="Euronews Serbia" tvg-logo="https://www.jagledam.com/logo/logoeuronewsserbia.jpg" group-title="Informativni" tvg-shift="+1",Euronews Serbia
 https://5bc45691ca49f.streamlock.net/euronews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMC" tvg-logo="https://www.jagledam.com/logo/logommc.jpg" group-title="Informativni" tvg-shift="+1",MMC
+#EXTINF:-1 tvg-name="MMC" tvg-logo="https://www.jagledam.com/logo/logommc.jpg" group-title="Informativni" tvg-shift="+1",MMC
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/5628
-#EXTINF:-1 tvg-id="" tvg-name="MRT Sobraniski Kanal" tvg-logo="https://www.jagledam.com/logo/logomrt.jpg" group-title="Informativni" tvg-shift="+1",MRT Sobraniski Kanal
+#EXTINF:-1 tvg-name="MRT Sobraniski Kanal" tvg-logo="https://www.jagledam.com/logo/logomrt.jpg" group-title="Informativni" tvg-shift="+1",MRT Sobraniski Kanal
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/265794
-#EXTINF:-1 tvg-id="" tvg-name="N1 info BiH" tvg-logo="https://www.jagledam.com/logo/logon1info.jpg" group-title="Informativni" tvg-shift="+1",N1 info BH
+#EXTINF:-1 tvg-name="N1 info BiH" tvg-logo="https://www.jagledam.com/logo/logon1info.jpg" group-title="Informativni" tvg-shift="+1",N1 info BH
 https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="" tvg-name="N1 info HR" tvg-logo="https://www.jagledam.com/logo/logon1info.jpg" group-title="Informativni" tvg-shift="+1",N1 info HR
+#EXTINF:-1 tvg-name="N1 info HR" tvg-logo="https://www.jagledam.com/logo/logon1info.jpg" group-title="Informativni" tvg-shift="+1",N1 info HR
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="" tvg-name="N1 info SLO" tvg-logo="https://www.jagledam.com/logo/logon1info.jpg" group-title="Informativni" tvg-shift="+1",N1 info SLO
+#EXTINF:-1 tvg-name="N1 info SLO" tvg-logo="https://www.jagledam.com/logo/logon1info.jpg" group-title="Informativni" tvg-shift="+1",N1 info SLO
 https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="" tvg-name="N1 info RS" tvg-logo="https://www.jagledam.com/logo/logon1info.jpg" group-title="Informativni" tvg-shift="+1",N1 info RS
+#EXTINF:-1 tvg-name="N1 info RS" tvg-logo="https://www.jagledam.com/logo/logon1info.jpg" group-title="Informativni" tvg-shift="+1",N1 info RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="" tvg-name="news 24" tvg-logo="https://www.jagledam.com/logo/logonews24.jpg" group-title="Informativni" tvg-shift="+1",news 24
+#EXTINF:-1 tvg-name="news 24" tvg-logo="https://www.jagledam.com/logo/logonews24.jpg" group-title="Informativni" tvg-shift="+1",news 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nova 24 TV" tvg-logo="https://www.jagledam.com/logo/logonova24tv.jpg" group-title="Informativni" tvg-shift="+1",Nova 24 TV
+#EXTINF:-1 tvg-name="Nova 24 TV" tvg-logo="https://www.jagledam.com/logo/logonova24tv.jpg" group-title="Informativni" tvg-shift="+1",Nova 24 TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/5633
-#EXTINF:-1 tvg-id="" tvg-name="RTCG Parlamentarni" tvg-logo="https://www.jagledam.com/logo/logortcgparlament.jpg" group-title="Informativni" tvg-shift="+1",RTCG Parlamentarni
+#EXTINF:-1 tvg-name="RTCG Parlamentarni" tvg-logo="https://www.jagledam.com/logo/logortcgparlament.jpg" group-title="Informativni" tvg-shift="+1",RTCG Parlamentarni
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vesti (Pink 3 info)" tvg-logo="https://www.jagledam.com/logo/logopink3.jpg" group-title="Informativni" tvg-shift="+1",Vesti (Pink 3 info)
+#EXTINF:-1 tvg-name="Vesti (Pink 3 info)" tvg-logo="https://www.jagledam.com/logo/logopink3.jpg" group-title="Informativni" tvg-shift="+1",Vesti (Pink 3 info)
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/3415
-#EXTINF:-1 tvg-id="" tvg-name="Vijesti CG" tvg-logo="https://www.jagledam.com/logo/logovijesti.jpg" group-title="Informativni" tvg-shift="+1",Vijesti CG
+#EXTINF:-1 tvg-name="Vijesti CG" tvg-logo="https://www.jagledam.com/logo/logovijesti.jpg" group-title="Informativni" tvg-shift="+1",Vijesti CG
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/13458
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://www.jagledam.com/logo/logobabytv.jpg" group-title="Dječiji" tvg-shift="+1",Baby TV
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://www.jagledam.com/logo/logobabytv.jpg" group-title="Dječiji" tvg-shift="+1",Baby TV
 http://46.240.130.158/BabyTV/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://www.jagledam.com/logo/logoboomerang.jpg" group-title="Dječiji" tvg-shift="+1",Boomerang
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://www.jagledam.com/logo/logoboomerang.jpg" group-title="Dječiji" tvg-shift="+1",Boomerang
 http://195.222.53.136:8080/Boomerang/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://www.jagledam.com/logo/logocartoonnet.jpg" group-title="Dječiji" tvg-shift="+1",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://www.jagledam.com/logo/logocartoonnet.jpg" group-title="Dječiji" tvg-shift="+1",Cartoon Network
 http://185.65.107.1:4445/CartoonNetwork/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://www.jagledam.com/logo/logodisneyxd.jpg" group-title="Dječiji" tvg-shift="+1",Disney XD
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://www.jagledam.com/logo/logodisneyxd.jpg" group-title="Dječiji" tvg-shift="+1",Disney XD
 http://82.135.224.135:88/udp/239.255.1.236:1234
-#EXTINF:-1 tvg-id="" tvg-name="Djak TV" tvg-logo="https://www.jagledam.com/logo/logodjaktv.jpg" group-title="Dječiji" tvg-shift="+1",Djak TV
+#EXTINF:-1 tvg-name="Djak TV" tvg-logo="https://www.jagledam.com/logo/logodjaktv.jpg" group-title="Dječiji" tvg-shift="+1",Djak TV
 https://srv1.adriatelekom.com/DjakTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.jagledam.com/logo/logoducktv.jpg" group-title="Dječiji" tvg-shift="+1",Duck TV
+#EXTINF:-1 tvg-name="Duck TV" tvg-logo="https://www.jagledam.com/logo/logoducktv.jpg" group-title="Dječiji" tvg-shift="+1",Duck TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/144753
-#EXTINF:-1 tvg-id="" tvg-name="Hayatovci" tvg-logo="https://www.jagledam.com/logo/hayatovci.jpg" group-title="Dječiji" tvg-shift="+1",Hayatovci
+#EXTINF:-1 tvg-name="Hayatovci" tvg-logo="https://www.jagledam.com/logo/hayatovci.jpg" group-title="Dječiji" tvg-shift="+1",Hayatovci
 http://195.222.53.136:8080/hayatovci/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JimJam" tvg-logo="https://www.jagledam.com/logo/logojimjam.jpg" group-title="Dječiji" tvg-shift="+1",JimJam
+#EXTINF:-1 tvg-name="JimJam" tvg-logo="https://www.jagledam.com/logo/logojimjam.jpg" group-title="Dječiji" tvg-shift="+1",JimJam
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/33604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Minimax" tvg-logo="https://www.jagledam.com/logo/logominimax.jpg" group-title="Dječiji" tvg-shift="+1",Minimax
+#EXTINF:-1 tvg-name="Minimax" tvg-logo="https://www.jagledam.com/logo/logominimax.jpg" group-title="Dječiji" tvg-shift="+1",Minimax
 http://195.222.53.136:8080/minimax/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://www.jagledam.com/logo/logonickjr.jpg" group-title="Dječiji" tvg-shift="+1",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://www.jagledam.com/logo/logonickjr.jpg" group-title="Dječiji" tvg-shift="+1",Nick Jr
 http://46.240.143.86/NickJr/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="https://www.jagledam.com/logo/logonick.jpg" group-title="Dječiji" tvg-shift="+1",nickelodeon
+#EXTINF:-1 tvg-name="nickelodeon" tvg-logo="https://www.jagledam.com/logo/logonick.jpg" group-title="Dječiji" tvg-shift="+1",nickelodeon
 http://195.222.53.136:8080/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pink Kids" tvg-logo="https://www.jagledam.com/logo/logopinkkids.jpg" group-title="Dječiji" tvg-shift="+1",Pink Kids
+#EXTINF:-1 tvg-name="Pink Kids" tvg-logo="https://www.jagledam.com/logo/logopinkkids.jpg" group-title="Dječiji" tvg-shift="+1",Pink Kids
 http://195.222.53.136:8080/pink-kids/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pink Super Kids" tvg-logo="https://www.jagledam.com/logo/logopinksuperkids.jpg" group-title="Dječiji" tvg-shift="+1",Pink Super Kids
+#EXTINF:-1 tvg-name="Pink Super Kids" tvg-logo="https://www.jagledam.com/logo/logopinksuperkids.jpg" group-title="Dječiji" tvg-shift="+1",Pink Super Kids
 http://195.222.53.136:8080/pink-super-kids/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL Kockica" tvg-logo="https://www.jagledam.com/logo/logortlkockica.jpg" group-title="Dječiji" tvg-shift="+1",RTL Kockica
+#EXTINF:-1 tvg-name="RTL Kockica" tvg-logo="https://www.jagledam.com/logo/logortlkockica.jpg" group-title="Dječiji" tvg-shift="+1",RTL Kockica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTS Poletarac" tvg-logo="https://www.jagledam.com/logo/logortspoletarac.jpg" group-title="Dječiji" tvg-shift="+1",RTS Poletarac
+#EXTINF:-1 tvg-name="RTS Poletarac" tvg-logo="https://www.jagledam.com/logo/logortspoletarac.jpg" group-title="Dječiji" tvg-shift="+1",RTS Poletarac
 http://46.240.130.158/RTSPoletarac/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="TNT Kids" tvg-logo="https://www.jagledam.com/logo/logotntkids.jpg" group-title="Dječiji" tvg-shift="+1",TNT Kids
+#EXTINF:-1 tvg-name="TNT Kids" tvg-logo="https://www.jagledam.com/logo/logotntkids.jpg" group-title="Dječiji" tvg-shift="+1",TNT Kids
 
-#EXTINF:-1 tvg-id="" tvg-name="Islam MNE TV" tvg-logo="https://www.jagledam.com/logo/logoislammnetv.jpg" group-title="Religijski" tvg-shift="+1",Islam MNE TV
+#EXTINF:-1 tvg-name="Islam MNE TV" tvg-logo="https://www.jagledam.com/logo/logoislammnetv.jpg" group-title="Religijski" tvg-shift="+1",Islam MNE TV
 http://ott.dobratv.net:25461/BoemTV/112233445566/25
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM Prizren TV" tvg-logo="https://www.jagledam.com/logo/logoislamprizrentv.jpg" group-title="Religijski" tvg-shift="+1",ISLAM Prizren TV
+#EXTINF:-1 tvg-name="ISLAM Prizren TV" tvg-logo="https://www.jagledam.com/logo/logoislamprizrentv.jpg" group-title="Religijski" tvg-shift="+1",ISLAM Prizren TV
 https://protokolldns.xyz/rtvislamweebstdkksdfsdjkd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Laudato TV" tvg-logo="https://www.jagledam.com/logo/logolaudatotv.jpg" group-title="Religijski" tvg-shift="+1",Laudato TV
+#EXTINF:-1 tvg-name="Laudato TV" tvg-logo="https://www.jagledam.com/logo/logolaudatotv.jpg" group-title="Religijski" tvg-shift="+1",Laudato TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/54956
-#EXTINF:-1 tvg-id="" tvg-name="Maria Vision" tvg-logo="https://www.jagledam.com/logo/logomariavision.jpg" group-title="Religijski" tvg-shift="+1",Maria Vision
+#EXTINF:-1 tvg-name="Maria Vision" tvg-logo="https://www.jagledam.com/logo/logomariavision.jpg" group-title="Religijski" tvg-shift="+1",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mary TV" tvg-logo="https://www.jagledam.com/logo/logomarytv.jpg" group-title="Religijski" tvg-shift="+1",Mary TV
+#EXTINF:-1 tvg-name="Mary TV" tvg-logo="https://www.jagledam.com/logo/logomarytv.jpg" group-title="Religijski" tvg-shift="+1",Mary TV
 https://2-fss-2.streamhoster.com/pl_120/amlst:200012-111298/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mtv Igman" tvg-logo="https://www.jagledam.com/logo/logomtvigman.jpg" group-title="Religijski" tvg-shift="+1",mtv Igman
+#EXTINF:-1 tvg-name="mtv Igman" tvg-logo="https://www.jagledam.com/logo/logomtvigman.jpg" group-title="Religijski" tvg-shift="+1",mtv Igman
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/6892
-#EXTINF:-1 tvg-id="" tvg-name="Studio 12" tvg-logo="https://www.jagledam.com/logo/logostudio12.jpg" group-title="Religijski" tvg-shift="+1",Studio 12
+#EXTINF:-1 tvg-name="Studio 12" tvg-logo="https://www.jagledam.com/logo/logostudio12.jpg" group-title="Religijski" tvg-shift="+1",Studio 12
 
-#EXTINF:-1 tvg-id="" tvg-name="Super TV" tvg-logo="https://www.jagledam.com/logo/logosupertv.jpg" group-title="Religijski" tvg-shift="+1",Super TV
+#EXTINF:-1 tvg-name="Super TV" tvg-logo="https://www.jagledam.com/logo/logosupertv.jpg" group-title="Religijski" tvg-shift="+1",Super TV
 https://mirtv.club/live/mirtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televizija 5" tvg-logo="https://www.jagledam.com/logo/logotelevizija5hd.jpg" group-title="Religijski" tvg-shift="+1",Televizija 5
+#EXTINF:-1 tvg-name="Televizija 5" tvg-logo="https://www.jagledam.com/logo/logotelevizija5hd.jpg" group-title="Religijski" tvg-shift="+1",Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Hram" tvg-logo="https://www.jagledam.com/logo/logohramtv.jpg" group-title="Religijski" tvg-shift="+1",TV Hram
+#EXTINF:-1 tvg-name="TV Hram" tvg-logo="https://www.jagledam.com/logo/logohramtv.jpg" group-title="Religijski" tvg-shift="+1",TV Hram
 http://178.217.15.36/live/hram/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zdrava TV" tvg-logo="https://www.jagledam.com/logo/logozdravatv.jpg" group-title="Religijski" tvg-shift="+1",Zdrava TV
+#EXTINF:-1 tvg-name="Zdrava TV" tvg-logo="https://www.jagledam.com/logo/logozdravatv.jpg" group-title="Religijski" tvg-shift="+1",Zdrava TV
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/299625
 
-#EXTINF:-1 tvg-id="" tvg-name="Cool Radio" tvg-logo="https://coolradio.rs/wp-content/uploads/revslider/cool/logo.png" group-title="Radio" tvg-shift="+1",Cool Radio
+#EXTINF:-1 tvg-name="Cool Radio" tvg-logo="https://coolradio.rs/wp-content/uploads/revslider/cool/logo.png" group-title="Radio" tvg-shift="+1",Cool Radio
 http://live.coolradio.rs/cool192
-#EXTINF:-1 tvg-id="" tvg-name="Hit FM" tvg-logo="https://hitfm.ba/wp-content/uploads/2022/08/Logo-hitfmradio.png" group-title="Radio" tvg-shift="+1",Hit FM
+#EXTINF:-1 tvg-name="Hit FM" tvg-logo="https://hitfm.ba/wp-content/uploads/2022/08/Logo-hitfmradio.png" group-title="Radio" tvg-shift="+1",Hit FM
 https://slusaj.off.ba:8010
-#EXTINF:-1 tvg-id="" tvg-name="Hit FM Narodni" tvg-logo="https://hitfm.ba/wp-content/uploads/2022/08/Logo-hitfmradio.png" group-title="Radio" tvg-shift="+1",Hit FM Narodni
+#EXTINF:-1 tvg-name="Hit FM Narodni" tvg-logo="https://hitfm.ba/wp-content/uploads/2022/08/Logo-hitfmradio.png" group-title="Radio" tvg-shift="+1",Hit FM Narodni
 https://slusaj.off.ba:8050
-#EXTINF:-1 tvg-id="" tvg-name="Hit FM Radio" tvg-logo="https://hitfm.ba/wp-content/uploads/2022/08/Logo-hitfmradio.png" group-title="Radio" tvg-shift="+1",Hit FM Radio
+#EXTINF:-1 tvg-name="Hit FM Radio" tvg-logo="https://hitfm.ba/wp-content/uploads/2022/08/Logo-hitfmradio.png" group-title="Radio" tvg-shift="+1",Hit FM Radio
 https://slusaj.off.ba:8090
-#EXTINF:-1 tvg-id="" tvg-name="KISS FM" tvg-logo="http://kissfm.ba/radio/logo.png" group-title="Radio" tvg-shift="+1",KISS FM
+#EXTINF:-1 tvg-name="KISS FM" tvg-logo="http://kissfm.ba/radio/logo.png" group-title="Radio" tvg-shift="+1",KISS FM
 http://stream.kissfm.ba:8010
-#EXTINF:-1 tvg-id="" tvg-name="KISS FM Caffe" tvg-logo="http://kissfm.ba/radio/logo.png" group-title="Radio" tvg-shift="+1",KISS FM Caffe
+#EXTINF:-1 tvg-name="KISS FM Caffe" tvg-logo="http://kissfm.ba/radio/logo.png" group-title="Radio" tvg-shift="+1",KISS FM Caffe
 http://live.kissfm.ba:8000
-#EXTINF:-1 tvg-id="" tvg-name="KISS FM Dance" tvg-logo="http://kissfm.ba/radio/logo.png" group-title="Radio" tvg-shift="+1",KISS FM Dance
+#EXTINF:-1 tvg-name="KISS FM Dance" tvg-logo="http://kissfm.ba/radio/logo.png" group-title="Radio" tvg-shift="+1",KISS FM Dance
 http://live.kissfm.ba:8020
-#EXTINF:-1 tvg-id="" tvg-name="KISS FM Urban" tvg-logo="http://kissfm.ba/radio/logo.png" group-title="Radio" tvg-shift="+1",KISS FM Urban
+#EXTINF:-1 tvg-name="KISS FM Urban" tvg-logo="http://kissfm.ba/radio/logo.png" group-title="Radio" tvg-shift="+1",KISS FM Urban
 http://live.kissfm.ba:8030
-#EXTINF:-1 tvg-id="" tvg-name="NAXI 70-e RADIO" tvg-logo="https://www.naxi.rs/media/45922f-70-e.png" group-title="Radio" tvg-shift="+1",NAXI 70-e RADIO
+#EXTINF:-1 tvg-name="NAXI 70-e RADIO" tvg-logo="https://www.naxi.rs/media/45922f-70-e.png" group-title="Radio" tvg-shift="+1",NAXI 70-e RADIO
 https://naxidigital-70s128ssl.streaming.rs:8382
-#EXTINF:-1 tvg-id="" tvg-name="NAXI 80-e RADIO" tvg-logo="https://www.naxi.rs/media/9d975c-80-e.png" group-title="Radio" tvg-shift="+1",NAXI 80-e RADIO
+#EXTINF:-1 tvg-name="NAXI 80-e RADIO" tvg-logo="https://www.naxi.rs/media/9d975c-80-e.png" group-title="Radio" tvg-shift="+1",NAXI 80-e RADIO
 https://naxidigital-80s128ssl.streaming.rs:8042
-#EXTINF:-1 tvg-id="" tvg-name="NAXI 90-e RADIO" tvg-logo="https://www.naxi.rs/media/d915f7-90-e.png" group-title="Radio" tvg-shift="+1",NAXI 90-e RADIO
+#EXTINF:-1 tvg-name="NAXI 90-e RADIO" tvg-logo="https://www.naxi.rs/media/d915f7-90-e.png" group-title="Radio" tvg-shift="+1",NAXI 90-e RADIO
 https://naxidigital-90s128ssl.streaming.rs:8282
-#EXTINF:-1 tvg-id="" tvg-name="NAXI ADORE RADIO" tvg-logo="https://www.naxi.rs/media/427681-adore.png" group-title="Radio" tvg-shift="+1",NAXI ADORE RADIO
+#EXTINF:-1 tvg-name="NAXI ADORE RADIO" tvg-logo="https://www.naxi.rs/media/427681-adore.png" group-title="Radio" tvg-shift="+1",NAXI ADORE RADIO
 https://naxidigital-adore128ssl.streaming.rs:8332
-#EXTINF:-1 tvg-id="" tvg-name="NAXI BLUES ROCK RADIO" tvg-logo="https://www.naxi.rs/media/9ea6e3-blues-rock.png" group-title="Radio" tvg-shift="+1",NAXI BLUES ROCK RADIO
+#EXTINF:-1 tvg-name="NAXI BLUES ROCK RADIO" tvg-logo="https://www.naxi.rs/media/9ea6e3-blues-rock.png" group-title="Radio" tvg-shift="+1",NAXI BLUES ROCK RADIO
 https://naxidigital-blues128ssl.streaming.rs:8312
-#EXTINF:-1 tvg-id="" tvg-name="NAXI BOEM RADIO" tvg-logo="https://www.naxi.rs/media/f64ea9-boem.png" group-title="Radio" tvg-shift="+1",NAXI BOEM RADIO
+#EXTINF:-1 tvg-name="NAXI BOEM RADIO" tvg-logo="https://www.naxi.rs/media/f64ea9-boem.png" group-title="Radio" tvg-shift="+1",NAXI BOEM RADIO
 https://naxidigital-boem128ssl.streaming.rs:8162
-#EXTINF:-1 tvg-id="" tvg-name="NAXI CAFE RADIO" tvg-logo="https://www.naxi.rs/media/225a5b-cafe.png" group-title="Radio" tvg-shift="+1",NAXI CAFE RADIO
+#EXTINF:-1 tvg-name="NAXI CAFE RADIO" tvg-logo="https://www.naxi.rs/media/225a5b-cafe.png" group-title="Radio" tvg-shift="+1",NAXI CAFE RADIO
 https://naxidigital-cafe128ssl.streaming.rs:8022
-#EXTINF:-1 tvg-id="" tvg-name="NAXI CHILLWAVE RADIO" tvg-logo="https://www.naxi.rs/media/193510-chillwave.png" group-title="Radio" tvg-shift="+1",NAXI CHILLWAVE RADIO
+#EXTINF:-1 tvg-name="NAXI CHILLWAVE RADIO" tvg-logo="https://www.naxi.rs/media/193510-chillwave.png" group-title="Radio" tvg-shift="+1",NAXI CHILLWAVE RADIO
 https://naxidigital-chillwave128ssl.streaming.rs:8322
-#EXTINF:-1 tvg-id="" tvg-name="NAXI CLASSIC" tvg-logo="https://www.naxi.rs/media/5430dd-classic.png" group-title="Radio" tvg-shift="+1",NAXI CLASSIC
+#EXTINF:-1 tvg-name="NAXI CLASSIC" tvg-logo="https://www.naxi.rs/media/5430dd-classic.png" group-title="Radio" tvg-shift="+1",NAXI CLASSIC
 https://naxidigital-classic128ssl.streaming.rs:8032
-#EXTINF:-1 tvg-id="" tvg-name="NAXI CLUBBING" tvg-logo="https://www.naxi.rs/media/fde4e7-clubbing.png" group-title="Radio" tvg-shift="+1",NAXI CLUBBING
+#EXTINF:-1 tvg-name="NAXI CLUBBING" tvg-logo="https://www.naxi.rs/media/fde4e7-clubbing.png" group-title="Radio" tvg-shift="+1",NAXI CLUBBING
 https://naxidigital-clubbing128ssl.streaming.rs:8092
-#EXTINF:-1 tvg-id="" tvg-name="NAXI DANCE RADIO" tvg-logo="https://www.naxi.rs/media/e0a29b-dance.png" group-title="Radio" tvg-shift="+1",NAXI DANCE RADIO
+#EXTINF:-1 tvg-name="NAXI DANCE RADIO" tvg-logo="https://www.naxi.rs/media/e0a29b-dance.png" group-title="Radio" tvg-shift="+1",NAXI DANCE RADIO
 https://naxidigital-dance128ssl.streaming.rs:8112
-#EXTINF:-1 tvg-id="" tvg-name="NAXI DISCO RADIO" tvg-logo="https://www.naxi.rs/media/abbecc-disco.png" group-title="Radio" tvg-shift="+1",NAXI DISCO RADIO
+#EXTINF:-1 tvg-name="NAXI DISCO RADIO" tvg-logo="https://www.naxi.rs/media/abbecc-disco.png" group-title="Radio" tvg-shift="+1",NAXI DISCO RADIO
 https://naxidigital-disco128ssl.streaming.rs:8352
-#EXTINF:-1 tvg-id="" tvg-name="NAXI EVERGREEN" tvg-logo="https://www.naxi.rs/media/da95c0-evergreen.png" group-title="Radio" tvg-shift="+1",NAXI EVERGREEN
+#EXTINF:-1 tvg-name="NAXI EVERGREEN" tvg-logo="https://www.naxi.rs/media/da95c0-evergreen.png" group-title="Radio" tvg-shift="+1",NAXI EVERGREEN
 https://naxidigital-evergreen128ssl.streaming.rs:8012
-#EXTINF:-1 tvg-id="" tvg-name="NAXI EX-YU RADIO" tvg-logo="https://www.naxi.rs/media/57512a-exyu.png" group-title="Radio" tvg-shift="+1",NAXI EX-YU RADIO
+#EXTINF:-1 tvg-name="NAXI EX-YU RADIO" tvg-logo="https://www.naxi.rs/media/57512a-exyu.png" group-title="Radio" tvg-shift="+1",NAXI EX-YU RADIO
 https://naxidigital-exyu128ssl.streaming.rs:8242
-#EXTINF:-1 tvg-id="" tvg-name="NAXI FITNESS RADIO" tvg-logo="https://www.naxi.rs/media/80dfc6-fitness.png" group-title="Radio" tvg-shift="+1",NAXI FITNESS RADIO
+#EXTINF:-1 tvg-name="NAXI FITNESS RADIO" tvg-logo="https://www.naxi.rs/media/80dfc6-fitness.png" group-title="Radio" tvg-shift="+1",NAXI FITNESS RADIO
 https://naxidigital-fitness128ssl.streaming.rs:8292
-#EXTINF:-1 tvg-id="" tvg-name="NAXI FRESH RADIO" tvg-logo="https://www.naxi.rs/media/c98109-fresh.png" group-title="Radio" tvg-shift="+1",NAXI FRESH RADIO
+#EXTINF:-1 tvg-name="NAXI FRESH RADIO" tvg-logo="https://www.naxi.rs/media/c98109-fresh.png" group-title="Radio" tvg-shift="+1",NAXI FRESH RADIO
 https://naxidigital-fresh128ssl.streaming.rs:8212
-#EXTINF:-1 tvg-id="" tvg-name="NAXI FUNK RADIO" tvg-logo="https://www.naxi.rs/media/e51e3a-funk.png" group-title="Radio" tvg-shift="+1",NAXI FUNK RADIO
+#EXTINF:-1 tvg-name="NAXI FUNK RADIO" tvg-logo="https://www.naxi.rs/media/e51e3a-funk.png" group-title="Radio" tvg-shift="+1",NAXI FUNK RADIO
 https://naxidigital-funk128ssl.streaming.rs:8362
-#EXTINF:-1 tvg-id="" tvg-name="NAXI GOLD RADIO" tvg-logo="https://www.naxi.rs/media/a4eacf-gold.png" group-title="Radio" tvg-shift="+1",NAXI GOLD RADIO
+#EXTINF:-1 tvg-name="NAXI GOLD RADIO" tvg-logo="https://www.naxi.rs/media/a4eacf-gold.png" group-title="Radio" tvg-shift="+1",NAXI GOLD RADIO
 https://naxidigital-gold128ssl.streaming.rs:8062
-#EXTINF:-1 tvg-id="" tvg-name="NAXI HOUSE RADIO" tvg-logo="https://www.naxi.rs/media/6476a7-house.png" group-title="Radio" tvg-shift="+1",NAXI HOUSE RADIO
+#EXTINF:-1 tvg-name="NAXI HOUSE RADIO" tvg-logo="https://www.naxi.rs/media/6476a7-house.png" group-title="Radio" tvg-shift="+1",NAXI HOUSE RADIO
 https://naxidigital-house128ssl.streaming.rs:8002
-#EXTINF:-1 tvg-id="" tvg-name="NAXI HYPE RADIO" tvg-logo="https://www.naxi.rs/media/1ae13c-hype.png" group-title="Radio" tvg-shift="+1",NAXI HYPE RADIO
+#EXTINF:-1 tvg-name="NAXI HYPE RADIO" tvg-logo="https://www.naxi.rs/media/1ae13c-hype.png" group-title="Radio" tvg-shift="+1",NAXI HYPE RADIO
 https://naxidigital-hype128ssl.streaming.rs:8272
-#EXTINF:-1 tvg-id="" tvg-name="NAXI JAZZ RADIO" tvg-logo="https://www.naxi.rs/media/89614b-jazz.png" group-title="Radio" tvg-shift="+1",NAXI JAZZ RADIO
+#EXTINF:-1 tvg-name="NAXI JAZZ RADIO" tvg-logo="https://www.naxi.rs/media/89614b-jazz.png" group-title="Radio" tvg-shift="+1",NAXI JAZZ RADIO
 https://naxidigital-jazz128ssl.streaming.rs:8172
-#EXTINF:-1 tvg-id="" tvg-name="NAXI LATINO" tvg-logo="https://www.naxi.rs/media/9c4efc-latino.png" group-title="Radio" tvg-shift="+1",NAXI LATINO
+#EXTINF:-1 tvg-name="NAXI LATINO" tvg-logo="https://www.naxi.rs/media/9c4efc-latino.png" group-title="Radio" tvg-shift="+1",NAXI LATINO
 https://naxidigital-latino128ssl.streaming.rs:8232
-#EXTINF:-1 tvg-id="" tvg-name="NAXI LOUNGE RADIO" tvg-logo="https://www.naxi.rs/media/7ce1a9-lounge.png" group-title="Radio" tvg-shift="+1",NAXI LOUNGE RADIO
+#EXTINF:-1 tvg-name="NAXI LOUNGE RADIO" tvg-logo="https://www.naxi.rs/media/7ce1a9-lounge.png" group-title="Radio" tvg-shift="+1",NAXI LOUNGE RADIO
 https://naxidigital-lounge128ssl.streaming.rs:8252
-#EXTINF:-1 tvg-id="" tvg-name="NAXI LOVE RADIO" tvg-logo="https://www.naxi.rs/media/14def3-love.png" group-title="Radio" tvg-shift="+1",NAXI LOVE RADIO
+#EXTINF:-1 tvg-name="NAXI LOVE RADIO" tvg-logo="https://www.naxi.rs/media/14def3-love.png" group-title="Radio" tvg-shift="+1",NAXI LOVE RADIO
 https://naxidigital-love128ssl.streaming.rs:8102
-#EXTINF:-1 tvg-id="" tvg-name="NAXI MILENNIUM RADIO" tvg-logo="https://www.naxi.rs/media/3f722b-milennium.png" group-title="Radio" tvg-shift="+1",NAXI MILENNIUM RADIO
+#EXTINF:-1 tvg-name="NAXI MILENNIUM RADIO" tvg-logo="https://www.naxi.rs/media/3f722b-milennium.png" group-title="Radio" tvg-shift="+1",NAXI MILENNIUM RADIO
 https://naxidigital-millennium128ssl.streaming.rs:8342
-#EXTINF:-1 tvg-id="" tvg-name="NAXI MIX RADIO" tvg-logo="https://www.naxi.rs/media/a088b1-mix.png" group-title="Radio" tvg-shift="+1",NAXI MIX RADIO
+#EXTINF:-1 tvg-name="NAXI MIX RADIO" tvg-logo="https://www.naxi.rs/media/a088b1-mix.png" group-title="Radio" tvg-shift="+1",NAXI MIX RADIO
 https://naxidigital-mix128ssl.streaming.rs:8222
-#EXTINF:-1 tvg-id="" tvg-name="NAXI R"N"B RADIO" tvg-logo="https://www.naxi.rs/media/75c1f7-rnb.png" group-title="Radio" tvg-shift="+1",NAXI R"N"B RADIO
+#EXTINF:-1 tvg-name="NAXI R"N"B RADIO" tvg-logo="https://www.naxi.rs/media/75c1f7-rnb.png" group-title="Radio" tvg-shift="+1",NAXI R"N"B RADIO
 https://naxidigital-rnb128ssl.streaming.rs:8122
-#EXTINF:-1 tvg-id="" tvg-name="NAXI RADIO" tvg-logo="https://www.naxi.rs/images/naxiLive.png" group-title="Radio" tvg-shift="+1",NAXI RADIO
+#EXTINF:-1 tvg-name="NAXI RADIO" tvg-logo="https://www.naxi.rs/images/naxiLive.png" group-title="Radio" tvg-shift="+1",NAXI RADIO
 https://naxi128ssl.streaming.rs:9152
-#EXTINF:-1 tvg-id="" tvg-name="NAXI ROCK RADIO" tvg-logo="https://www.naxi.rs/media/249df9-rock.png" group-title="Radio" tvg-shift="+1",NAXI ROCK RADIO
+#EXTINF:-1 tvg-name="NAXI ROCK RADIO" tvg-logo="https://www.naxi.rs/media/249df9-rock.png" group-title="Radio" tvg-shift="+1",NAXI ROCK RADIO
 https://naxidigital-rock128ssl.streaming.rs:8182
-#EXTINF:-1 tvg-id="" tvg-name="NAXI SLAGER RADIO" tvg-logo="https://www.naxi.rs/media/ec76fe-slager-logo-sajt.png" group-title="Radio" tvg-shift="+1",NAXI SLAGER RADIO
+#EXTINF:-1 tvg-name="NAXI SLAGER RADIO" tvg-logo="https://www.naxi.rs/media/ec76fe-slager-logo-sajt.png" group-title="Radio" tvg-shift="+1",NAXI SLAGER RADIO
 https://naxidigital-slager128ssl.streaming.rs:8372
-#EXTINF:-1 tvg-id="" tvg-name="NAXI XMAS RADIO" tvg-logo="https://www.naxi.rs/media/2070fa-xmas-logo.png" group-title="Radio" tvg-shift="+1",NAXI XMAS RADIO
+#EXTINF:-1 tvg-name="NAXI XMAS RADIO" tvg-logo="https://www.naxi.rs/media/2070fa-xmas-logo.png" group-title="Radio" tvg-shift="+1",NAXI XMAS RADIO
 https://naxidigital-xmas128.streaming.rs:8392
-#EXTINF:-1 tvg-id="" tvg-name="Play Radio BG" tvg-logo="https://www.playradio.rs/assets/images/play-navigation.png" group-title="Radio" tvg-shift="+1",Play Radio BG
+#EXTINF:-1 tvg-name="Play Radio BG" tvg-logo="https://www.playradio.rs/assets/images/play-navigation.png" group-title="Radio" tvg-shift="+1",Play Radio BG
 http://stream.playradio.rs:8001
-#EXTINF:-1 tvg-id="" tvg-name="Radio 8" tvg-logo="https://radio8.ba/img/radio8-logo-white.png" group-title="Radio" tvg-shift="+1",Radio 8
+#EXTINF:-1 tvg-name="Radio 8" tvg-logo="https://radio8.ba/img/radio8-logo-white.png" group-title="Radio" tvg-shift="+1",Radio 8
 https://radio8-bhcloud.radioca.st
-#EXTINF:-1 tvg-id="" tvg-name="Radio Antena (Sarajevo)" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/radio-antena-sarajevo.png" group-title="Radio" tvg-shift="+1",Radio Antena (Sarajevo)
+#EXTINF:-1 tvg-name="Radio Antena (Sarajevo)" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/radio-antena-sarajevo.png" group-title="Radio" tvg-shift="+1",Radio Antena (Sarajevo)
 http://195.201.112.14:9020
-#EXTINF:-1 tvg-id="" tvg-name="Radio Antena (Zagreb)" tvg-logo="https://www.antenazagreb.hr/wp-content/uploads/2018/03/ANTENA-LOGOTIP-2018-color-landscape-2.png" group-title="Radio" tvg-shift="+1",Radio Antena (Zagreb)
+#EXTINF:-1 tvg-name="Radio Antena (Zagreb)" tvg-logo="https://www.antenazagreb.hr/wp-content/uploads/2018/03/ANTENA-LOGOTIP-2018-color-landscape-2.png" group-title="Radio" tvg-shift="+1",Radio Antena (Zagreb)
 http://live.antenazagreb.8000
-#EXTINF:-1 tvg-id="" tvg-name="Radio BHT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_of_BHRT_%281998-%29.svg/2560px-Logo_of_BHRT_%281998-%29.svg.png" group-title="Radio" tvg-shift="+1",Radio BHT 1
+#EXTINF:-1 tvg-name="Radio BHT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_of_BHRT_%281998-%29.svg/2560px-Logo_of_BHRT_%281998-%29.svg.png" group-title="Radio" tvg-shift="+1",Radio BHT 1
 https://webtvstream.bhtelecom.ba/hls5/bh_radio1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio BN" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/bn.png" group-title="Radio" tvg-shift="+1",Radio BN
+#EXTINF:-1 tvg-name="Radio BN" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/bn.png" group-title="Radio" tvg-shift="+1",Radio BN
 http://stream.rtvbn.com:8522
-#EXTINF:-1 tvg-id="" tvg-name="Radio Dalmacija" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/1/17/Radio_Dalmacija_logo.svg/2560px-Radio_Dalmacija_logo.svg.png" group-title="Radio" tvg-shift="+1",Radio Dalmacija
+#EXTINF:-1 tvg-name="Radio Dalmacija" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/1/17/Radio_Dalmacija_logo.svg/2560px-Radio_Dalmacija_logo.svg.png" group-title="Radio" tvg-shift="+1",Radio Dalmacija
 http://shoutcast.pondi.8000
-#EXTINF:-1 tvg-id="" tvg-name="Radio Dobre Vibracije" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/radio-dobre-vibracije.png" group-title="Radio" tvg-shift="+1",Radio Dobre Vibracije
+#EXTINF:-1 tvg-name="Radio Dobre Vibracije" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/radio-dobre-vibracije.png" group-title="Radio" tvg-shift="+1",Radio Dobre Vibracije
 http://www.shoutcastunlimited.com:8892/stream
-#EXTINF:-1 tvg-id="" tvg-name="Radio HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" group-title="Radio" tvg-shift="+1",Radio HRT 1
+#EXTINF:-1 tvg-name="Radio HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" group-title="Radio" tvg-shift="+1",Radio HRT 1
 https://23543.live.streamtheworld.com:443
-#EXTINF:-1 tvg-id="" tvg-name="Radio HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" group-title="Radio" tvg-shift="+1",Radio HRT 2
+#EXTINF:-1 tvg-name="Radio HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" group-title="Radio" tvg-shift="+1",Radio HRT 2
 https://21223.live.streamtheworld.com
-#EXTINF:-1 tvg-id="" tvg-name="RADIO LATINO" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Strimovi/Latino1000px.png" group-title="Radio" tvg-shift="+1",RADIO LATINO
+#EXTINF:-1 tvg-name="RADIO LATINO" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Strimovi/Latino1000px.png" group-title="Radio" tvg-shift="+1",RADIO LATINO
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_latino/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO M" tvg-logo="https://radiom.ba/wp-content/uploads/2021/10/radiom-icon.png" group-title="Radio" tvg-shift="+1",RADIO M
+#EXTINF:-1 tvg-name="RADIO M" tvg-logo="https://radiom.ba/wp-content/uploads/2021/10/radiom-icon.png" group-title="Radio" tvg-shift="+1",RADIO M
 https://team-data.ba:9030
-#EXTINF:-1 tvg-id="" tvg-name="RADIO M CAFFE" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-04.png" group-title="Radio" tvg-shift="+1",RADIO M CAFFE
+#EXTINF:-1 tvg-name="RADIO M CAFFE" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-04.png" group-title="Radio" tvg-shift="+1",RADIO M CAFFE
 https://team-data.ba:9032
-#EXTINF:-1 tvg-id="" tvg-name="RADIO M EVERGREEN" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-02.png" group-title="Radio" tvg-shift="+1",RADIO M EVERGREEN
+#EXTINF:-1 tvg-name="RADIO M EVERGREEN" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-02.png" group-title="Radio" tvg-shift="+1",RADIO M EVERGREEN
 https://team-data.ba:9038
-#EXTINF:-1 tvg-id="" tvg-name="RADIO M EXYU" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-03.png" group-title="Radio" tvg-shift="+1",RADIO M EXYU
+#EXTINF:-1 tvg-name="RADIO M EXYU" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-03.png" group-title="Radio" tvg-shift="+1",RADIO M EXYU
 https://team-data.ba:9034
-#EXTINF:-1 tvg-id="" tvg-name="RADIO M GYM" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-01.png" group-title="Radio" tvg-shift="+1",RADIO M GYM
+#EXTINF:-1 tvg-name="RADIO M GYM" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-01.png" group-title="Radio" tvg-shift="+1",RADIO M GYM
 https://team-data.ba:9040
-#EXTINF:-1 tvg-id="" tvg-name="RADIO M LOVE MUSIC" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-07.png" group-title="Radio" tvg-shift="+1",RADIO M LOVE MUSIC
+#EXTINF:-1 tvg-name="RADIO M LOVE MUSIC" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-07.png" group-title="Radio" tvg-shift="+1",RADIO M LOVE MUSIC
 https://team-data.ba:9042
-#EXTINF:-1 tvg-id="" tvg-name="RADIO M NARODNA" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-05.png" group-title="Radio" tvg-shift="+1",RADIO M NARODNA
+#EXTINF:-1 tvg-name="RADIO M NARODNA" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-05.png" group-title="Radio" tvg-shift="+1",RADIO M NARODNA
 https://team-data.ba:9036
-#EXTINF:-1 tvg-id="" tvg-name="RADIO M PLUS" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-06.png" group-title="Radio" tvg-shift="+1",RADIO M PLUS
+#EXTINF:-1 tvg-name="RADIO M PLUS" tvg-logo="https://radiom.ba/wp-content/uploads/2021/05/Logotipi_Radio-06.png" group-title="Radio" tvg-shift="+1",RADIO M PLUS
 https://team-data.ba:10000
-#EXTINF:-1 tvg-id="" tvg-name="Radio Narodni" tvg-logo="https://narodni.ba/wp-content/uploads/2020/07/logos.png" group-title="Radio" tvg-shift="+1",Radio Narodni
+#EXTINF:-1 tvg-name="Radio Narodni" tvg-logo="https://narodni.ba/wp-content/uploads/2020/07/logos.png" group-title="Radio" tvg-shift="+1",Radio Narodni
 https://server1.tnt.ba/proxy/narodnisa?mp=
-#EXTINF:-1 tvg-id="" tvg-name="Radio NES" tvg-logo="https://www.nesradio.com/slika/os/Nes_logo_naslovna.png" group-title="Radio" tvg-shift="+1",Radio NES
+#EXTINF:-1 tvg-name="Radio NES" tvg-logo="https://www.nesradio.com/slika/os/Nes_logo_naslovna.png" group-title="Radio" tvg-shift="+1",Radio NES
 http://188.40.62.20:8070
-#EXTINF:-1 tvg-id="" tvg-name="Radio Običan" tvg-logo="http://logo.radiostanice.org/obican_logo.png" group-title="Radio" tvg-shift="+1",Radio Običan
+#EXTINF:-1 tvg-name="Radio Običan" tvg-logo="http://logo.radiostanice.org/obican_logo.png" group-title="Radio" tvg-shift="+1",Radio Običan
 http://ca4.rcast.net:8010
-#EXTINF:-1 tvg-id="" tvg-name="Radio Otvoreni" tvg-logo="https://seeklogo.com/images/O/otvoreni-radio-logo-E3643A4AA5-seeklogo.com.png" group-title="Radio" tvg-shift="+1",Radio Otvoreni
+#EXTINF:-1 tvg-name="Radio Otvoreni" tvg-logo="https://seeklogo.com/images/O/otvoreni-radio-logo-E3643A4AA5-seeklogo.com.png" group-title="Radio" tvg-shift="+1",Radio Otvoreni
 https://stream.otvoreni.hr
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S 2000-e" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Strimovi/2000e1000px.png" group-title="Radio" tvg-shift="+1",RADIO S 2000-e
+#EXTINF:-1 tvg-name="RADIO S 2000-e" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Strimovi/2000e1000px.png" group-title="Radio" tvg-shift="+1",RADIO S 2000-e
 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_2000-e/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S 80e" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/500px.png" group-title="Radio" tvg-shift="+1",RADIO S 80e
+#EXTINF:-1 tvg-name="RADIO S 80e" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/500px.png" group-title="Radio" tvg-shift="+1",RADIO S 80e
 https://5bc45691ca49f.streamlock.net/asmedia/radio_s_80te/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S CAFE" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Cafe-500px.png" group-title="Radio" tvg-shift="+1",RADIO S CAFE
+#EXTINF:-1 tvg-name="RADIO S CAFE" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Cafe-500px.png" group-title="Radio" tvg-shift="+1",RADIO S CAFE
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_cafe/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S DANCE" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Dance-500px.png" group-title="Radio" tvg-shift="+1",RADIO S DANCE
+#EXTINF:-1 tvg-name="RADIO S DANCE" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Dance-500px.png" group-title="Radio" tvg-shift="+1",RADIO S DANCE
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_energy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S EASY" tvg-logo="https://www.radios.rs/media/radio/Easy.png" group-title="Radio" tvg-shift="+1",RADIO S EASY
+#EXTINF:-1 tvg-name="RADIO S EASY" tvg-logo="https://www.radios.rs/media/radio/Easy.png" group-title="Radio" tvg-shift="+1",RADIO S EASY
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_easy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S EXYU" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Ex-Yu-Rock-350x350px.png" group-title="Radio" tvg-shift="+1",RADIO S EXYU
+#EXTINF:-1 tvg-name="RADIO S EXYU" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Ex-Yu-Rock-350x350px.png" group-title="Radio" tvg-shift="+1",RADIO S EXYU
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_ex_yu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S FOLK STARS" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Folk-Stars-500px.png" group-title="Radio" tvg-shift="+1",RADIO S FOLK STARS
+#EXTINF:-1 tvg-name="RADIO S FOLK STARS" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Folk-Stars-500px.png" group-title="Radio" tvg-shift="+1",RADIO S FOLK STARS
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_lounge/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S GOLD" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Gold-350x350px.png" group-title="Radio" tvg-shift="+1",RADIO S GOLD
+#EXTINF:-1 tvg-name="RADIO S GOLD" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Gold-350x350px.png" group-title="Radio" tvg-shift="+1",RADIO S GOLD
 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_golds_60_70/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S JUZNI" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Juzni-500px.png" group-title="Radio" tvg-shift="+1",RADIO S JUZNI
+#EXTINF:-1 tvg-name="RADIO S JUZNI" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Juzni-500px.png" group-title="Radio" tvg-shift="+1",RADIO S JUZNI
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_juzni/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S MIX" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Mix500px.png" group-title="Radio" tvg-shift="+1",RADIO S MIX
+#EXTINF:-1 tvg-name="RADIO S MIX" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Mix500px.png" group-title="Radio" tvg-shift="+1",RADIO S MIX
 https://5bc45691ca49f.streamlock.net/asmedia/radio_s_mix/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S NARODNA" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Narodni-500px.png" group-title="Radio" tvg-shift="+1",RADIO S NARODNA
+#EXTINF:-1 tvg-name="RADIO S NARODNA" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Narodni-500px.png" group-title="Radio" tvg-shift="+1",RADIO S NARODNA
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_kafana/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S POP FOLK" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Folk500px.png" group-title="Radio" tvg-shift="+1",RADIO S POP FOLK
+#EXTINF:-1 tvg-name="RADIO S POP FOLK" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Folk500px.png" group-title="Radio" tvg-shift="+1",RADIO S POP FOLK
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_pop_folk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S POP&ROCK" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Pop-and-Rock-350x350px.png" group-title="Radio" tvg-shift="+1",RADIO S POP&ROCK
+#EXTINF:-1 tvg-name="RADIO S POP&ROCK" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Pop-and-Rock-350x350px.png" group-title="Radio" tvg-shift="+1",RADIO S POP&ROCK
 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_pop_80_90/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S ROCK" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Rock-500px.png" group-title="Radio" tvg-shift="+1",RADIO S ROCK
+#EXTINF:-1 tvg-name="RADIO S ROCK" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Rock-500px.png" group-title="Radio" tvg-shift="+1",RADIO S ROCK
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_rock/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S TRAP&RAP" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-TrapRap-500px.png" group-title="Radio" tvg-shift="+1",RADIO S TRAP&RAP
+#EXTINF:-1 tvg-name="RADIO S TRAP&RAP" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-TrapRap-500px.png" group-title="Radio" tvg-shift="+1",RADIO S TRAP&RAP
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_mchits/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S XTRA" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Xtra-350x350px.png" group-title="Radio" tvg-shift="+1",RADIO S XTRA
+#EXTINF:-1 tvg-name="RADIO S XTRA" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Xtra-350x350px.png" group-title="Radio" tvg-shift="+1",RADIO S XTRA
 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_love/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio S1" tvg-logo="https://www.radios.rs/media/number/Asset%201120.png" group-title="Radio" tvg-shift="+1",Radio S1
+#EXTINF:-1 tvg-name="Radio S1" tvg-logo="https://www.radios.rs/media/number/Asset%201120.png" group-title="Radio" tvg-shift="+1",Radio S1
 https://5bc45691ca49f.streamlock.net/asmedia/radios/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio S1 BIH" tvg-logo="https://www.radios.rs/media/number/Asset%201120.png" group-title="Radio" tvg-shift="+1",Radio S1 BIH
+#EXTINF:-1 tvg-name="Radio S1 BIH" tvg-logo="https://www.radios.rs/media/number/Asset%201120.png" group-title="Radio" tvg-shift="+1",Radio S1 BIH
 https://53a7ed211fc32.streamlock.net/asmedia/radios1-bih/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio S1 Montenegro" tvg-logo="https://www.radios.rs/media/number/Asset%201120.png" group-title="Radio" tvg-shift="+1",Radio S1 Montenegro
+#EXTINF:-1 tvg-name="Radio S1 Montenegro" tvg-logo="https://www.radios.rs/media/number/Asset%201120.png" group-title="Radio" tvg-shift="+1",Radio S1 Montenegro
 https://53be5ef2d13aa.streamlock.net/asmedia/radios1-cg/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio S2" tvg-logo="https://www.radios.rs/media/number/Asset%202120.png" group-title="Radio" tvg-shift="+1",Radio S2
+#EXTINF:-1 tvg-name="Radio S2" tvg-logo="https://www.radios.rs/media/number/Asset%202120.png" group-title="Radio" tvg-shift="+1",Radio S2
 https://53a7ed211fc32.streamlock.net/asmedia/index/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio S2 TV" tvg-logo="https://www.radios.rs/images/radios/logo-170x100xbeli2.png" group-title="Radio" tvg-shift="+1",Radio S2 TV
+#EXTINF:-1 tvg-name="Radio S2 TV" tvg-logo="https://www.radios.rs/images/radios/logo-170x100xbeli2.png" group-title="Radio" tvg-shift="+1",Radio S2 TV
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio S3" tvg-logo="https://www.radios.rs/media/number/Asset%203120.png" group-title="Radio" tvg-shift="+1",Radio S3
+#EXTINF:-1 tvg-name="Radio S3" tvg-logo="https://www.radios.rs/media/number/Asset%203120.png" group-title="Radio" tvg-shift="+1",Radio S3
 https://53a7ed211fc32.streamlock.net/asmedia/pingvin/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO S3 CG" tvg-logo="https://www.radios.rs/media/number/Asset%203120.png" group-title="Radio" tvg-shift="+1",RADIO S3 CG
+#EXTINF:-1 tvg-name="RADIO S3 CG" tvg-logo="https://www.radios.rs/media/number/Asset%203120.png" group-title="Radio" tvg-shift="+1",RADIO S3 CG
 https://53be5ef2d13aa.streamlock.net/asmedia/radios3-cg%20/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio S4" tvg-logo="https://www.radios.rs/media/number/Asset%204120.png" group-title="Radio" tvg-shift="+1",Radio S4
+#EXTINF:-1 tvg-name="Radio S4" tvg-logo="https://www.radios.rs/media/number/Asset%204120.png" group-title="Radio" tvg-shift="+1",Radio S4
 https://53a7ed211fc32.streamlock.net/asmedia/gradski/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio SA" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/radio-sa.png" group-title="Radio" tvg-shift="+1",Radio SA
+#EXTINF:-1 tvg-name="Radio SA" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/radio-sa.png" group-title="Radio" tvg-shift="+1",Radio SA
 http://malla.softnet.si:8000
-#EXTINF:-1 tvg-id="" tvg-name="Radio Slovenia 1 - PRVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Radio_Slovenia_International.png" group-title="Radio" tvg-shift="+1",Radio Slovenia 1 - PRVI
+#EXTINF:-1 tvg-name="Radio Slovenia 1 - PRVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Radio_Slovenia_International.png" group-title="Radio" tvg-shift="+1",Radio Slovenia 1 - PRVI
 http://live3.infonetmedia.si:8000
-#EXTINF:-1 tvg-id="" tvg-name="Radio Stari Grad" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/radio-stari-grad.png" group-title="Radio" tvg-shift="+1",Radio Stari Grad
+#EXTINF:-1 tvg-name="Radio Stari Grad" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/radio-stari-grad.png" group-title="Radio" tvg-shift="+1",Radio Stari Grad
 http://stream.rsg.ba:9000
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ZAVICAJ" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Strimovi/Zavicaj1000px.png" group-title="Radio" tvg-shift="+1",RADIO ZAVICAJ
+#EXTINF:-1 tvg-name="RADIO ZAVICAJ" tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Strimovi/Zavicaj1000px.png" group-title="Radio" tvg-shift="+1",RADIO ZAVICAJ
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_zavicaj/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Zenica" tvg-logo="https://www.rtvze.ba/uzivo/images/artists/default.png" group-title="Radio" tvg-shift="+1",Radio Zenica
+#EXTINF:-1 tvg-name="Radio Zenica" tvg-logo="https://www.rtvze.ba/uzivo/images/artists/default.png" group-title="Radio" tvg-shift="+1",Radio Zenica
 http://stream.rtvze.ba:8000
-#EXTINF:-1 tvg-id="" tvg-name="Radio Zenit" tvg-logo="https://www.zenit.ba/logo/Zenit-logo-maskota.png" group-title="Radio" tvg-shift="+1",Radio Zenit
+#EXTINF:-1 tvg-name="Radio Zenit" tvg-logo="https://www.zenit.ba/logo/Zenit-logo-maskota.png" group-title="Radio" tvg-shift="+1",Radio Zenit
 http://5.189.168.133:8020

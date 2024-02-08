@@ -820,6 +820,8 @@ http://46.240.130.158/AMC/index.m3u8?token=test
 http://46.240.130.158/AXN/index.m3u8?token=test
 #EXTINF:-1 tvg-id="AXNSpin.hr" tvg-name="AXN Spin" tvg-logo="https://www.jagledam.com/logo/logoaxnspin.jpg" group-title="Filmski" tvg-shift="+1",AXN Spin
 http://myteve.online:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/70825
+#EXTINF:-1 tvg-id="CinemaTV.ba" tvg-name="Cinema TV" tvg-logo="https://www.jagledam.com/logo/logocinematv.jpg" group-title="Filmski" tvg-shift="+1",Cinema TV
+https://webtvstream.bhtelecom.ba/cinema_tv.m3u8
 #EXTINF:-1 tvg-id="Cinemania.rs" tvg-name="Cinemania" tvg-logo="https://www.jagledam.com/logo/logocinemania.jpg" group-title="Filmski" tvg-shift="+1",Cinemania
 http://myteve.online:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/59873.m3u8
 #EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="Cinemax" tvg-logo="https://www.jagledam.com/logo/logocinemax.jpg" group-title="Filmski" tvg-shift="+1",Cinemax

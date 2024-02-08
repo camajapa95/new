@@ -12,7 +12,7 @@ https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 tvg-id="BN2.rs" tvg-name="BN 2" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",BN 2
 http://myteve.online:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/265789
 #EXTINF:-1 tvg-id="BN.ba" tvg-name="BN BIH" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",BN BIH
-https://rtvbn.tv:8080/index.m3u8
+https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-name="City TV Mostar" tvg-logo="https://www.jagledam.com/logo/logocitytvbih.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",City TV Mostar
 http://185.65.107.1:4445/CITYTV/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Dobra TV" tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Dobra TV

@@ -34,7 +34,7 @@ http://195.222.53.136:8080/hayat-plus/index.m3u8
 #EXTINF:-1 tvg-id="HayatTV.hr" tvg-name="Hayat TV" tvg-logo="https://www.jagledam.com/logo/logohayat.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Hayat TV
 http://195.222.53.136:8080/hayat/index.m3u8
 #EXTINF:-1 tvg-name="Hema TV" tvg-logo="https://www.jagledam.com/logo/logohema.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Hema TV
-http://185.65.107.1:4445/HEMA/index.m3u8?token=test
+http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/14491
 #EXTINF:-1 tvg-name="Herceg TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Herceg_TV_BA_logo.png" group-title="Bosna i Hercegovina" tvg-shift="+1",Herceg TV
 http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/7145
 #EXTINF:-1 tvg-name="Kanal 6 HD" tvg-logo="https://www.jagledam.com/logo/logokanal6.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Kanal 6 HD
@@ -60,7 +60,7 @@ http://185.65.107.1:4445/OBN/index.m3u8?token=test
 #EXTINF:-1 tvg-name="OSM TV" tvg-logo="https://www.jagledam.com/logo/logoosm.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTVIS (OSM TV)
 http://185.65.107.1:4445/OSM/index.m3u8?token=test
 #EXTINF:-1 tvg-id="OTVValentino.ba" tvg-name="OTV Valentino" tvg-logo="https://www.jagledam.com/logo/logootvv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",OTV Valentino
-http://185.65.107.1:4445/OTVValentino/index.m3u8?token=test
+http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6899
 #EXTINF:-1 tvg-name="Pink BH" tvg-logo="https://www.jagledam.com/logo/logopinkbh.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Pink BH
 http://myteve.online:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3416
 #EXTINF:-1 tvg-name="Posavska TV" tvg-logo="https://www.jagledam.com/logo/logoposavskatv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Posavska TV
@@ -73,8 +73,6 @@ https://uzivo.rtrs.tv/tv/live/index.m3u8
 https://pluslive.rtrs.tv/plus/plus/index.m3u8
 #EXTINF:-1 tvg-name="RTV 7 Tuzla" tvg-logo="https://www.jagledam.com/logo/logotv7tuzla.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV 7 Tuzla
 http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/100
-#EXTINF:-1 tvg-name="RTV BPK" tvg-logo="" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV BPK
-http://94.250.2.6:7374/play/a02u
 #EXTINF:-1 tvg-name="RTV Cazin" tvg-logo="https://www.jagledam.com/logo/logortvcazin.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV Cazin
 http://myteve.online:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/267612
 #EXTINF:-1 tvg-name="RTV HB" tvg-logo="https://www.jagledam.com/logo/logortvhb.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",RTV HB
@@ -102,7 +100,7 @@ http://31.47.0.130:8082
 #EXTINF:-1 tvg-name="Smart TV" tvg-logo="https://www.jagledam.com/logo/logosmarttvtesanj.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Smart TV
 https://webtvstream.bhtelecom.ba/smart_tv.m3u8
 #EXTINF:-1 tvg-name="Tatabrada TV" tvg-logo="https://www.jagledam.com/logo/logotatabradatv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Tatabrada TV
-https://webtvstream.bhtelecom.ba/tatabrada_tv.m3u8
+http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6898
 #EXTINF:-1 tvg-name="Televizija Banovici" tvg-logo="https://www.jagledam.com/logo/logotvbanovici.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Televizija Banovici
 http://cdn.livestream.com/embed/banovicitv?autoPlay=true&mute=false&height=475&width=715
 #EXTINF:-1 tvg-id="K3.ba" tvg-name="TV K3" tvg-logo="https://www.jagledam.com/logo/logok3.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",TV K3

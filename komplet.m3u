@@ -840,7 +840,7 @@ http://myteve.online:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/192637.m3u8
 http://185.65.107.1:4445/CinestarTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="CineStarTV2.sr" tvg-name="Cinestar TV 2" tvg-logo="https://www.jagledam.com/logo/logocinestar.jpg" group-title="Filmski" tvg-shift="+1",Cinestar TV 2
 http://185.65.107.1:4445/CinestarTV2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Diva.hr" tvg-name="Diva" tvg-logo="null" group-title="Filmski" tvg-shift="+1",Diva
+#EXTINF:-1 tvg-id="Diva.hr" tvg-name="Diva" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diva_global.png" group-title="Filmski" tvg-shift="+1",Diva
 http://46.240.130.158/Diva/index.m3u8?token=test
 #EXTINF:-1 tvg-id="EpicDrama.ro" tvg-name="Epic Drama" tvg-logo="https://www.jagledam.com/logo/logoepicdrama.jpg" group-title="Filmski" tvg-shift="+1",Epic Drama
 http://185.6.22.6:8000/play/a03f

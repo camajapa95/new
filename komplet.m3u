@@ -23,8 +23,6 @@ http://myteve.online:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/267611
 http://myteve.online:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/192034
 #EXTINF:-1 tvg-id="FaceTV.ba" tvg-name="Face TV" tvg-logo="https://www.jagledam.com/logo/logoface.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Face TV
 http://195.222.53.136:8080/face/index.m3u8
-#EXTINF:-1 tvg-id="FederalnaTV.ba" tvg-name="Federalna HD" tvg-logo="https://www.jagledam.com/logo/logoftv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Federalna HD
-http://freetesttv.homeip.net:24621/sabaheta/sabaheta/145
 #EXTINF:-1 tvg-id="FederalnaTV.si" tvg-name="Federalna TV" tvg-logo="https://www.jagledam.com/logo/logoftv.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Federalna TV
 http://195.222.53.136:8080/ftv/index.m3u8
 #EXTINF:-1 tvg-name="Glas Drine" tvg-logo="https://www.jagledam.com/logo/logoglasdrine.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Glas Drine

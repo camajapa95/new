@@ -16,7 +16,7 @@ https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-name="City TV Mostar" tvg-logo="https://www.jagledam.com/logo/logocitytvbih.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",City TV Mostar
 http://185.65.107.1:4445/CITYTV/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Dobra TV" tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Dobra TV
-http://myteve.online:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/197589
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/197589
 #EXTINF:-1 tvg-name="Elta 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/22a675ff78c1f390c5b2d68944b13186.png" group-title="Bosna i Hercegovina" tvg-shift="+1",Elta 2
 http://myteve.online:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/267611
 #EXTINF:-1 tvg-id="Elta1.ba" tvg-name="Elta HD" tvg-logo="https://www.jagledam.com/logo/logoelta.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",Elta HD

@@ -10,7 +10,7 @@ http://wowza.bihnet.net:88/hls/b1-live.m3u8
 #EXTINF:-1 tvg-id="BHT1.rs" tvg-name="BHT 1" tvg-logo="https://www.jagledam.com/logo/logobht.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",BHT 1
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 tvg-id="BN2.rs" tvg-name="BN 2" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",BN 2
-http://myteve.online:8080/live/Dooby/VuKbLSZxPA5Y4ywHQWr39p/265789.m3u8
+http://myteve.online:8080/live/Dooby/VuKbLSZxPA5Y4ywHQWr39p/265789.ts
 #EXTINF:-1 tvg-id="BN.ba" tvg-name="BN BIH" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",BN BIH
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-name="City TV Mostar" tvg-logo="https://www.jagledam.com/logo/logocitytvbih.jpg" group-title="Bosna i Hercegovina" tvg-shift="+1",City TV Mostar
